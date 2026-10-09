@@ -38,6 +38,16 @@ class QuizChecks(unittest.TestCase):
         self.assertEqual(response.status_code, 200)
         self.assertEqual(response.get_json(), {"status": "ok"})
 
+    def test_training_checks(self):
+        url = f"/api/tests/{self.key}/check"
+        for choice in "ABCD":
+            result = self.client.post(url, json={"question_id": 1, "answer": choice})
+            self.assertEqual(result.status_code, 200)
+            self.assertEqual(result.get_json(), {"correct": choice == "A"})
+        for payload in ({}, {"question_id": True, "answer": "A"}, {"question_id": 1, "answer": []}):
+            self.assertEqual(self.client.post(url, json=payload).status_code, 400)
+        self.assertEqual(self.client.post(url, json={"question_id": 999, "answer": "A"}).status_code, 404)
+
     def test_answer_key_and_security_headers(self):
         response = self.client.get(f"/api/tests/{self.key}")
         for question in response.get_json()["questions"]:
