@@ -1,0 +1,11 @@
+*
+!requirements.txt
+!app.py
+!quiz.py
+!gunicorn.conf.py
+!data/
+!data/*.json
+!templates/
+!templates/**
+!static/
+!static/**

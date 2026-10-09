@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="uz-Cyrl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Машқ — тестлар</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="/static/app.js" defer></script>
+</head>
+<body>
+  <header class="brand">Мактаб тестлари</header>
+  <main>
+    <section id="catalog">
+      <h1>Тестлар</h1>
+      <p class="catalog-intro">Мавзуни танла. Билимингни сина.</p>
+      <div id="test-list"></div>
+    </section>
+    <section id="quiz" hidden>
+      <div class="quiz-top"><span id="quiz-title"></span><span id="timer" role="timer"></span></div>
+      <div class="progress" role="progressbar" aria-label="Тест жараёни" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><div id="progress-fill"></div></div>
+      <p id="counter" class="muted"></p>
+      <h1 id="question-text" tabindex="-1"></h1>
+      <fieldset id="options"><legend class="sr-only">Жавобни танланг</legend></fieldset>
+      <p id="quiz-message" class="message" role="status"></p>
+      <div class="actions"><button id="exit" class="secondary">Тестдан чиқиш</button><button id="next" class="primary">Кейинги савол</button></div>
+    </section>
+    <section id="result" hidden>
+      <h1>Натижа</h1>
+      <strong id="percent" class="score"></strong>
+      <p id="score-line" class="muted"></p>
+      <div class="result-stats"><span>Тўғри: <b id="correct-count"></b></span><span>Хато: <b id="wrong-count"></b></span><span>Жавобсиз: <b id="skipped-count"></b></span></div>
+      <div class="actions"><button id="home" class="secondary">Тестлар рўйхатига</button><button id="retry" class="primary">Қайта ишлаш</button></div>
+      <details class="review"><summary>Жавоблар таҳлили</summary><div id="review-list"></div></details>
+    </section>
+    <p id="global-message" class="message" role="status"></p>
+  </main>
+  <dialog id="app-modal" aria-labelledby="modal-title" aria-describedby="modal-description">
+    <h2 id="modal-title">Тестдан чиқасизми?</h2>
+    <p id="modal-description">Жорий жавоблар йўқолади. Вақт ҳисобланишда давом этмоқда.</p>
+    <div class="actions"><button id="modal-cancel" class="secondary" autofocus>Давом этиш</button><button id="modal-confirm" class="primary">Чиқиш</button></div>
+  </dialog>
+</body>
+</html>
