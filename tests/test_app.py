@@ -17,9 +17,9 @@ class QuizChecks(unittest.TestCase):
 
     def test_grading_and_skips(self):
         answers = {str(q["id"]): q["correct_answer"] for q in self.test["questions"]}
-        self.assertEqual(grade(self.test, answers)["score"], 51)
+        self.assertEqual(grade(self.test, answers)["score"], len(self.test["questions"]))
         answers.pop("1")
-        self.assertEqual(grade(self.test, answers)["score"], 50)
+        self.assertEqual(grade(self.test, answers)["score"], len(self.test["questions"]) - 1)
         self.assertEqual(grade(self.test, {})["score"], 0)
 
     def test_invalid_payloads(self):
@@ -42,11 +42,61 @@ class QuizChecks(unittest.TestCase):
         url = f"/api/tests/{self.key}/check"
         for choice in "ABCD":
             result = self.client.post(url, json={"question_id": 1, "answer": choice})
-            self.assertEqual(result.status_code, 200)
-            self.assertEqual(result.get_json(), {"correct": choice == "A"})
+            if choice in self.test["questions"][0]["options"]:
+                self.assertEqual(result.status_code, 200)
+                self.assertEqual(result.get_json(), {"correct": choice == self.test["questions"][0]["correct_answer"]})
+            else:
+                self.assertEqual(result.status_code, 400)
         for payload in ({}, {"question_id": True, "answer": "A"}, {"question_id": 1, "answer": []}):
             self.assertEqual(self.client.post(url, json=payload).status_code, 400)
         self.assertEqual(self.client.post(url, json={"question_id": 999, "answer": "A"}).status_code, 404)
+
+    def test_pagination(self):
+        ids = []
+        offset = 0
+        while offset is not None:
+            page = self.client.get(f"/api/tests/{self.key}?offset={offset}").get_json()
+            self.assertLessEqual(len(page["questions"]), 20)
+            self.assertEqual(page["total"], len(self.test["questions"]))
+            ids.extend(q["id"] for q in page["questions"])
+            offset = page["next_offset"]
+        self.assertEqual(ids, [q["id"] for q in self.test["questions"]])
+        for query in ("offset=-1", "offset=bad", "limit=0", "limit=5000"):
+            self.assertEqual(self.client.get(f"/api/tests/{self.key}?{query}").status_code, 400)
+
+    def test_real_conversion(self):
+        real = [test for test in TESTS.values() if test.get("source_file", "").endswith(".docx")]
+        self.assertEqual(len(real), 13)
+        self.assertEqual(sum(len(test["questions"]) for test in real), 4680)
+
+    def test_all_subjects_pages_and_results(self):
+        for key, test in TESTS.items():
+            with self.subTest(subject=key):
+                ids = []
+                for offset in range(0, len(test["questions"]), 50):
+                    response = self.client.get(f"/api/tests/{key}?offset={offset}&limit=50")
+                    self.assertEqual(response.status_code, 200)
+                    ids.extend(q["id"] for q in response.get_json()["questions"])
+                self.assertEqual(ids, [q["id"] for q in test["questions"]])
+                answers = {str(q["id"]): q["correct_answer"] for q in test["questions"]}
+                result = self.client.post(f"/api/tests/{key}/submit", json={"answers": answers})
+                self.assertEqual(result.status_code, 200)
+                self.assertEqual(result.get_json()["percent"], 100)
+
+    def test_missing_option_rejected(self):
+        for key, test in TESTS.items():
+            for question in test["questions"]:
+                for option in set("ABCD") - set(question["options"]):
+                    response = self.client.post(f"/api/tests/{key}/submit", json={"answers": {str(question["id"]): option}})
+                    self.assertEqual(response.status_code, 400)
+
+    def test_malformed_source_types(self):
+        for data in ([], {"title": "Test", "questions": [None]},
+                     {"title": "Test", "questions": [{"id": 1, "text": "Question", "options": {"A": "Yes", "B": "No"}, "correct_answer": []}]}):
+            with tempfile.TemporaryDirectory(dir=Path(__file__).resolve().parent) as directory:
+                (Path(directory) / "test.json").write_text(json.dumps(data), encoding="utf-8")
+                with self.assertRaises(ValueError):
+                    load_quizzes(Path(directory))
 
     def test_answer_key_and_security_headers(self):
         response = self.client.get(f"/api/tests/{self.key}")

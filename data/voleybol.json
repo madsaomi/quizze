@@ -1,0 +1,4187 @@
+{
+  "title": "Voleybol",
+  "language": "uz-Latn",
+  "source_file": "Attestaciya jismoniy tarbiya.docx",
+  "questions": [
+    {
+      "id": 1,
+      "source_number": 1,
+      "source_paragraph": 12677,
+      "text": "Voleybol qoidalari va o'qitish metodikasiga ko'ra, Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari - bu 1925-yil yanvarda Moskvada deb hisoblanadimi?",
+      "options": {
+        "A": "Ha, bu tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 2,
+      "source_number": 2,
+      "source_paragraph": 12679,
+      "text": "Voleybol qoidalari va o'qitish metodikasiga ko'ra, Sariq kartochka qanday jazoni anglatadi - bu Tanbeh (Raqib jamoaga 1 ochko va to'p kiritish huquqi beriladi) deb hisoblanadimi?",
+      "options": {
+        "A": "Ha, bu tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 3,
+      "source_number": 3,
+      "source_paragraph": 12681,
+      "text": "Voleybol qoidalari va o'qitish metodikasiga ko'ra, To'p maydon yuzasidan qancha balandlikka tashlanib o'yinga kiritiladi - bu O'yinchi to'pni qoidaga mos istalgan balandlikka tashlashi mumkin deb hisoblanadimi?",
+      "options": {
+        "A": "Ha, bu tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 4,
+      "source_number": 4,
+      "source_paragraph": 12683,
+      "text": "Voleybol qoidalari va o'qitish metodikasiga ko'ra, Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni - bu 6 tagacha deb hisoblanadimi?",
+      "options": {
+        "A": "Ha, bu tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 5,
+      "source_number": 5,
+      "source_paragraph": 12685,
+      "text": "Voleybol qoidalari va o'qitish metodikasiga ko'ra, Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi - bu 2,43 m deb hisoblanadimi?",
+      "options": {
+        "A": "Ha, bu tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 6,
+      "source_number": 6,
+      "source_paragraph": 12687,
+      "text": "Voleybol qoidalari va o'qitish metodikasiga ko'ra, Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi - bu 2,24 m deb hisoblanadimi?",
+      "options": {
+        "A": "Ha, bu tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 7,
+      "source_number": 7,
+      "source_paragraph": 12689,
+      "text": "Voleybol qoidalari va o'qitish metodikasiga ko'ra, Libero o'yinchisining taktik vazifasi - bu Faqat orqa zonada, himoyada o'ynash deb hisoblanadimi?",
+      "options": {
+        "A": "Ha, bu tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 8,
+      "source_number": 8,
+      "source_paragraph": 12691,
+      "text": "Voleybol qoidalari va o'qitish metodikasiga ko'ra, Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr - bu 1992-yildan boshlab deb hisoblanadimi?",
+      "options": {
+        "A": "Ha, bu tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 9,
+      "source_number": 9,
+      "source_paragraph": 12693,
+      "text": "Voleybol qoidalari va o'qitish metodikasiga ko'ra, Texnik taym-autlar qachon beriladi (I-IV partiyalarda) - bu Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik deb hisoblanadimi?",
+      "options": {
+        "A": "Ha, bu tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 10,
+      "source_number": 10,
+      "source_paragraph": 12695,
+      "text": "Voleybol qoidalari va o'qitish metodikasiga ko'ra, Voleybol o'yini ixtirochisi - bu Uilyam J.Morgan deb hisoblanadimi?",
+      "options": {
+        "A": "Ha, bu tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 11,
+      "source_number": 11,
+      "source_paragraph": 12698,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Rasmiy musobaqalarda foydalaniladigan to'plar soni (bir o'yinda)     a) 5 ta to'p\n2) Texnik taym-autlar qachon beriladi (I-IV partiyalarda)     b) Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik\n3) Hujum texnikasining asosiy bo'limlari     c) To'p uzatish, to'p kiritish, hujum zarbasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 12,
+      "source_number": 12,
+      "source_paragraph": 12700,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) O'zbek voleybolchilari ishtirok etgan ilk xalqaro uchrashuv     a) 1935-yil, Toshkentda Afg'oniston jamoasiga qarshi\n2) Hujum texnikasining asosiy bo'limlari     b) To'p uzatish, to'p kiritish, hujum zarbasi\n3) Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi     c) 2,24 m",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 13,
+      "source_number": 13,
+      "source_paragraph": 12702,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi     a) Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi\n2) Voleybol to'pining rasmiy og'irligi va aylanasi     b) 260-280 gr, aylanasi 65-67 sm\n3) Voleybol ixtiro qilingan yil va joy     c) 1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 14,
+      "source_number": 14,
+      "source_paragraph": 12704,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol o'yini ixtirochisi     a) Uilyam J.Morgan\n2) To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi     b) 2, 3 va 4-zonalarda\n3) To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi     c) Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 15,
+      "source_number": 15,
+      "source_paragraph": 12706,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Libero o'yinchisining taktik vazifasi     a) Faqat orqa zonada, himoyada o'ynash\n2) Voleybol o'yini ixtirochisi     b) Uilyam J.Morgan\n3) Voleybol so'zining ma'nosi     c) Parvoz qiluvchi to'p",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 16,
+      "source_number": 16,
+      "source_paragraph": 12708,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari     a) 1925-yil yanvarda Moskvada\n2) Voleybol ixtiro qilingan yil va joy     b) 1895-yil, AQSH, Massachusets shtati, Xoliok shahri\n3) FIVBning birinchi prezidenti     c) Pol Libo",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 17,
+      "source_number": 17,
+      "source_paragraph": 12710,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Hal qiluvchi 5-partiya necha ochkogacha davom etadi     a) 15 ochkogacha (kamida 2 ochko ustunlik bilan)\n2) Voleybol so'zining ma'nosi     b) Parvoz qiluvchi to'p\n3) Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)     c) 14 kishi (shu jumladan liberolar)",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 18,
+      "source_number": 18,
+      "source_paragraph": 12712,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Taym-autning (tanaffusning) davomiyligi qancha     a) 30 soniya\n2) Sariq kartochka qanday jazoni anglatadi     b) Tanbeh (Raqib jamoaga 1 ochko va to'p kiritish huquqi beriladi)\n3) Voleybol ixtiro qilingan yil va joy     c) 1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 19,
+      "source_number": 19,
+      "source_paragraph": 12714,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Texnik taym-autlar qachon beriladi (I-IV partiyalarda)     a) Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik\n2) Rasmiy musobaqalarda foydalaniladigan to'plar soni (bir o'yinda)     b) 5 ta to'p\n3) Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi     c) 2,43 m",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 20,
+      "source_number": 20,
+      "source_paragraph": 12716,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak     a) 25 ochko (kamida 2 ochko ustunlik bilan)\n2) Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi     b) O'yinchini uchrashuv oxirigacha diskvalifikatsiya qilish\n3) Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)     c) 14 kishi (shu jumladan liberolar)",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 21,
+      "source_number": 21,
+      "source_paragraph": 12718,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Maydondagi chegaralovchi chiziqlarning kengligi     a) 5 sm\n2) Jamoa tarkibidagi Libero o'yinchilar soni normativi     b) 2 tagacha\n3) To'pni o'yinga kiritish uchun ajratiladigan vaqt (hakam hushtagidan so'ng)     c) 8 soniya",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 22,
+      "source_number": 22,
+      "source_paragraph": 12720,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Hujum zarbasini bajarish fazalari ketma-ketligi     a) Yugurib kelish, sakrash, to'pga zarba berish, qo'nish\n2) Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil     b) 1947-yil, Parij\n3) Voleybol nomini bergan shaxs va yil     c) Doktor Alfred Xalsted (1897-yil)",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 23,
+      "source_number": 23,
+      "source_paragraph": 12722,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) To'pni o'yinga kiritish uchun ajratiladigan vaqt (hakam hushtagidan so'ng)     a) 8 soniya\n2) To'p maydon yuzasidan qancha balandlikka tashlanib o'yinga kiritiladi     b) O'yinchi to'pni qoidaga mos istalgan balandlikka tashlashi mumkin\n3) To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi     c) 2, 3 va 4-zonalarda",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 24,
+      "source_number": 24,
+      "source_paragraph": 12724,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil     a) 1947-yil, Parij\n2) FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi     b) Kamida 12,5 metr bo'lishi shart\n3) Voleybol ixtiro qilingan yil va joy     c) 1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 25,
+      "source_number": 25,
+      "source_paragraph": 12726,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Antennaning diametri va uzunligi     a) 10 mm diametr, 1,8 m uzunlik\n2) Voleybol ixtiro qilingan yil va joy     b) 1895-yil, AQSH, Massachusets shtati, Xoliok shahri\n3) Partiyalar oralig'idagi standart tanaffus vaqti     c) 3 daqiqa",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 26,
+      "source_number": 26,
+      "source_paragraph": 12728,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)     a) 14 kishi (shu jumladan liberolar)\n2) Hujum texnikasining asosiy bo'limlari     b) To'p uzatish, to'p kiritish, hujum zarbasi\n3) O'zbekistonda voleybol ilk bor qachon paydo bo'ldi     c) 1921-24-yillarda Qo'qon, Toshkent va Farg'onada",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 27,
+      "source_number": 27,
+      "source_paragraph": 12730,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil     a) 1947-yil, Parij\n2) Hal qiluvchi partiyada maydon qachon almashtiriladi     b) Jamoalardan biri 8 ochko to'plagan zahoti\n3) To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi     c) 2, 3 va 4-zonalarda",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 28,
+      "source_number": 28,
+      "source_paragraph": 12732,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) O'yinda bitta jamoaning maydonda bevosita harakat qiluvchi o'yinchilari soni     a) 6 kishi\n2) Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi     b) Hujum zonasiga kirib, to'rning eng yuqori qismidan zarba berishi\n3) FIVBning birinchi prezidenti     c) Pol Libo",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 29,
+      "source_number": 29,
+      "source_paragraph": 12734,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak     a) 25 ochko (kamida 2 ochko ustunlik bilan)\n2) Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil     b) 1964-yil, Tokio\n3) To'p maydon yuzasidan qancha balandlikka tashlanib o'yinga kiritiladi     c) O'yinchi to'pni qoidaga mos istalgan balandlikka tashlashi mumkin",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 30,
+      "source_number": 30,
+      "source_paragraph": 12736,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil     a) 1947-yil, Parij\n2) Voleybol o'yini ixtirochisi     b) Uilyam J.Morgan\n3) Qizil kartochka qanday jazoni anglatadi     c) O'yinchini joriy partiya oxirigacha maydondan chetlatish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 31,
+      "source_number": 31,
+      "source_paragraph": 12738,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr     a) 1992-yildan boshlab\n2) FIVBning birinchi prezidenti     b) Pol Libo\n3) To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi     c) Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 32,
+      "source_number": 32,
+      "source_paragraph": 12740,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Partiyalar oralig'idagi standart tanaffus vaqti     a) 3 daqiqa\n2) Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil     b) 1964-yil, Tokio\n3) Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi     c) Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 33,
+      "source_number": 33,
+      "source_paragraph": 12742,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Sariq kartochka qanday jazoni anglatadi     a) Tanbeh (Raqib jamoaga 1 ochko va to'p kiritish huquqi beriladi)\n2) O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi     b) Soat mili yo'nalishi bo'ylab siljiydi\n3) Voleybol ixtiro qilingan yil va joy     c) 1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 34,
+      "source_number": 34,
+      "source_paragraph": 12744,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi     a) Hujum zonasiga kirib, to'rning eng yuqori qismidan zarba berishi\n2) To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi     b) Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi\n3) Libero o'yinchisining taktik vazifasi     c) Faqat orqa zonada, himoyada o'ynash",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 35,
+      "source_number": 35,
+      "source_paragraph": 12746,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Himoya texnikasining asosiy bo'limlari     a) To'pni qabul qilish, to'siq qo'yish\n2) Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil     b) 1947-yil, Parij\n3) Sariq kartochka qanday jazoni anglatadi     c) Tanbeh (Raqib jamoaga 1 ochko va to'p kiritish huquqi beriladi)",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 36,
+      "source_number": 36,
+      "source_paragraph": 12748,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Jamoa tarkibidagi Libero o'yinchilar soni normativi     a) 2 tagacha\n2) Partiyalar oralig'idagi standart tanaffus vaqti     b) 3 daqiqa\n3) Maydondagi chegaralovchi chiziqlarning kengligi     c) 5 sm",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 37,
+      "source_number": 37,
+      "source_paragraph": 12750,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) FIVBning birinchi prezidenti     a) Pol Libo\n2) Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi     b) O'yinchini uchrashuv oxirigacha diskvalifikatsiya qilish\n3) Voleybol nomini bergan shaxs va yil     c) Doktor Alfred Xalsted (1897-yil)",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 38,
+      "source_number": 38,
+      "source_paragraph": 12752,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari     a) 1925-yil yanvarda Moskvada\n2) Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil     b) 1947-yil, Parij\n3) Erkaklar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan     c) 1949-yil Praga shahrida",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 39,
+      "source_number": 39,
+      "source_paragraph": 12754,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Partiyalar oralig'idagi standart tanaffus vaqti     a) 3 daqiqa\n2) Voleybol nomini bergan shaxs va yil     b) Doktor Alfred Xalsted (1897-yil)\n3) Hujum texnikasining asosiy bo'limlari     c) To'p uzatish, to'p kiritish, hujum zarbasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 40,
+      "source_number": 40,
+      "source_paragraph": 12756,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol o'yini ixtirochisi     a) Uilyam J.Morgan\n2) Jamoa tarkibidagi Libero o'yinchilar soni normativi     b) 2 tagacha\n3) To'p kiritish zonasi maydonning qayerida joylashgan     c) Maydonning orqa chizig'i (9m) ortidagi bo'shliqda",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 41,
+      "source_number": 41,
+      "source_paragraph": 12758,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi     a) Kamida 12,5 metr bo'lishi shart\n2) Voleybol so'zining ma'nosi     b) Parvoz qiluvchi to'p\n3) Hujum zarbasini bajarish fazalari ketma-ketligi     c) Yugurib kelish, sakrash, to'pga zarba berish, qo'nish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 42,
+      "source_number": 42,
+      "source_paragraph": 12760,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Maydondagi chegaralovchi chiziqlarning kengligi     a) 5 sm\n2) Voleybol nomini bergan shaxs va yil     b) Doktor Alfred Xalsted (1897-yil)\n3) Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi     c) Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 43,
+      "source_number": 43,
+      "source_paragraph": 12762,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol so'zining ma'nosi     a) Parvoz qiluvchi to'p\n2) Jamoa tarkibidagi Libero o'yinchilar soni normativi     b) 2 tagacha\n3) Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil     c) 1947-yil, Parij",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 44,
+      "source_number": 44,
+      "source_paragraph": 12764,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Erkaklar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan     a) 1949-yil Praga shahrida\n2) Voleybol so'zining ma'nosi     b) Parvoz qiluvchi to'p\n3) Antennaning diametri va uzunligi     c) 10 mm diametr, 1,8 m uzunlik",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 45,
+      "source_number": 45,
+      "source_paragraph": 12766,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari     a) 1925-yil yanvarda Moskvada\n2) Antennaning diametri va uzunligi     b) 10 mm diametr, 1,8 m uzunlik\n3) FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi     c) Kamida 12,5 metr bo'lishi shart",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 46,
+      "source_number": 46,
+      "source_paragraph": 12768,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) FIVBning birinchi prezidenti     a) Pol Libo\n2) Hujum texnikasining asosiy bo'limlari     b) To'p uzatish, to'p kiritish, hujum zarbasi\n3) O'zbekistonda voleybol ilk bor qachon paydo bo'ldi     c) 1921-24-yillarda Qo'qon, Toshkent va Farg'onada",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 47,
+      "source_number": 47,
+      "source_paragraph": 12770,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Sariq kartochka qanday jazoni anglatadi     a) Tanbeh (Raqib jamoaga 1 ochko va to'p kiritish huquqi beriladi)\n2) O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi     b) Soat mili yo'nalishi bo'ylab siljiydi\n3) Texnik taym-autning davomiyligi     c) 60 soniya",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 48,
+      "source_number": 48,
+      "source_paragraph": 12772,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) To'p kiritish zonasi maydonning qayerida joylashgan     a) Maydonning orqa chizig'i (9m) ortidagi bo'shliqda\n2) Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi     b) 2,24 m\n3) Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi     c) 2,43 m",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 49,
+      "source_number": 49,
+      "source_paragraph": 12774,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Taym-autning (tanaffusning) davomiyligi qancha     a) 30 soniya\n2) Voleybol so'zining ma'nosi     b) Parvoz qiluvchi to'p\n3) Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil     c) 1964-yil, Tokio",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 50,
+      "source_number": 50,
+      "source_paragraph": 12776,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Texnik taym-autlar qachon beriladi (I-IV partiyalarda)     a) Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik\n2) Voleybol so'zining ma'nosi     b) Parvoz qiluvchi to'p\n3) Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi     c) 2,24 m",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 51,
+      "source_number": 51,
+      "source_paragraph": 12778,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol so'zining ma'nosi     a) Parvoz qiluvchi to'p\n2) Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)     b) 14 kishi (shu jumladan liberolar)\n3) To'p kiritish zonasi maydonning qayerida joylashgan     c) Maydonning orqa chizig'i (9m) ortidagi bo'shliqda",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 52,
+      "source_number": 52,
+      "source_paragraph": 12780,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol to'pining rasmiy og'irligi va aylanasi     a) 260-280 gr, aylanasi 65-67 sm\n2) Partiyalar oralig'idagi standart tanaffus vaqti     b) 3 daqiqa\n3) O'zbekistonda voleybol ilk bor qachon paydo bo'ldi     c) 1921-24-yillarda Qo'qon, Toshkent va Farg'onada",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 53,
+      "source_number": 53,
+      "source_paragraph": 12782,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)     a) 14 kishi (shu jumladan liberolar)\n2) O'zbekistonda voleybol ilk bor qachon paydo bo'ldi     b) 1921-24-yillarda Qo'qon, Toshkent va Farg'onada\n3) Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi     c) O'yinchini uchrashuv oxirigacha diskvalifikatsiya qilish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 54,
+      "source_number": 54,
+      "source_paragraph": 12784,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi     a) 2,24 m\n2) Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi     b) O'yinchini uchrashuv oxirigacha diskvalifikatsiya qilish\n3) Partiyalar oralig'idagi standart tanaffus vaqti     c) 3 daqiqa",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 55,
+      "source_number": 55,
+      "source_paragraph": 12786,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Antennaning diametri va uzunligi     a) 10 mm diametr, 1,8 m uzunlik\n2) Sariq kartochka qanday jazoni anglatadi     b) Tanbeh (Raqib jamoaga 1 ochko va to'p kiritish huquqi beriladi)\n3) Hujum zarbasini bajarish fazalari ketma-ketligi     c) Yugurib kelish, sakrash, to'pga zarba berish, qo'nish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 56,
+      "source_number": 56,
+      "source_paragraph": 12788,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Partiyalar oralig'idagi standart tanaffus vaqti     a) 3 daqiqa\n2) Qizil kartochka qanday jazoni anglatadi     b) O'yinchini joriy partiya oxirigacha maydondan chetlatish\n3) Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi     c) Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 57,
+      "source_number": 57,
+      "source_paragraph": 12790,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari     a) 1925-yil yanvarda Moskvada\n2) Erkaklar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan     b) 1949-yil Praga shahrida\n3) Rasmiy musobaqalarda foydalaniladigan to'plar soni (bir o'yinda)     c) 5 ta to'p",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 58,
+      "source_number": 58,
+      "source_paragraph": 12792,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari     a) 1925-yil yanvarda Moskvada\n2) Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil     b) 1964-yil, Tokio\n3) To'p maydon yuzasidan qancha balandlikka tashlanib o'yinga kiritiladi     c) O'yinchi to'pni qoidaga mos istalgan balandlikka tashlashi mumkin",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 59,
+      "source_number": 59,
+      "source_paragraph": 12794,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi     a) Kamida 12,5 metr bo'lishi shart\n2) Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi     b) Hujum zonasiga kirib, to'rning eng yuqori qismidan zarba berishi\n3) O'zbekistonda voleybol ilk bor qachon paydo bo'ldi     c) 1921-24-yillarda Qo'qon, Toshkent va Farg'onada",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 60,
+      "source_number": 60,
+      "source_paragraph": 12796,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil     a) 1947-yil, Parij\n2) Hal qiluvchi 5-partiya necha ochkogacha davom etadi     b) 15 ochkogacha (kamida 2 ochko ustunlik bilan)\n3) Jamoa tarkibidagi Libero o'yinchilar soni normativi     c) 2 tagacha",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 61,
+      "source_number": 61,
+      "source_paragraph": 12798,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)     a) 14 kishi (shu jumladan liberolar)\n2) Ayollar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan     b) 1952-yil Moskva shahrida\n3) Hujum zarbasini bajarish fazalari ketma-ketligi     c) Yugurib kelish, sakrash, to'pga zarba berish, qo'nish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 62,
+      "source_number": 62,
+      "source_paragraph": 12800,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Himoya texnikasining asosiy bo'limlari     a) To'pni qabul qilish, to'siq qo'yish\n2) Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari     b) 1925-yil yanvarda Moskvada\n3) 1920-yildan qat'iy joriy qilingan maydon o'lchami     c) 9x18 m",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 63,
+      "source_number": 63,
+      "source_paragraph": 12802,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi     a) 2,43 m\n2) FIVBning birinchi prezidenti     b) Pol Libo\n3) Partiyalar oralig'idagi standart tanaffus vaqti     c) 3 daqiqa",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 64,
+      "source_number": 64,
+      "source_paragraph": 12804,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)     a) 14 kishi (shu jumladan liberolar)\n2) Voleybol nomini bergan shaxs va yil     b) Doktor Alfred Xalsted (1897-yil)\n3) Voleybol ixtiro qilingan yil va joy     c) 1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 65,
+      "source_number": 65,
+      "source_paragraph": 12806,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) O'yinda bitta jamoaning maydonda bevosita harakat qiluvchi o'yinchilari soni     a) 6 kishi\n2) Texnik taym-autlar qachon beriladi (I-IV partiyalarda)     b) Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik\n3) Partiyalar oralig'idagi standart tanaffus vaqti     c) 3 daqiqa",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 66,
+      "source_number": 66,
+      "source_paragraph": 12808,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) 1897-yildagi maydon o'lchamlari     a) 7,6x15,1 m\n2) Partiyalar oralig'idagi standart tanaffus vaqti     b) 3 daqiqa\n3) To'p kiritish zonasi maydonning qayerida joylashgan     c) Maydonning orqa chizig'i (9m) ortidagi bo'shliqda",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 67,
+      "source_number": 67,
+      "source_paragraph": 12810,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) O'zbekistonda voleybol ilk bor qachon paydo bo'ldi     a) 1921-24-yillarda Qo'qon, Toshkent va Farg'onada\n2) Antennaning diametri va uzunligi     b) 10 mm diametr, 1,8 m uzunlik\n3) 1897-yildagi maydon o'lchamlari     c) 7,6x15,1 m",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 68,
+      "source_number": 68,
+      "source_paragraph": 12812,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) To'pni o'yinga kiritish uchun ajratiladigan vaqt (hakam hushtagidan so'ng)     a) 8 soniya\n2) Voleybol so'zining ma'nosi     b) Parvoz qiluvchi to'p\n3) FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi     c) Kamida 12,5 metr bo'lishi shart",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 69,
+      "source_number": 69,
+      "source_paragraph": 12814,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Taym-autning (tanaffusning) davomiyligi qancha     a) 30 soniya\n2) O'zbek voleybolchilari ishtirok etgan ilk xalqaro uchrashuv     b) 1935-yil, Toshkentda Afg'oniston jamoasiga qarshi\n3) Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi     c) 2,24 m",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 70,
+      "source_number": 70,
+      "source_paragraph": 12816,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak     a) 25 ochko (kamida 2 ochko ustunlik bilan)\n2) Himoya texnikasining asosiy bo'limlari     b) To'pni qabul qilish, to'siq qo'yish\n3) Texnik taym-autning davomiyligi     c) 60 soniya",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 71,
+      "source_number": 71,
+      "source_paragraph": 12818,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni     a) 6 tagacha\n2) O'zbek voleybolchilari ishtirok etgan ilk xalqaro uchrashuv     b) 1935-yil, Toshkentda Afg'oniston jamoasiga qarshi\n3) Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari     c) 1925-yil yanvarda Moskvada",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 72,
+      "source_number": 72,
+      "source_paragraph": 12820,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Maydondagi chegaralovchi chiziqlarning kengligi     a) 5 sm\n2) Voleybol so'zining ma'nosi     b) Parvoz qiluvchi to'p\n3) To'p kiritish zonasi maydonning qayerida joylashgan     c) Maydonning orqa chizig'i (9m) ortidagi bo'shliqda",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 73,
+      "source_number": 73,
+      "source_paragraph": 12822,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol ixtiro qilingan yil va joy     a) 1895-yil, AQSH, Massachusets shtati, Xoliok shahri\n2) Voleybol to'pining rasmiy og'irligi va aylanasi     b) 260-280 gr, aylanasi 65-67 sm\n3) To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi     c) Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 74,
+      "source_number": 74,
+      "source_paragraph": 12824,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Hujum zarbasini bajarish fazalari ketma-ketligi     a) Yugurib kelish, sakrash, to'pga zarba berish, qo'nish\n2) Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil     b) 1947-yil, Parij\n3) Partiyalar oralig'idagi standart tanaffus vaqti     c) 3 daqiqa",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 75,
+      "source_number": 75,
+      "source_paragraph": 12826,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol o'yini ixtirochisi     a) Uilyam J.Morgan\n2) FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi     b) Kamida 12,5 metr bo'lishi shart\n3) To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi     c) 2, 3 va 4-zonalarda",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 76,
+      "source_number": 76,
+      "source_paragraph": 12828,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi     a) Hujum zonasiga kirib, to'rning eng yuqori qismidan zarba berishi\n2) O'zbekistonda voleybol ilk bor qachon paydo bo'ldi     b) 1921-24-yillarda Qo'qon, Toshkent va Farg'onada\n3) Voleybol nomini bergan shaxs va yil     c) Doktor Alfred Xalsted (1897-yil)",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 77,
+      "source_number": 77,
+      "source_paragraph": 12830,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil     a) 1947-yil, Parij\n2) Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi     b) 2,43 m\n3) To'p kiritish zonasi maydonning qayerida joylashgan     c) Maydonning orqa chizig'i (9m) ortidagi bo'shliqda",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 78,
+      "source_number": 78,
+      "source_paragraph": 12832,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr     a) 1992-yildan boshlab\n2) Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil     b) 1947-yil, Parij\n3) Jamoa tarkibidagi Libero o'yinchilar soni normativi     c) 2 tagacha",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 79,
+      "source_number": 79,
+      "source_paragraph": 12834,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Ayollar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan     a) 1952-yil Moskva shahrida\n2) Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi     b) 2,24 m\n3) Hal qiluvchi partiyada maydon qachon almashtiriladi     c) Jamoalardan biri 8 ochko to'plagan zahoti",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 80,
+      "source_number": 80,
+      "source_paragraph": 12836,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Sariq kartochka qanday jazoni anglatadi     a) Tanbeh (Raqib jamoaga 1 ochko va to'p kiritish huquqi beriladi)\n2) Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni     b) 6 tagacha\n3) 1920-yildan qat'iy joriy qilingan maydon o'lchami     c) 9x18 m",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 81,
+      "source_number": 81,
+      "source_paragraph": 12838,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi     a) O'yinchini uchrashuv oxirigacha diskvalifikatsiya qilish\n2) Libero o'yinchisining taktik vazifasi     b) Faqat orqa zonada, himoyada o'ynash\n3) Hujum zarbasini bajarish fazalari ketma-ketligi     c) Yugurib kelish, sakrash, to'pga zarba berish, qo'nish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 82,
+      "source_number": 82,
+      "source_paragraph": 12840,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Himoya texnikasining asosiy bo'limlari     a) To'pni qabul qilish, to'siq qo'yish\n2) Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari     b) 1925-yil yanvarda Moskvada\n3) Erkaklar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan     c) 1949-yil Praga shahrida",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 83,
+      "source_number": 83,
+      "source_paragraph": 12842,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Texnik taym-autlar qachon beriladi (I-IV partiyalarda)     a) Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik\n2) Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr     b) 1992-yildan boshlab\n3) Jamoa tarkibidagi Libero o'yinchilar soni normativi     c) 2 tagacha",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 84,
+      "source_number": 84,
+      "source_paragraph": 12844,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi     a) 2, 3 va 4-zonalarda\n2) O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi     b) Soat mili yo'nalishi bo'ylab siljiydi\n3) To'p maydon yuzasidan qancha balandlikka tashlanib o'yinga kiritiladi     c) O'yinchi to'pni qoidaga mos istalgan balandlikka tashlashi mumkin",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 85,
+      "source_number": 85,
+      "source_paragraph": 12846,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari     a) 1925-yil yanvarda Moskvada\n2) Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil     b) 1947-yil, Parij\n3) Erkaklar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan     c) 1949-yil Praga shahrida",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 86,
+      "source_number": 86,
+      "source_paragraph": 12848,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol to'pining rasmiy og'irligi va aylanasi     a) 260-280 gr, aylanasi 65-67 sm\n2) Voleybol nomini bergan shaxs va yil     b) Doktor Alfred Xalsted (1897-yil)\n3) To'p maydon yuzasidan qancha balandlikka tashlanib o'yinga kiritiladi     c) O'yinchi to'pni qoidaga mos istalgan balandlikka tashlashi mumkin",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 87,
+      "source_number": 87,
+      "source_paragraph": 12850,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol o'yini ixtirochisi     a) Uilyam J.Morgan\n2) Maydondagi chegaralovchi chiziqlarning kengligi     b) 5 sm\n3) Voleybol ixtiro qilingan yil va joy     c) 1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 88,
+      "source_number": 88,
+      "source_paragraph": 12852,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil     a) 1964-yil, Tokio\n2) Hal qiluvchi partiyada maydon qachon almashtiriladi     b) Jamoalardan biri 8 ochko to'plagan zahoti\n3) To'p maydon yuzasidan qancha balandlikka tashlanib o'yinga kiritiladi     c) O'yinchi to'pni qoidaga mos istalgan balandlikka tashlashi mumkin",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 89,
+      "source_number": 89,
+      "source_paragraph": 12854,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Hal qiluvchi 5-partiya necha ochkogacha davom etadi     a) 15 ochkogacha (kamida 2 ochko ustunlik bilan)\n2) Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi     b) O'yinchini uchrashuv oxirigacha diskvalifikatsiya qilish\n3) Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak     c) 25 ochko (kamida 2 ochko ustunlik bilan)",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 90,
+      "source_number": 90,
+      "source_paragraph": 12856,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi     a) Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi\n2) Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni     b) 6 tagacha\n3) Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr     c) 1992-yildan boshlab",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 91,
+      "source_number": 91,
+      "source_paragraph": 12858,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil     a) 1947-yil, Parij\n2) Antennaning diametri va uzunligi     b) 10 mm diametr, 1,8 m uzunlik\n3) Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak     c) 25 ochko (kamida 2 ochko ustunlik bilan)",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 92,
+      "source_number": 92,
+      "source_paragraph": 12860,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi     a) 2, 3 va 4-zonalarda\n2) To'p kiritish zonasi maydonning qayerida joylashgan     b) Maydonning orqa chizig'i (9m) ortidagi bo'shliqda\n3) Rasmiy musobaqalarda foydalaniladigan to'plar soni (bir o'yinda)     c) 5 ta to'p",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 93,
+      "source_number": 93,
+      "source_paragraph": 12862,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr     a) 1992-yildan boshlab\n2) Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi     b) Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart\n3) Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi     c) Hujum zonasiga kirib, to'rning eng yuqori qismidan zarba berishi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 94,
+      "source_number": 94,
+      "source_paragraph": 12864,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi     a) Kamida 12,5 metr bo'lishi shart\n2) Partiyalar oralig'idagi standart tanaffus vaqti     b) 3 daqiqa\n3) Voleybol o'yini ixtirochisi     c) Uilyam J.Morgan",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 95,
+      "source_number": 95,
+      "source_paragraph": 12866,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol nomini bergan shaxs va yil     a) Doktor Alfred Xalsted (1897-yil)\n2) Voleybol ixtiro qilingan yil va joy     b) 1895-yil, AQSH, Massachusets shtati, Xoliok shahri\n3) Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi     c) Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 96,
+      "source_number": 96,
+      "source_paragraph": 12868,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol ixtiro qilingan yil va joy     a) 1895-yil, AQSH, Massachusets shtati, Xoliok shahri\n2) Partiyalar oralig'idagi standart tanaffus vaqti     b) 3 daqiqa\n3) Voleybol o'yini ixtirochisi     c) Uilyam J.Morgan",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 97,
+      "source_number": 97,
+      "source_paragraph": 12870,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi     a) Soat mili yo'nalishi bo'ylab siljiydi\n2) Texnik taym-autning davomiyligi     b) 60 soniya\n3) O'zbekistonda voleybol ilk bor qachon paydo bo'ldi     c) 1921-24-yillarda Qo'qon, Toshkent va Farg'onada",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 98,
+      "source_number": 98,
+      "source_paragraph": 12872,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol ixtiro qilingan yil va joy     a) 1895-yil, AQSH, Massachusets shtati, Xoliok shahri\n2) Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni     b) 6 tagacha\n3) Jamoa tarkibidagi Libero o'yinchilar soni normativi     c) 2 tagacha",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 99,
+      "source_number": 99,
+      "source_paragraph": 12874,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Qizil kartochka qanday jazoni anglatadi     a) O'yinchini joriy partiya oxirigacha maydondan chetlatish\n2) Voleybol ixtiro qilingan yil va joy     b) 1895-yil, AQSH, Massachusets shtati, Xoliok shahri\n3) O'zbek voleybolchilari ishtirok etgan ilk xalqaro uchrashuv     c) 1935-yil, Toshkentda Afg'oniston jamoasiga qarshi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 100,
+      "source_number": 100,
+      "source_paragraph": 12876,
+      "text": "Quyidagi tushuncha va uning ta'riflarini to'g'ri moslashtiring:\n1) Voleybol to'pining rasmiy og'irligi va aylanasi     a) 260-280 gr, aylanasi 65-67 sm\n2) Antennaning diametri va uzunligi     b) 10 mm diametr, 1,8 m uzunlik\n3) Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)     c) 14 kishi (shu jumladan liberolar)",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 101,
+      "source_number": 101,
+      "source_paragraph": 12879,
+      "text": "Qaysi javobda Voleybol so'zining ma'nosi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Parvoz qiluvchi to'p",
+        "B": "Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart",
+        "C": "1947-yil, Parij",
+        "D": "Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 102,
+      "source_number": 102,
+      "source_paragraph": 12881,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Soat mili yo'nalishi bo'ylab siljiydi\"?",
+      "options": {
+        "A": "O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi",
+        "B": "Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr",
+        "C": "Voleybol ixtiro qilingan yil va joy",
+        "D": "Partiyalar oralig'idagi standart tanaffus vaqti"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 103,
+      "source_number": 103,
+      "source_paragraph": 12883,
+      "text": "Qaysi javobda Jamoa tarkibidagi Libero o'yinchilar soni normativi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "2 tagacha",
+        "B": "2, 3 va 4-zonalarda",
+        "C": "Faqat orqa zonada, himoyada o'ynash",
+        "D": "Doktor Alfred Xalsted (1897-yil)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 104,
+      "source_number": 104,
+      "source_paragraph": 12885,
+      "text": "Qaysi javobda Himoya texnikasining asosiy bo'limlari to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "To'pni qabul qilish, to'siq qo'yish",
+        "B": "1947-yil, Parij",
+        "C": "Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart",
+        "D": "Parvoz qiluvchi to'p"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 105,
+      "source_number": 105,
+      "source_paragraph": 12887,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"15 ochkogacha (kamida 2 ochko ustunlik bilan)\"?",
+      "options": {
+        "A": "Hal qiluvchi 5-partiya necha ochkogacha davom etadi",
+        "B": "To'p kiritish zonasi maydonning qayerida joylashgan",
+        "C": "Texnik taym-autning davomiyligi",
+        "D": "Partiyalar oralig'idagi standart tanaffus vaqti"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 106,
+      "source_number": 106,
+      "source_paragraph": 12889,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Hujum zonasiga kirib, to'rning eng yuqori qismidan zarba berishi\"?",
+      "options": {
+        "A": "Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi",
+        "B": "O'yinda bitta jamoaning maydonda bevosita harakat qiluvchi o'yinchilari soni",
+        "C": "Maydondagi chegaralovchi chiziqlarning kengligi",
+        "D": "To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 107,
+      "source_number": 107,
+      "source_paragraph": 12891,
+      "text": "Qaysi javobda Hujum zarbasini bajarish fazalari ketma-ketligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Yugurib kelish, sakrash, to'pga zarba berish, qo'nish",
+        "B": "1949-yil Praga shahrida",
+        "C": "Parvoz qiluvchi to'p",
+        "D": "1952-yil Moskva shahrida"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 108,
+      "source_number": 108,
+      "source_paragraph": 12893,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"3 daqiqa\"?",
+      "options": {
+        "A": "Partiyalar oralig'idagi standart tanaffus vaqti",
+        "B": "O'zbekistonda voleybol ilk bor qachon paydo bo'ldi",
+        "C": "Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil",
+        "D": "Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 109,
+      "source_number": 109,
+      "source_paragraph": 12895,
+      "text": "Qaysi javobda O'yinda bitta jamoaning maydonda bevosita harakat qiluvchi o'yinchilari soni to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "6 kishi",
+        "B": "Faqat orqa zonada, himoyada o'ynash",
+        "C": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "D": "1947-yil, Parij"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 110,
+      "source_number": 110,
+      "source_paragraph": 12897,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1895-yil, AQSH, Massachusets shtati, Xoliok shahri\"?",
+      "options": {
+        "A": "Voleybol ixtiro qilingan yil va joy",
+        "B": "Himoya texnikasining asosiy bo'limlari",
+        "C": "Partiyalar oralig'idagi standart tanaffus vaqti",
+        "D": "To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 111,
+      "source_number": 111,
+      "source_paragraph": 12899,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1949-yil Praga shahrida\"?",
+      "options": {
+        "A": "Erkaklar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan",
+        "B": "Hal qiluvchi partiyada maydon qachon almashtiriladi",
+        "C": "Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)",
+        "D": "Partiyalar oralig'idagi standart tanaffus vaqti"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 112,
+      "source_number": 112,
+      "source_paragraph": 12901,
+      "text": "Qaysi javobda Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "O'yinchini uchrashuv oxirigacha diskvalifikatsiya qilish",
+        "B": "8 soniya",
+        "C": "Parvoz qiluvchi to'p",
+        "D": "14 kishi (shu jumladan liberolar)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 113,
+      "source_number": 113,
+      "source_paragraph": 12903,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Hujum zonasiga kirib, to'rning eng yuqori qismidan zarba berishi\"?",
+      "options": {
+        "A": "Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi",
+        "B": "Erkaklar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan",
+        "C": "Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi",
+        "D": "1920-yildan qat'iy joriy qilingan maydon o'lchami"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 114,
+      "source_number": 114,
+      "source_paragraph": 12905,
+      "text": "Qaysi javobda To'pni o'yinga kiritish uchun ajratiladigan vaqt (hakam hushtagidan so'ng) to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "8 soniya",
+        "B": "O'yinchini uchrashuv oxirigacha diskvalifikatsiya qilish",
+        "C": "Hujum zonasiga kirib, to'rning eng yuqori qismidan zarba berishi",
+        "D": "6 kishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 115,
+      "source_number": 115,
+      "source_paragraph": 12907,
+      "text": "Qaysi javobda Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "2,43 m",
+        "B": "Tanbeh (Raqib jamoaga 1 ochko va to'p kiritish huquqi beriladi)",
+        "C": "5 ta to'p",
+        "D": "O'yinchini joriy partiya oxirigacha maydondan chetlatish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 116,
+      "source_number": 116,
+      "source_paragraph": 12909,
+      "text": "Qaysi javobda Hujum texnikasining asosiy bo'limlari to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "To'p uzatish, to'p kiritish, hujum zarbasi",
+        "B": "60 soniya",
+        "C": "Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart",
+        "D": "Faqat orqa zonada, himoyada o'ynash"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 117,
+      "source_number": 117,
+      "source_paragraph": 12911,
+      "text": "Qaysi javobda To'p maydon yuzasidan qancha balandlikka tashlanib o'yinga kiritiladi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "O'yinchi to'pni qoidaga mos istalgan balandlikka tashlashi mumkin",
+        "B": "3 daqiqa",
+        "C": "25 ochko (kamida 2 ochko ustunlik bilan)",
+        "D": "1952-yil Moskva shahrida"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 118,
+      "source_number": 118,
+      "source_paragraph": 12913,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Tanbeh (Raqib jamoaga 1 ochko va to'p kiritish huquqi beriladi)\"?",
+      "options": {
+        "A": "Sariq kartochka qanday jazoni anglatadi",
+        "B": "Voleybol ixtiro qilingan yil va joy",
+        "C": "Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari",
+        "D": "Hujum texnikasining asosiy bo'limlari"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 119,
+      "source_number": 119,
+      "source_paragraph": 12915,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1992-yildan boshlab\"?",
+      "options": {
+        "A": "Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr",
+        "B": "Taym-autning (tanaffusning) davomiyligi qancha",
+        "C": "Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi",
+        "D": "Voleybol to'pining rasmiy og'irligi va aylanasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 120,
+      "source_number": 120,
+      "source_paragraph": 12917,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"2 tagacha\"?",
+      "options": {
+        "A": "Jamoa tarkibidagi Libero o'yinchilar soni normativi",
+        "B": "Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi",
+        "C": "Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil",
+        "D": "To'p maydon yuzasidan qancha balandlikka tashlanib o'yinga kiritiladi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 121,
+      "source_number": 121,
+      "source_paragraph": 12919,
+      "text": "Qaysi javobda Erkaklar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "1949-yil Praga shahrida",
+        "B": "8 soniya",
+        "C": "Parvoz qiluvchi to'p",
+        "D": "2 tagacha"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 122,
+      "source_number": 122,
+      "source_paragraph": 12921,
+      "text": "Qaysi javobda Hal qiluvchi 5-partiya necha ochkogacha davom etadi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "15 ochkogacha (kamida 2 ochko ustunlik bilan)",
+        "B": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "C": "1992-yildan boshlab",
+        "D": "2,24 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 123,
+      "source_number": 123,
+      "source_paragraph": 12923,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"To'pni qabul qilish, to'siq qo'yish\"?",
+      "options": {
+        "A": "Himoya texnikasining asosiy bo'limlari",
+        "B": "Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi",
+        "C": "To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi",
+        "D": "Voleybol ixtiro qilingan yil va joy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 124,
+      "source_number": 124,
+      "source_paragraph": 12925,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Faqat orqa zonada, himoyada o'ynash\"?",
+      "options": {
+        "A": "Libero o'yinchisining taktik vazifasi",
+        "B": "Voleybol o'yini ixtirochisi",
+        "C": "Taym-autning (tanaffusning) davomiyligi qancha",
+        "D": "Voleybol nomini bergan shaxs va yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 125,
+      "source_number": 125,
+      "source_paragraph": 12927,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Pol Libo\"?",
+      "options": {
+        "A": "FIVBning birinchi prezidenti",
+        "B": "Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr",
+        "C": "Partiyalar oralig'idagi standart tanaffus vaqti",
+        "D": "Voleybol o'yini ixtirochisi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 126,
+      "source_number": 126,
+      "source_paragraph": 12929,
+      "text": "Qaysi javobda Maydondagi chegaralovchi chiziqlarning kengligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "5 sm",
+        "B": "1952-yil Moskva shahrida",
+        "C": "1921-24-yillarda Qo'qon, Toshkent va Farg'onada",
+        "D": "Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 127,
+      "source_number": 127,
+      "source_paragraph": 12931,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi\"?",
+      "options": {
+        "A": "To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi",
+        "B": "FIVBning birinchi prezidenti",
+        "C": "1920-yildan qat'iy joriy qilingan maydon o'lchami",
+        "D": "O'zbek voleybolchilari ishtirok etgan ilk xalqaro uchrashuv"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 128,
+      "source_number": 128,
+      "source_paragraph": 12933,
+      "text": "Qaysi javobda Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "2,43 m",
+        "B": "To'p uzatish, to'p kiritish, hujum zarbasi",
+        "C": "1935-yil, Toshkentda Afg'oniston jamoasiga qarshi",
+        "D": "Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 129,
+      "source_number": 129,
+      "source_paragraph": 12935,
+      "text": "Qaysi javobda Voleybol nomini bergan shaxs va yil to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Doktor Alfred Xalsted (1897-yil)",
+        "B": "To'p uzatish, to'p kiritish, hujum zarbasi",
+        "C": "Pol Libo",
+        "D": "Soat mili yo'nalishi bo'ylab siljiydi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 130,
+      "source_number": 130,
+      "source_paragraph": 12937,
+      "text": "Qaysi javobda Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "6 tagacha",
+        "B": "14 kishi (shu jumladan liberolar)",
+        "C": "Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi",
+        "D": "3 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 131,
+      "source_number": 131,
+      "source_paragraph": 12939,
+      "text": "Qaysi javobda FIVBning birinchi prezidenti to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Pol Libo",
+        "B": "2 tagacha",
+        "C": "25 ochko (kamida 2 ochko ustunlik bilan)",
+        "D": "1925-yil yanvarda Moskvada"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 132,
+      "source_number": 132,
+      "source_paragraph": 12941,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi\"?",
+      "options": {
+        "A": "To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi",
+        "B": "Texnik taym-autlar qachon beriladi (I-IV partiyalarda)",
+        "C": "Hujum texnikasining asosiy bo'limlari",
+        "D": "Voleybol nomini bergan shaxs va yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 133,
+      "source_number": 133,
+      "source_paragraph": 12943,
+      "text": "Qaysi javobda Himoya texnikasining asosiy bo'limlari to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "To'pni qabul qilish, to'siq qo'yish",
+        "B": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "C": "Uilyam J.Morgan",
+        "D": "3 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 134,
+      "source_number": 134,
+      "source_paragraph": 12945,
+      "text": "Qaysi javobda Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "2,43 m",
+        "B": "Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi",
+        "C": "Doktor Alfred Xalsted (1897-yil)",
+        "D": "Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 135,
+      "source_number": 135,
+      "source_paragraph": 12947,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"O'yinchini joriy partiya oxirigacha maydondan chetlatish\"?",
+      "options": {
+        "A": "Qizil kartochka qanday jazoni anglatadi",
+        "B": "Voleybol ixtiro qilingan yil va joy",
+        "C": "Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil",
+        "D": "Antennaning diametri va uzunligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 136,
+      "source_number": 136,
+      "source_paragraph": 12949,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Pol Libo\"?",
+      "options": {
+        "A": "FIVBning birinchi prezidenti",
+        "B": "O'zbek voleybolchilari ishtirok etgan ilk xalqaro uchrashuv",
+        "C": "Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari",
+        "D": "Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 137,
+      "source_number": 137,
+      "source_paragraph": 12951,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"5 sm\"?",
+      "options": {
+        "A": "Maydondagi chegaralovchi chiziqlarning kengligi",
+        "B": "Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi",
+        "C": "O'zbekistonda voleybol ilk bor qachon paydo bo'ldi",
+        "D": "Antennaning diametri va uzunligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 138,
+      "source_number": 138,
+      "source_paragraph": 12953,
+      "text": "Qaysi javobda Voleybol to'pining rasmiy og'irligi va aylanasi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "260-280 gr, aylanasi 65-67 sm",
+        "B": "60 soniya",
+        "C": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "D": "To'pni qabul qilish, to'siq qo'yish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 139,
+      "source_number": 139,
+      "source_paragraph": 12955,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"2, 3 va 4-zonalarda\"?",
+      "options": {
+        "A": "To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi",
+        "B": "FIVBning birinchi prezidenti",
+        "C": "Voleybol ixtiro qilingan yil va joy",
+        "D": "Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 140,
+      "source_number": 140,
+      "source_paragraph": 12957,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"O'yinchini joriy partiya oxirigacha maydondan chetlatish\"?",
+      "options": {
+        "A": "Qizil kartochka qanday jazoni anglatadi",
+        "B": "Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil",
+        "C": "Texnik taym-autning davomiyligi",
+        "D": "Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 141,
+      "source_number": 141,
+      "source_paragraph": 12959,
+      "text": "Qaysi javobda Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "2,24 m",
+        "B": "1952-yil Moskva shahrida",
+        "C": "Doktor Alfred Xalsted (1897-yil)",
+        "D": "60 soniya"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 142,
+      "source_number": 142,
+      "source_paragraph": 12961,
+      "text": "Qaysi javobda Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "1947-yil, Parij",
+        "B": "9x18 m",
+        "C": "30 soniya",
+        "D": "Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 143,
+      "source_number": 143,
+      "source_paragraph": 12963,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"14 kishi (shu jumladan liberolar)\"?",
+      "options": {
+        "A": "Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)",
+        "B": "Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi",
+        "C": "Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi",
+        "D": "To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 144,
+      "source_number": 144,
+      "source_paragraph": 12965,
+      "text": "Qaysi javobda Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart",
+        "B": "Soat mili yo'nalishi bo'ylab siljiydi",
+        "C": "1952-yil Moskva shahrida",
+        "D": "O'yinchini uchrashuv oxirigacha diskvalifikatsiya qilish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 145,
+      "source_number": 145,
+      "source_paragraph": 12967,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Hujum zonasiga kirib, to'rning eng yuqori qismidan zarba berishi\"?",
+      "options": {
+        "A": "Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi",
+        "B": "Libero o'yinchisining taktik vazifasi",
+        "C": "Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi",
+        "D": "Qizil kartochka qanday jazoni anglatadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 146,
+      "source_number": 146,
+      "source_paragraph": 12969,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"10 mm diametr, 1,8 m uzunlik\"?",
+      "options": {
+        "A": "Antennaning diametri va uzunligi",
+        "B": "Erkaklar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan",
+        "C": "Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil",
+        "D": "Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 147,
+      "source_number": 147,
+      "source_paragraph": 12971,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"2,24 m\"?",
+      "options": {
+        "A": "Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi",
+        "B": "Voleybol ixtiro qilingan yil va joy",
+        "C": "FIVBning birinchi prezidenti",
+        "D": "O'yinda bitta jamoaning maydonda bevosita harakat qiluvchi o'yinchilari soni"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 148,
+      "source_number": 148,
+      "source_paragraph": 12973,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"7,6x15,1 m\"?",
+      "options": {
+        "A": "1897-yildagi maydon o'lchamlari",
+        "B": "Qizil kartochka qanday jazoni anglatadi",
+        "C": "Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi",
+        "D": "Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 149,
+      "source_number": 149,
+      "source_paragraph": 12975,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Yugurib kelish, sakrash, to'pga zarba berish, qo'nish\"?",
+      "options": {
+        "A": "Hujum zarbasini bajarish fazalari ketma-ketligi",
+        "B": "Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari",
+        "C": "O'zbekistonda voleybol ilk bor qachon paydo bo'ldi",
+        "D": "O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 150,
+      "source_number": 150,
+      "source_paragraph": 12977,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Parvoz qiluvchi to'p\"?",
+      "options": {
+        "A": "Voleybol so'zining ma'nosi",
+        "B": "To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi",
+        "C": "Voleybol ixtiro qilingan yil va joy",
+        "D": "Voleybol o'yini ixtirochisi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 151,
+      "source_number": 151,
+      "source_paragraph": 12979,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1964-yil, Tokio\"?",
+      "options": {
+        "A": "Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil",
+        "B": "Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi",
+        "C": "O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi",
+        "D": "Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 152,
+      "source_number": 152,
+      "source_paragraph": 12981,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1964-yil, Tokio\"?",
+      "options": {
+        "A": "Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil",
+        "B": "Partiyalar oralig'idagi standart tanaffus vaqti",
+        "C": "Sariq kartochka qanday jazoni anglatadi",
+        "D": "Jamoa tarkibidagi Libero o'yinchilar soni normativi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 153,
+      "source_number": 153,
+      "source_paragraph": 12983,
+      "text": "Qaysi javobda Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "2,24 m",
+        "B": "Yugurib kelish, sakrash, to'pga zarba berish, qo'nish",
+        "C": "1992-yildan boshlab",
+        "D": "7,6x15,1 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 154,
+      "source_number": 154,
+      "source_paragraph": 12985,
+      "text": "Qaysi javobda 1920-yildan qat'iy joriy qilingan maydon o'lchami to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "9x18 m",
+        "B": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "C": "2,43 m",
+        "D": "2 tagacha"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 155,
+      "source_number": 155,
+      "source_paragraph": 12987,
+      "text": "Qaysi javobda Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha) to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "14 kishi (shu jumladan liberolar)",
+        "B": "2, 3 va 4-zonalarda",
+        "C": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "D": "Maydonning orqa chizig'i (9m) ortidagi bo'shliqda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 156,
+      "source_number": 156,
+      "source_paragraph": 12989,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Jamoalardan biri 8 ochko to'plagan zahoti\"?",
+      "options": {
+        "A": "Hal qiluvchi partiyada maydon qachon almashtiriladi",
+        "B": "Voleybol ixtiro qilingan yil va joy",
+        "C": "1897-yildagi maydon o'lchamlari",
+        "D": "FIVBning birinchi prezidenti"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 157,
+      "source_number": 157,
+      "source_paragraph": 12991,
+      "text": "Qaysi javobda To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi",
+        "B": "1992-yildan boshlab",
+        "C": "5 sm",
+        "D": "Parvoz qiluvchi to'p"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 158,
+      "source_number": 158,
+      "source_paragraph": 12993,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Kamida 12,5 metr bo'lishi shart\"?",
+      "options": {
+        "A": "FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi",
+        "B": "Hal qiluvchi 5-partiya necha ochkogacha davom etadi",
+        "C": "Sariq kartochka qanday jazoni anglatadi",
+        "D": "To'p kiritish zonasi maydonning qayerida joylashgan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 159,
+      "source_number": 159,
+      "source_paragraph": 12995,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"5 sm\"?",
+      "options": {
+        "A": "Maydondagi chegaralovchi chiziqlarning kengligi",
+        "B": "Jamoa tarkibidagi Libero o'yinchilar soni normativi",
+        "C": "Voleybol so'zining ma'nosi",
+        "D": "Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 160,
+      "source_number": 160,
+      "source_paragraph": 12997,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"To'pni qabul qilish, to'siq qo'yish\"?",
+      "options": {
+        "A": "Himoya texnikasining asosiy bo'limlari",
+        "B": "To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi",
+        "C": "Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari",
+        "D": "1920-yildan qat'iy joriy qilingan maydon o'lchami"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 161,
+      "source_number": 161,
+      "source_paragraph": 12999,
+      "text": "Qaysi javobda Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "2,43 m",
+        "B": "Parvoz qiluvchi to'p",
+        "C": "Soat mili yo'nalishi bo'ylab siljiydi",
+        "D": "60 soniya"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 162,
+      "source_number": 162,
+      "source_paragraph": 13001,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"6 tagacha\"?",
+      "options": {
+        "A": "Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni",
+        "B": "Hal qiluvchi 5-partiya necha ochkogacha davom etadi",
+        "C": "Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak",
+        "D": "Voleybol to'pining rasmiy og'irligi va aylanasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 163,
+      "source_number": 163,
+      "source_paragraph": 13003,
+      "text": "Qaysi javobda Texnik taym-autlar qachon beriladi (I-IV partiyalarda) to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik",
+        "B": "2,24 m",
+        "C": "1925-yil yanvarda Moskvada",
+        "D": "2 tagacha"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 164,
+      "source_number": 164,
+      "source_paragraph": 13005,
+      "text": "Qaysi javobda Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "1964-yil, Tokio",
+        "B": "2 tagacha",
+        "C": "6 tagacha",
+        "D": "1947-yil, Parij"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 165,
+      "source_number": 165,
+      "source_paragraph": 13007,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"9x18 m\"?",
+      "options": {
+        "A": "1920-yildan qat'iy joriy qilingan maydon o'lchami",
+        "B": "O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi",
+        "C": "Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil",
+        "D": "Voleybol so'zining ma'nosi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 166,
+      "source_number": 166,
+      "source_paragraph": 13009,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"To'pni qabul qilish, to'siq qo'yish\"?",
+      "options": {
+        "A": "Himoya texnikasining asosiy bo'limlari",
+        "B": "Partiyalar oralig'idagi standart tanaffus vaqti",
+        "C": "Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi",
+        "D": "To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 167,
+      "source_number": 167,
+      "source_paragraph": 13011,
+      "text": "Qaysi javobda Voleybol nomini bergan shaxs va yil to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Doktor Alfred Xalsted (1897-yil)",
+        "B": "2,24 m",
+        "C": "Uilyam J.Morgan",
+        "D": "7,6x15,1 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 168,
+      "source_number": 168,
+      "source_paragraph": 13013,
+      "text": "Qaysi javobda Voleybol ixtiro qilingan yil va joy to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "B": "Uilyam J.Morgan",
+        "C": "O'yinchini uchrashuv oxirigacha diskvalifikatsiya qilish",
+        "D": "Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 169,
+      "source_number": 169,
+      "source_paragraph": 13015,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"2,24 m\"?",
+      "options": {
+        "A": "Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi",
+        "B": "Voleybol ixtiro qilingan yil va joy",
+        "C": "Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi",
+        "D": "O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 170,
+      "source_number": 170,
+      "source_paragraph": 13017,
+      "text": "Qaysi javobda FIVBning birinchi prezidenti to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Pol Libo",
+        "B": "6 tagacha",
+        "C": "5 ta to'p",
+        "D": "Maydonning orqa chizig'i (9m) ortidagi bo'shliqda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 171,
+      "source_number": 171,
+      "source_paragraph": 13019,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"260-280 gr, aylanasi 65-67 sm\"?",
+      "options": {
+        "A": "Voleybol to'pining rasmiy og'irligi va aylanasi",
+        "B": "Voleybol so'zining ma'nosi",
+        "C": "Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari",
+        "D": "Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 172,
+      "source_number": 172,
+      "source_paragraph": 13021,
+      "text": "Qaysi javobda Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "25 ochko (kamida 2 ochko ustunlik bilan)",
+        "B": "15 ochkogacha (kamida 2 ochko ustunlik bilan)",
+        "C": "1949-yil Praga shahrida",
+        "D": "Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 173,
+      "source_number": 173,
+      "source_paragraph": 13023,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"260-280 gr, aylanasi 65-67 sm\"?",
+      "options": {
+        "A": "Voleybol to'pining rasmiy og'irligi va aylanasi",
+        "B": "Texnik taym-autlar qachon beriladi (I-IV partiyalarda)",
+        "C": "Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi",
+        "D": "Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 174,
+      "source_number": 174,
+      "source_paragraph": 13025,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"6 tagacha\"?",
+      "options": {
+        "A": "Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni",
+        "B": "Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi",
+        "C": "Taym-autning (tanaffusning) davomiyligi qancha",
+        "D": "Voleybol nomini bergan shaxs va yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 175,
+      "source_number": 175,
+      "source_paragraph": 13027,
+      "text": "Qaysi javobda FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Kamida 12,5 metr bo'lishi shart",
+        "B": "Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart",
+        "C": "14 kishi (shu jumladan liberolar)",
+        "D": "1935-yil, Toshkentda Afg'oniston jamoasiga qarshi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 176,
+      "source_number": 176,
+      "source_paragraph": 13029,
+      "text": "Qaysi javobda Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "1947-yil, Parij",
+        "B": "260-280 gr, aylanasi 65-67 sm",
+        "C": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "D": "Pol Libo"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 177,
+      "source_number": 177,
+      "source_paragraph": 13031,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1921-24-yillarda Qo'qon, Toshkent va Farg'onada\"?",
+      "options": {
+        "A": "O'zbekistonda voleybol ilk bor qachon paydo bo'ldi",
+        "B": "Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi",
+        "C": "O'yinda bitta jamoaning maydonda bevosita harakat qiluvchi o'yinchilari soni",
+        "D": "Voleybol so'zining ma'nosi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 178,
+      "source_number": 178,
+      "source_paragraph": 13033,
+      "text": "Qaysi javobda To'p kiritish zonasi maydonning qayerida joylashgan to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Maydonning orqa chizig'i (9m) ortidagi bo'shliqda",
+        "B": "60 soniya",
+        "C": "Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik",
+        "D": "Jamoalardan biri 8 ochko to'plagan zahoti"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 179,
+      "source_number": 179,
+      "source_paragraph": 13035,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"2,24 m\"?",
+      "options": {
+        "A": "Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi",
+        "B": "O'yinda bitta jamoaning maydonda bevosita harakat qiluvchi o'yinchilari soni",
+        "C": "Jamoa tarkibidagi Libero o'yinchilar soni normativi",
+        "D": "O'zbek voleybolchilari ishtirok etgan ilk xalqaro uchrashuv"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 180,
+      "source_number": 180,
+      "source_paragraph": 13037,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"30 soniya\"?",
+      "options": {
+        "A": "Taym-autning (tanaffusning) davomiyligi qancha",
+        "B": "Texnik taym-autning davomiyligi",
+        "C": "Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari",
+        "D": "Hujum zarbasini bajarish fazalari ketma-ketligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 181,
+      "source_number": 181,
+      "source_paragraph": 13039,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi\"?",
+      "options": {
+        "A": "To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi",
+        "B": "Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil",
+        "C": "Voleybol o'yini ixtirochisi",
+        "D": "Erkaklar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 182,
+      "source_number": 182,
+      "source_paragraph": 13041,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Yugurib kelish, sakrash, to'pga zarba berish, qo'nish\"?",
+      "options": {
+        "A": "Hujum zarbasini bajarish fazalari ketma-ketligi",
+        "B": "Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari",
+        "C": "Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi",
+        "D": "Voleybol ixtiro qilingan yil va joy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 183,
+      "source_number": 183,
+      "source_paragraph": 13043,
+      "text": "Qaysi javobda O'zbek voleybolchilari ishtirok etgan ilk xalqaro uchrashuv to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "1935-yil, Toshkentda Afg'oniston jamoasiga qarshi",
+        "B": "Parvoz qiluvchi to'p",
+        "C": "Uilyam J.Morgan",
+        "D": "Kamida 12,5 metr bo'lishi shart"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 184,
+      "source_number": 184,
+      "source_paragraph": 13045,
+      "text": "Qaysi javobda Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "2,43 m",
+        "B": "1992-yildan boshlab",
+        "C": "Faqat orqa zonada, himoyada o'ynash",
+        "D": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 185,
+      "source_number": 185,
+      "source_paragraph": 13047,
+      "text": "Qaysi javobda Voleybol ixtiro qilingan yil va joy to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "B": "O'yinchini joriy partiya oxirigacha maydondan chetlatish",
+        "C": "2, 3 va 4-zonalarda",
+        "D": "2,24 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 186,
+      "source_number": 186,
+      "source_paragraph": 13049,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"9x18 m\"?",
+      "options": {
+        "A": "1920-yildan qat'iy joriy qilingan maydon o'lchami",
+        "B": "To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi",
+        "C": "Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)",
+        "D": "Maydondagi chegaralovchi chiziqlarning kengligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 187,
+      "source_number": 187,
+      "source_paragraph": 13051,
+      "text": "Qaysi javobda Rasmiy musobaqalarda foydalaniladigan to'plar soni (bir o'yinda) to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "5 ta to'p",
+        "B": "Jamoalardan biri 8 ochko to'plagan zahoti",
+        "C": "7,6x15,1 m",
+        "D": "1992-yildan boshlab"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 188,
+      "source_number": 188,
+      "source_paragraph": 13053,
+      "text": "Qaysi javobda O'zbek voleybolchilari ishtirok etgan ilk xalqaro uchrashuv to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "1935-yil, Toshkentda Afg'oniston jamoasiga qarshi",
+        "B": "6 tagacha",
+        "C": "1952-yil Moskva shahrida",
+        "D": "14 kishi (shu jumladan liberolar)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 189,
+      "source_number": 189,
+      "source_paragraph": 13055,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Kamida 12,5 metr bo'lishi shart\"?",
+      "options": {
+        "A": "FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi",
+        "B": "Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak",
+        "C": "Voleybol ixtiro qilingan yil va joy",
+        "D": "Ayollar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 190,
+      "source_number": 190,
+      "source_paragraph": 13057,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Soat mili yo'nalishi bo'ylab siljiydi\"?",
+      "options": {
+        "A": "O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi",
+        "B": "FIVBning birinchi prezidenti",
+        "C": "Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil",
+        "D": "To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 191,
+      "source_number": 191,
+      "source_paragraph": 13059,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart\"?",
+      "options": {
+        "A": "Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi",
+        "B": "Texnik taym-autlar qachon beriladi (I-IV partiyalarda)",
+        "C": "Antennaning diametri va uzunligi",
+        "D": "Voleybol ixtiro qilingan yil va joy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 192,
+      "source_number": 192,
+      "source_paragraph": 13061,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1964-yil, Tokio\"?",
+      "options": {
+        "A": "Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil",
+        "B": "FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi",
+        "C": "Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr",
+        "D": "Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 193,
+      "source_number": 193,
+      "source_paragraph": 13063,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"6 kishi\"?",
+      "options": {
+        "A": "O'yinda bitta jamoaning maydonda bevosita harakat qiluvchi o'yinchilari soni",
+        "B": "Taym-autning (tanaffusning) davomiyligi qancha",
+        "C": "Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr",
+        "D": "To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 194,
+      "source_number": 194,
+      "source_paragraph": 13065,
+      "text": "Qaysi javobda To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi",
+        "B": "260-280 gr, aylanasi 65-67 sm",
+        "C": "14 kishi (shu jumladan liberolar)",
+        "D": "Maydonning orqa chizig'i (9m) ortidagi bo'shliqda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 195,
+      "source_number": 195,
+      "source_paragraph": 13067,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1921-24-yillarda Qo'qon, Toshkent va Farg'onada\"?",
+      "options": {
+        "A": "O'zbekistonda voleybol ilk bor qachon paydo bo'ldi",
+        "B": "To'pni o'yinga kiritish uchun ajratiladigan vaqt (hakam hushtagidan so'ng)",
+        "C": "Voleybol nomini bergan shaxs va yil",
+        "D": "Qizil kartochka qanday jazoni anglatadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 196,
+      "source_number": 196,
+      "source_paragraph": 13069,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1952-yil Moskva shahrida\"?",
+      "options": {
+        "A": "Ayollar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan",
+        "B": "Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi",
+        "C": "Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni",
+        "D": "Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 197,
+      "source_number": 197,
+      "source_paragraph": 13071,
+      "text": "Qaysi javobda Sariq kartochka qanday jazoni anglatadi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Tanbeh (Raqib jamoaga 1 ochko va to'p kiritish huquqi beriladi)",
+        "B": "60 soniya",
+        "C": "5 sm",
+        "D": "8 soniya"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 198,
+      "source_number": 198,
+      "source_paragraph": 13073,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1952-yil Moskva shahrida\"?",
+      "options": {
+        "A": "Ayollar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan",
+        "B": "Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil",
+        "C": "1897-yildagi maydon o'lchamlari",
+        "D": "Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 199,
+      "source_number": 199,
+      "source_paragraph": 13075,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart\"?",
+      "options": {
+        "A": "Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi",
+        "B": "Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)",
+        "C": "Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil",
+        "D": "Voleybol ixtiro qilingan yil va joy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 200,
+      "source_number": 200,
+      "source_paragraph": 13077,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"2, 3 va 4-zonalarda\"?",
+      "options": {
+        "A": "To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi",
+        "B": "Hujum zarbasini bajarish fazalari ketma-ketligi",
+        "C": "O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi",
+        "D": "Rasmiy musobaqalarda foydalaniladigan to'plar soni (bir o'yinda)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 201,
+      "source_number": 201,
+      "source_paragraph": 13079,
+      "text": "Qaysi javobda O'zbek voleybolchilari ishtirok etgan ilk xalqaro uchrashuv to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "1935-yil, Toshkentda Afg'oniston jamoasiga qarshi",
+        "B": "2,43 m",
+        "C": "Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik",
+        "D": "1925-yil yanvarda Moskvada"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 202,
+      "source_number": 202,
+      "source_paragraph": 13081,
+      "text": "Qaysi javobda To'p maydon yuzasidan qancha balandlikka tashlanib o'yinga kiritiladi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "O'yinchi to'pni qoidaga mos istalgan balandlikka tashlashi mumkin",
+        "B": "Jamoalardan biri 8 ochko to'plagan zahoti",
+        "C": "2,24 m",
+        "D": "10 mm diametr, 1,8 m uzunlik"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 203,
+      "source_number": 203,
+      "source_paragraph": 13083,
+      "text": "Qaysi javobda FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Kamida 12,5 metr bo'lishi shart",
+        "B": "1952-yil Moskva shahrida",
+        "C": "To'pni qabul qilish, to'siq qo'yish",
+        "D": "Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 204,
+      "source_number": 204,
+      "source_paragraph": 13085,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"5 sm\"?",
+      "options": {
+        "A": "Maydondagi chegaralovchi chiziqlarning kengligi",
+        "B": "Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)",
+        "C": "Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi",
+        "D": "Voleybol o'yini ixtirochisi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 205,
+      "source_number": 205,
+      "source_paragraph": 13087,
+      "text": "Qaysi javobda Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "O'yinchini uchrashuv oxirigacha diskvalifikatsiya qilish",
+        "B": "Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi",
+        "C": "Doktor Alfred Xalsted (1897-yil)",
+        "D": "To'pni qabul qilish, to'siq qo'yish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 206,
+      "source_number": 206,
+      "source_paragraph": 13089,
+      "text": "Qaysi javobda Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Hujum zonasiga kirib, to'rning eng yuqori qismidan zarba berishi",
+        "B": "1949-yil Praga shahrida",
+        "C": "Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik",
+        "D": "Parvoz qiluvchi to'p"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 207,
+      "source_number": 207,
+      "source_paragraph": 13091,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"60 soniya\"?",
+      "options": {
+        "A": "Texnik taym-autning davomiyligi",
+        "B": "To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi",
+        "C": "Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil",
+        "D": "Voleybol ixtiro qilingan yil va joy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 208,
+      "source_number": 208,
+      "source_paragraph": 13093,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"25 ochko (kamida 2 ochko ustunlik bilan)\"?",
+      "options": {
+        "A": "Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak",
+        "B": "Partiyalar oralig'idagi standart tanaffus vaqti",
+        "C": "FIVBning birinchi prezidenti",
+        "D": "Qizil kartochka qanday jazoni anglatadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 209,
+      "source_number": 209,
+      "source_paragraph": 13095,
+      "text": "Qaysi javobda To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi",
+        "B": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "C": "1952-yil Moskva shahrida",
+        "D": "1935-yil, Toshkentda Afg'oniston jamoasiga qarshi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 210,
+      "source_number": 210,
+      "source_paragraph": 13097,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1992-yildan boshlab\"?",
+      "options": {
+        "A": "Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr",
+        "B": "Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi",
+        "C": "Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak",
+        "D": "To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 211,
+      "source_number": 211,
+      "source_paragraph": 13099,
+      "text": "Qaysi javobda To'pni o'yinga kiritish uchun ajratiladigan vaqt (hakam hushtagidan so'ng) to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "8 soniya",
+        "B": "1921-24-yillarda Qo'qon, Toshkent va Farg'onada",
+        "C": "Pol Libo",
+        "D": "O'yinchini uchrashuv oxirigacha diskvalifikatsiya qilish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 212,
+      "source_number": 212,
+      "source_paragraph": 13101,
+      "text": "Qaysi javobda Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "2,24 m",
+        "B": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "C": "Uilyam J.Morgan",
+        "D": "9x18 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 213,
+      "source_number": 213,
+      "source_paragraph": 13103,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Tanbeh (Raqib jamoaga 1 ochko va to'p kiritish huquqi beriladi)\"?",
+      "options": {
+        "A": "Sariq kartochka qanday jazoni anglatadi",
+        "B": "Voleybol ixtiro qilingan yil va joy",
+        "C": "Voleybol o'yini ixtirochisi",
+        "D": "To'p kiritish zonasi maydonning qayerida joylashgan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 214,
+      "source_number": 214,
+      "source_paragraph": 13105,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"O'yinchi to'pni qoidaga mos istalgan balandlikka tashlashi mumkin\"?",
+      "options": {
+        "A": "To'p maydon yuzasidan qancha balandlikka tashlanib o'yinga kiritiladi",
+        "B": "1897-yildagi maydon o'lchamlari",
+        "C": "Voleybol so'zining ma'nosi",
+        "D": "Partiyalar oralig'idagi standart tanaffus vaqti"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 215,
+      "source_number": 215,
+      "source_paragraph": 13107,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"O'yinchini uchrashuv oxirigacha diskvalifikatsiya qilish\"?",
+      "options": {
+        "A": "Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi",
+        "B": "FIVBning birinchi prezidenti",
+        "C": "O'zbek voleybolchilari ishtirok etgan ilk xalqaro uchrashuv",
+        "D": "Hujum zarbasini bajarish fazalari ketma-ketligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 216,
+      "source_number": 216,
+      "source_paragraph": 13109,
+      "text": "Qaysi javobda Ayollar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "1952-yil Moskva shahrida",
+        "B": "25 ochko (kamida 2 ochko ustunlik bilan)",
+        "C": "260-280 gr, aylanasi 65-67 sm",
+        "D": "8 soniya"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 217,
+      "source_number": 217,
+      "source_paragraph": 13111,
+      "text": "Qaysi javobda Texnik taym-autning davomiyligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "60 soniya",
+        "B": "2, 3 va 4-zonalarda",
+        "C": "9x18 m",
+        "D": "1935-yil, Toshkentda Afg'oniston jamoasiga qarshi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 218,
+      "source_number": 218,
+      "source_paragraph": 13113,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"15 ochkogacha (kamida 2 ochko ustunlik bilan)\"?",
+      "options": {
+        "A": "Hal qiluvchi 5-partiya necha ochkogacha davom etadi",
+        "B": "Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil",
+        "C": "Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr",
+        "D": "O'zbekistonda voleybol ilk bor qachon paydo bo'ldi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 219,
+      "source_number": 219,
+      "source_paragraph": 13115,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"3 daqiqa\"?",
+      "options": {
+        "A": "Partiyalar oralig'idagi standart tanaffus vaqti",
+        "B": "Voleybol so'zining ma'nosi",
+        "C": "Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)",
+        "D": "Hujum zarbasini bajarish fazalari ketma-ketligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 220,
+      "source_number": 220,
+      "source_paragraph": 13117,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"14 kishi (shu jumladan liberolar)\"?",
+      "options": {
+        "A": "Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)",
+        "B": "Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil",
+        "C": "Himoya texnikasining asosiy bo'limlari",
+        "D": "Voleybol nomini bergan shaxs va yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 221,
+      "source_number": 221,
+      "source_paragraph": 13119,
+      "text": "Qaysi javobda Himoya texnikasining asosiy bo'limlari to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "To'pni qabul qilish, to'siq qo'yish",
+        "B": "Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik",
+        "C": "Faqat orqa zonada, himoyada o'ynash",
+        "D": "1992-yildan boshlab"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 222,
+      "source_number": 222,
+      "source_paragraph": 13121,
+      "text": "Qaysi javobda To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "2, 3 va 4-zonalarda",
+        "B": "To'p uzatish, to'p kiritish, hujum zarbasi",
+        "C": "Tanbeh (Raqib jamoaga 1 ochko va to'p kiritish huquqi beriladi)",
+        "D": "Pol Libo"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 223,
+      "source_number": 223,
+      "source_paragraph": 13123,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"7,6x15,1 m\"?",
+      "options": {
+        "A": "1897-yildagi maydon o'lchamlari",
+        "B": "Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi",
+        "C": "Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni",
+        "D": "Ayollar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 224,
+      "source_number": 224,
+      "source_paragraph": 13125,
+      "text": "Qaysi javobda Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Hujum zonasiga kirib, to'rning eng yuqori qismidan zarba berishi",
+        "B": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "C": "25 ochko (kamida 2 ochko ustunlik bilan)",
+        "D": "Parvoz qiluvchi to'p"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 225,
+      "source_number": 225,
+      "source_paragraph": 13127,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"6 tagacha\"?",
+      "options": {
+        "A": "Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni",
+        "B": "Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi",
+        "C": "Voleybol o'yini ixtirochisi",
+        "D": "Hujum zarbasini bajarish fazalari ketma-ketligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 226,
+      "source_number": 226,
+      "source_paragraph": 13129,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"To'pni qabul qilish, to'siq qo'yish\"?",
+      "options": {
+        "A": "Himoya texnikasining asosiy bo'limlari",
+        "B": "Antennaning diametri va uzunligi",
+        "C": "Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi",
+        "D": "Voleybol ixtiro qilingan yil va joy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 227,
+      "source_number": 227,
+      "source_paragraph": 13131,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"To'p uzatish, to'p kiritish, hujum zarbasi\"?",
+      "options": {
+        "A": "Hujum texnikasining asosiy bo'limlari",
+        "B": "Voleybol so'zining ma'nosi",
+        "C": "Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak",
+        "D": "Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 228,
+      "source_number": 228,
+      "source_paragraph": 13133,
+      "text": "Qaysi javobda Voleybol to'pining rasmiy og'irligi va aylanasi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "260-280 gr, aylanasi 65-67 sm",
+        "B": "15 ochkogacha (kamida 2 ochko ustunlik bilan)",
+        "C": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "D": "6 tagacha"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 229,
+      "source_number": 229,
+      "source_paragraph": 13135,
+      "text": "Qaysi javobda O'yinda bitta jamoaning maydonda bevosita harakat qiluvchi o'yinchilari soni to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "6 kishi",
+        "B": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "C": "1992-yildan boshlab",
+        "D": "Uilyam J.Morgan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 230,
+      "source_number": 230,
+      "source_paragraph": 13137,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1952-yil Moskva shahrida\"?",
+      "options": {
+        "A": "Ayollar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan",
+        "B": "Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi",
+        "C": "Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil",
+        "D": "Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 231,
+      "source_number": 231,
+      "source_paragraph": 13139,
+      "text": "Qaysi javobda 1920-yildan qat'iy joriy qilingan maydon o'lchami to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "9x18 m",
+        "B": "Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik",
+        "C": "15 ochkogacha (kamida 2 ochko ustunlik bilan)",
+        "D": "Maydonning orqa chizig'i (9m) ortidagi bo'shliqda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 232,
+      "source_number": 232,
+      "source_paragraph": 13141,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"7,6x15,1 m\"?",
+      "options": {
+        "A": "1897-yildagi maydon o'lchamlari",
+        "B": "Texnik taym-autning davomiyligi",
+        "C": "Voleybol nomini bergan shaxs va yil",
+        "D": "FIVBning birinchi prezidenti"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 233,
+      "source_number": 233,
+      "source_paragraph": 13143,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"3 daqiqa\"?",
+      "options": {
+        "A": "Partiyalar oralig'idagi standart tanaffus vaqti",
+        "B": "Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari",
+        "C": "O'yinda bitta jamoaning maydonda bevosita harakat qiluvchi o'yinchilari soni",
+        "D": "O'zbekistonda voleybol ilk bor qachon paydo bo'ldi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 234,
+      "source_number": 234,
+      "source_paragraph": 13145,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart\"?",
+      "options": {
+        "A": "Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi",
+        "B": "Hal qiluvchi 5-partiya necha ochkogacha davom etadi",
+        "C": "To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi",
+        "D": "Rasmiy musobaqalarda foydalaniladigan to'plar soni (bir o'yinda)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 235,
+      "source_number": 235,
+      "source_paragraph": 13147,
+      "text": "Qaysi javobda Hal qiluvchi partiyada maydon qachon almashtiriladi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Jamoalardan biri 8 ochko to'plagan zahoti",
+        "B": "260-280 gr, aylanasi 65-67 sm",
+        "C": "Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart",
+        "D": "1952-yil Moskva shahrida"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 236,
+      "source_number": 236,
+      "source_paragraph": 13149,
+      "text": "Qaysi javobda Voleybol so'zining ma'nosi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Parvoz qiluvchi to'p",
+        "B": "60 soniya",
+        "C": "Faqat orqa zonada, himoyada o'ynash",
+        "D": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 237,
+      "source_number": 237,
+      "source_paragraph": 13151,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"7,6x15,1 m\"?",
+      "options": {
+        "A": "1897-yildagi maydon o'lchamlari",
+        "B": "Hal qiluvchi 5-partiya necha ochkogacha davom etadi",
+        "C": "Partiyalar oralig'idagi standart tanaffus vaqti",
+        "D": "Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 238,
+      "source_number": 238,
+      "source_paragraph": 13153,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"25 ochko (kamida 2 ochko ustunlik bilan)\"?",
+      "options": {
+        "A": "Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak",
+        "B": "To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi",
+        "C": "To'p maydon yuzasidan qancha balandlikka tashlanib o'yinga kiritiladi",
+        "D": "Hujum texnikasining asosiy bo'limlari"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 239,
+      "source_number": 239,
+      "source_paragraph": 13155,
+      "text": "Qaysi javobda FIVBning birinchi prezidenti to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Pol Libo",
+        "B": "2,43 m",
+        "C": "2,24 m",
+        "D": "To'p uzatish, to'p kiritish, hujum zarbasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 240,
+      "source_number": 240,
+      "source_paragraph": 13157,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1947-yil, Parij\"?",
+      "options": {
+        "A": "Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil",
+        "B": "To'p kiritish zonasi maydonning qayerida joylashgan",
+        "C": "1897-yildagi maydon o'lchamlari",
+        "D": "FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 241,
+      "source_number": 241,
+      "source_paragraph": 13159,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1964-yil, Tokio\"?",
+      "options": {
+        "A": "Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil",
+        "B": "Libero o'yinchisining taktik vazifasi",
+        "C": "Texnik taym-autlar qachon beriladi (I-IV partiyalarda)",
+        "D": "Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 242,
+      "source_number": 242,
+      "source_paragraph": 13161,
+      "text": "Qaysi javobda Erkaklar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "1949-yil Praga shahrida",
+        "B": "7,6x15,1 m",
+        "C": "O'yinchini uchrashuv oxirigacha diskvalifikatsiya qilish",
+        "D": "Parvoz qiluvchi to'p"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 243,
+      "source_number": 243,
+      "source_paragraph": 13163,
+      "text": "Qaysi javobda Himoya texnikasining asosiy bo'limlari to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "To'pni qabul qilish, to'siq qo'yish",
+        "B": "30 soniya",
+        "C": "6 tagacha",
+        "D": "Maydonning orqa chizig'i (9m) ortidagi bo'shliqda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 244,
+      "source_number": 244,
+      "source_paragraph": 13165,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"To'pni qabul qilish, to'siq qo'yish\"?",
+      "options": {
+        "A": "Himoya texnikasining asosiy bo'limlari",
+        "B": "Antennaning diametri va uzunligi",
+        "C": "Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi",
+        "D": "To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 245,
+      "source_number": 245,
+      "source_paragraph": 13167,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1895-yil, AQSH, Massachusets shtati, Xoliok shahri\"?",
+      "options": {
+        "A": "Voleybol ixtiro qilingan yil va joy",
+        "B": "Rasmiy musobaqalarda foydalaniladigan to'plar soni (bir o'yinda)",
+        "C": "Voleybol so'zining ma'nosi",
+        "D": "Sariq kartochka qanday jazoni anglatadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 246,
+      "source_number": 246,
+      "source_paragraph": 13169,
+      "text": "Qaysi javobda Libero o'yinchisining taktik vazifasi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Faqat orqa zonada, himoyada o'ynash",
+        "B": "14 kishi (shu jumladan liberolar)",
+        "C": "Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart",
+        "D": "1921-24-yillarda Qo'qon, Toshkent va Farg'onada"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 247,
+      "source_number": 247,
+      "source_paragraph": 13171,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1952-yil Moskva shahrida\"?",
+      "options": {
+        "A": "Ayollar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan",
+        "B": "Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi",
+        "C": "Hal qiluvchi 5-partiya necha ochkogacha davom etadi",
+        "D": "To'pni o'yinga kiritish uchun ajratiladigan vaqt (hakam hushtagidan so'ng)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 248,
+      "source_number": 248,
+      "source_paragraph": 13173,
+      "text": "Qaysi javobda Partiyalar oralig'idagi standart tanaffus vaqti to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "3 daqiqa",
+        "B": "Parvoz qiluvchi to'p",
+        "C": "Faqat orqa zonada, himoyada o'ynash",
+        "D": "1935-yil, Toshkentda Afg'oniston jamoasiga qarshi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 249,
+      "source_number": 249,
+      "source_paragraph": 13175,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Soat mili yo'nalishi bo'ylab siljiydi\"?",
+      "options": {
+        "A": "O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi",
+        "B": "Taym-autning (tanaffusning) davomiyligi qancha",
+        "C": "Qizil kartochka qanday jazoni anglatadi",
+        "D": "Hal qiluvchi partiyada maydon qachon almashtiriladi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 250,
+      "source_number": 250,
+      "source_paragraph": 13177,
+      "text": "Qaysi javobda Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "6 tagacha",
+        "B": "2,43 m",
+        "C": "1949-yil Praga shahrida",
+        "D": "5 sm"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 251,
+      "source_number": 251,
+      "source_paragraph": 13179,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"6 kishi\"?",
+      "options": {
+        "A": "O'yinda bitta jamoaning maydonda bevosita harakat qiluvchi o'yinchilari soni",
+        "B": "Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi",
+        "C": "O'zbekistonda voleybol ilk bor qachon paydo bo'ldi",
+        "D": "Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 252,
+      "source_number": 252,
+      "source_paragraph": 13181,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Hujum zonasiga kirib, to'rning eng yuqori qismidan zarba berishi\"?",
+      "options": {
+        "A": "Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi",
+        "B": "Texnik taym-autlar qachon beriladi (I-IV partiyalarda)",
+        "C": "Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi",
+        "D": "FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 253,
+      "source_number": 253,
+      "source_paragraph": 13183,
+      "text": "Qaysi javobda Partiyalar oralig'idagi standart tanaffus vaqti to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "3 daqiqa",
+        "B": "2,43 m",
+        "C": "5 ta to'p",
+        "D": "260-280 gr, aylanasi 65-67 sm"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 254,
+      "source_number": 254,
+      "source_paragraph": 13185,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"O'yinchini uchrashuv oxirigacha diskvalifikatsiya qilish\"?",
+      "options": {
+        "A": "Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi",
+        "B": "Erkaklar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan",
+        "C": "FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi",
+        "D": "Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 255,
+      "source_number": 255,
+      "source_paragraph": 13187,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"3 daqiqa\"?",
+      "options": {
+        "A": "Partiyalar oralig'idagi standart tanaffus vaqti",
+        "B": "Ayollar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan",
+        "C": "Erkaklar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan",
+        "D": "Hal qiluvchi 5-partiya necha ochkogacha davom etadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 256,
+      "source_number": 256,
+      "source_paragraph": 13189,
+      "text": "Qaysi javobda To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi",
+        "B": "Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart",
+        "C": "1935-yil, Toshkentda Afg'oniston jamoasiga qarshi",
+        "D": "2,43 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 257,
+      "source_number": 257,
+      "source_paragraph": 13191,
+      "text": "Qaysi javobda Hal qiluvchi partiyada maydon qachon almashtiriladi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Jamoalardan biri 8 ochko to'plagan zahoti",
+        "B": "30 soniya",
+        "C": "Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik",
+        "D": "1992-yildan boshlab"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 258,
+      "source_number": 258,
+      "source_paragraph": 13193,
+      "text": "Qaysi javobda Voleybol to'pining rasmiy og'irligi va aylanasi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "260-280 gr, aylanasi 65-67 sm",
+        "B": "1925-yil yanvarda Moskvada",
+        "C": "Yugurib kelish, sakrash, to'pga zarba berish, qo'nish",
+        "D": "2,43 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 259,
+      "source_number": 259,
+      "source_paragraph": 13195,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"15 ochkogacha (kamida 2 ochko ustunlik bilan)\"?",
+      "options": {
+        "A": "Hal qiluvchi 5-partiya necha ochkogacha davom etadi",
+        "B": "Voleybol ixtiro qilingan yil va joy",
+        "C": "Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi",
+        "D": "Texnik taym-autning davomiyligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 260,
+      "source_number": 260,
+      "source_paragraph": 13197,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1895-yil, AQSH, Massachusets shtati, Xoliok shahri\"?",
+      "options": {
+        "A": "Voleybol ixtiro qilingan yil va joy",
+        "B": "Rossiyada tuzilgan birinchi rasmiy musobaqa qoidalari",
+        "C": "Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni",
+        "D": "Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 261,
+      "source_number": 261,
+      "source_paragraph": 13199,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1921-24-yillarda Qo'qon, Toshkent va Farg'onada\"?",
+      "options": {
+        "A": "O'zbekistonda voleybol ilk bor qachon paydo bo'ldi",
+        "B": "Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni",
+        "C": "Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)",
+        "D": "Voleybol so'zining ma'nosi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 262,
+      "source_number": 262,
+      "source_paragraph": 13201,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"3 daqiqa\"?",
+      "options": {
+        "A": "Partiyalar oralig'idagi standart tanaffus vaqti",
+        "B": "Texnik taym-autlar qachon beriladi (I-IV partiyalarda)",
+        "C": "Erkaklar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan",
+        "D": "Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 263,
+      "source_number": 263,
+      "source_paragraph": 13203,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"6 kishi\"?",
+      "options": {
+        "A": "O'yinda bitta jamoaning maydonda bevosita harakat qiluvchi o'yinchilari soni",
+        "B": "Sariq kartochka qanday jazoni anglatadi",
+        "C": "Texnik taym-autlar qachon beriladi (I-IV partiyalarda)",
+        "D": "Voleybol ixtiro qilingan yil va joy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 264,
+      "source_number": 264,
+      "source_paragraph": 13205,
+      "text": "Qaysi javobda Partiyalar oralig'idagi standart tanaffus vaqti to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "3 daqiqa",
+        "B": "5 sm",
+        "C": "25 ochko (kamida 2 ochko ustunlik bilan)",
+        "D": "10 mm diametr, 1,8 m uzunlik"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 265,
+      "source_number": 265,
+      "source_paragraph": 13207,
+      "text": "Qaysi javobda Libero o'yinchisining taktik vazifasi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Faqat orqa zonada, himoyada o'ynash",
+        "B": "Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik",
+        "C": "Uilyam J.Morgan",
+        "D": "Yugurib kelish, sakrash, to'pga zarba berish, qo'nish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 266,
+      "source_number": 266,
+      "source_paragraph": 13209,
+      "text": "Qaysi javobda Antennaning diametri va uzunligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "10 mm diametr, 1,8 m uzunlik",
+        "B": "6 tagacha",
+        "C": "14 kishi (shu jumladan liberolar)",
+        "D": "2 tagacha"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 267,
+      "source_number": 267,
+      "source_paragraph": 13211,
+      "text": "Qaysi javobda Rasmiy musobaqalarda foydalaniladigan to'plar soni (bir o'yinda) to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "5 ta to'p",
+        "B": "14 kishi (shu jumladan liberolar)",
+        "C": "1935-yil, Toshkentda Afg'oniston jamoasiga qarshi",
+        "D": "Raqibning hujumiga xalaqit bermasdan to'r ustidan o'tkazishga ruxsat etiladi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 268,
+      "source_number": 268,
+      "source_paragraph": 13213,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1935-yil, Toshkentda Afg'oniston jamoasiga qarshi\"?",
+      "options": {
+        "A": "O'zbek voleybolchilari ishtirok etgan ilk xalqaro uchrashuv",
+        "B": "Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi",
+        "C": "Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi",
+        "D": "FIVBning birinchi prezidenti"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 269,
+      "source_number": 269,
+      "source_paragraph": 13215,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"6 tagacha\"?",
+      "options": {
+        "A": "Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni",
+        "B": "Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr",
+        "C": "To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi",
+        "D": "Hujum texnikasining asosiy bo'limlari"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 270,
+      "source_number": 270,
+      "source_paragraph": 13217,
+      "text": "Qaysi javobda 1920-yildan qat'iy joriy qilingan maydon o'lchami to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "9x18 m",
+        "B": "260-280 gr, aylanasi 65-67 sm",
+        "C": "Parvoz qiluvchi to'p",
+        "D": "1947-yil, Parij"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 271,
+      "source_number": 271,
+      "source_paragraph": 13219,
+      "text": "Qaysi javobda To'pni o'yinga kiritish uchun ajratiladigan vaqt (hakam hushtagidan so'ng) to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "8 soniya",
+        "B": "1935-yil, Toshkentda Afg'oniston jamoasiga qarshi",
+        "C": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "D": "2, 3 va 4-zonalarda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 272,
+      "source_number": 272,
+      "source_paragraph": 13221,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Tanbeh (Raqib jamoaga 1 ochko va to'p kiritish huquqi beriladi)\"?",
+      "options": {
+        "A": "Sariq kartochka qanday jazoni anglatadi",
+        "B": "To'p maydon yuzasidan qancha balandlikka tashlanib o'yinga kiritiladi",
+        "C": "Texnik taym-autning davomiyligi",
+        "D": "Hujum texnikasining asosiy bo'limlari"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 273,
+      "source_number": 273,
+      "source_paragraph": 13223,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Faqat orqa zonada, himoyada o'ynash\"?",
+      "options": {
+        "A": "Libero o'yinchisining taktik vazifasi",
+        "B": "Hujum texnikasining asosiy bo'limlari",
+        "C": "O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi",
+        "D": "O'zbekistonda voleybol ilk bor qachon paydo bo'ldi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 274,
+      "source_number": 274,
+      "source_paragraph": 13225,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"10 mm diametr, 1,8 m uzunlik\"?",
+      "options": {
+        "A": "Antennaning diametri va uzunligi",
+        "B": "Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)",
+        "C": "O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi",
+        "D": "Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 275,
+      "source_number": 275,
+      "source_paragraph": 13227,
+      "text": "Qaysi javobda Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart",
+        "B": "3 daqiqa",
+        "C": "1952-yil Moskva shahrida",
+        "D": "Yugurib kelish, sakrash, to'pga zarba berish, qo'nish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 276,
+      "source_number": 276,
+      "source_paragraph": 13229,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"To'p uzatish, to'p kiritish, hujum zarbasi\"?",
+      "options": {
+        "A": "Hujum texnikasining asosiy bo'limlari",
+        "B": "Voleybol ixtiro qilingan yil va joy",
+        "C": "Sariq va qizil kartochkalarning bir vaqtda qo'shib ko'rsatilishi",
+        "D": "Voleybol bo'yicha O'zbekiston chempionati muntazam o'tkazila boshlagan davr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 277,
+      "source_number": 277,
+      "source_paragraph": 13231,
+      "text": "Qaysi javobda FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Kamida 12,5 metr bo'lishi shart",
+        "B": "1992-yildan boshlab",
+        "C": "6 kishi",
+        "D": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 278,
+      "source_number": 278,
+      "source_paragraph": 13233,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Maydonning orqa chizig'i (9m) ortidagi bo'shliqda\"?",
+      "options": {
+        "A": "To'p kiritish zonasi maydonning qayerida joylashgan",
+        "B": "Voleybol o'yini ixtirochisi",
+        "C": "Jamoa tarkibidagi Libero o'yinchilar soni normativi",
+        "D": "FIVBning birinchi prezidenti"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 279,
+      "source_number": 279,
+      "source_paragraph": 13235,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"O'yinchini joriy partiya oxirigacha maydondan chetlatish\"?",
+      "options": {
+        "A": "Qizil kartochka qanday jazoni anglatadi",
+        "B": "Partiyalar oralig'idagi standart tanaffus vaqti",
+        "C": "Hujum zarbasini bajarish fazalari ketma-ketligi",
+        "D": "Ayollar o'rtasida 1-jahon birinchiligi qachon va qayerda o'tkazilgan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 280,
+      "source_number": 280,
+      "source_paragraph": 13237,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Yugurib kelish, sakrash, to'pga zarba berish, qo'nish\"?",
+      "options": {
+        "A": "Hujum zarbasini bajarish fazalari ketma-ketligi",
+        "B": "Voleybol so'zining ma'nosi",
+        "C": "O'zbekistonda voleybol ilk bor qachon paydo bo'ldi",
+        "D": "Orqa chiziq o'yinchisi hujum zarbasini qanday bajarishi taqiqlanadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 281,
+      "source_number": 281,
+      "source_paragraph": 13239,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1935-yil, Toshkentda Afg'oniston jamoasiga qarshi\"?",
+      "options": {
+        "A": "O'zbek voleybolchilari ishtirok etgan ilk xalqaro uchrashuv",
+        "B": "Voleybol ixtiro qilingan yil va joy",
+        "C": "Himoya texnikasining asosiy bo'limlari",
+        "D": "To'pni o'yinga kiritish uchun ajratiladigan vaqt (hakam hushtagidan so'ng)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 282,
+      "source_number": 282,
+      "source_paragraph": 13241,
+      "text": "Qaysi javobda FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Kamida 12,5 metr bo'lishi shart",
+        "B": "1992-yildan boshlab",
+        "C": "30 soniya",
+        "D": "10 mm diametr, 1,8 m uzunlik"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 283,
+      "source_number": 283,
+      "source_paragraph": 13243,
+      "text": "Qaysi javobda FIVBning birinchi prezidenti to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Pol Libo",
+        "B": "1964-yil, Tokio",
+        "C": "10 mm diametr, 1,8 m uzunlik",
+        "D": "Maydonning orqa chizig'i (9m) ortidagi bo'shliqda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 284,
+      "source_number": 284,
+      "source_paragraph": 13245,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"To'pni qabul qilish, to'siq qo'yish\"?",
+      "options": {
+        "A": "Himoya texnikasining asosiy bo'limlari",
+        "B": "1897-yildagi maydon o'lchamlari",
+        "C": "To'p maydon yuzasidan qancha balandlikka tashlanib o'yinga kiritiladi",
+        "D": "Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 285,
+      "source_number": 285,
+      "source_paragraph": 13247,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Boshqa o'yinchilardan rangi yoki shakli bilan tubdan farq qilishi shart\"?",
+      "options": {
+        "A": "Libero o'yinchisining kiyimi qanday bo'lishi talab etiladi",
+        "B": "Voleybol o'yini ixtirochisi",
+        "C": "To'p kiritish zonasi maydonning qayerida joylashgan",
+        "D": "Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 286,
+      "source_number": 286,
+      "source_paragraph": 13249,
+      "text": "Qaysi javobda Hujum zarbasini bajarish fazalari ketma-ketligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Yugurib kelish, sakrash, to'pga zarba berish, qo'nish",
+        "B": "1895-yil, AQSH, Massachusets shtati, Xoliok shahri",
+        "C": "1947-yil, Parij",
+        "D": "8 soniya"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 287,
+      "source_number": 287,
+      "source_paragraph": 13251,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"25 ochko (kamida 2 ochko ustunlik bilan)\"?",
+      "options": {
+        "A": "Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak",
+        "B": "Voleybol o'yini ixtirochisi",
+        "C": "Partiyada bir jamoaga ruxsat etilgan asosiy o'yinchi almashtirishlar soni",
+        "D": "To'p maydon yuzasidan qancha balandlikka tashlanib o'yinga kiritiladi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 288,
+      "source_number": 288,
+      "source_paragraph": 13253,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"1947-yil, Parij\"?",
+      "options": {
+        "A": "Xalqaro voleybol federatsiyasi (FIVB) tashkil etilgan joy va yil",
+        "B": "Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi",
+        "C": "Maydondagi chegaralovchi chiziqlarning kengligi",
+        "D": "To'siq qo'yish jarayonida qo'llarning to'rdan o'tish qoidasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 289,
+      "source_number": 289,
+      "source_paragraph": 13255,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"9x18 m\"?",
+      "options": {
+        "A": "1920-yildan qat'iy joriy qilingan maydon o'lchami",
+        "B": "Voleybol to'pining rasmiy og'irligi va aylanasi",
+        "C": "Texnik taym-autlar qachon beriladi (I-IV partiyalarda)",
+        "D": "O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 290,
+      "source_number": 290,
+      "source_paragraph": 13257,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"10 mm diametr, 1,8 m uzunlik\"?",
+      "options": {
+        "A": "Antennaning diametri va uzunligi",
+        "B": "Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak",
+        "C": "Zamonaviy qoidalarga ko'ra to'rning erkaklar uchun balandligi",
+        "D": "Voleybol o'yini ixtirochisi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 291,
+      "source_number": 291,
+      "source_paragraph": 13259,
+      "text": "Qaysi javobda Texnik taym-autlar qachon beriladi (I-IV partiyalarda) to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Jamoalardan biri 8 va 16 ochkoga yetganda avtomatik",
+        "B": "Pol Libo",
+        "C": "1952-yil Moskva shahrida",
+        "D": "2,24 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 292,
+      "source_number": 292,
+      "source_paragraph": 13261,
+      "text": "Qaysi javobda To'r oldida hujum uyushtiruvchi o'yinchilar qaysi zonalarda joylashadi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "2, 3 va 4-zonalarda",
+        "B": "Hujum zonasiga kirib, to'rning eng yuqori qismidan zarba berishi",
+        "C": "O'yinchi to'pni qoidaga mos istalgan balandlikka tashlashi mumkin",
+        "D": "3 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 293,
+      "source_number": 293,
+      "source_paragraph": 13263,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"14 kishi (shu jumladan liberolar)\"?",
+      "options": {
+        "A": "Jamoa tarkibidagi o'yinchilarning maksimal soni (qaydnoma bo'yicha)",
+        "B": "Voleybol ixtiro qilingan yil va joy",
+        "C": "FIVB qoidalariga ko'ra o'yin maydoni ustidagi bo'shliqning minimal balandligi",
+        "D": "Zamonaviy qoidalarga ko'ra to'rning ayollar uchun balandligi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 294,
+      "source_number": 294,
+      "source_paragraph": 13265,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"25 ochko (kamida 2 ochko ustunlik bilan)\"?",
+      "options": {
+        "A": "Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak",
+        "B": "O'zbekistonda voleybol ilk bor qachon paydo bo'ldi",
+        "C": "Voleybol Olimpiada o'yinlari dasturiga kiritilgan yil",
+        "D": "Voleybol o'yini ixtirochisi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 295,
+      "source_number": 295,
+      "source_paragraph": 13267,
+      "text": "Qaysi javobda Texnik taym-autning davomiyligi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "60 soniya",
+        "B": "25 ochko (kamida 2 ochko ustunlik bilan)",
+        "C": "2,43 m",
+        "D": "1992-yildan boshlab"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 296,
+      "source_number": 296,
+      "source_paragraph": 13269,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"25 ochko (kamida 2 ochko ustunlik bilan)\"?",
+      "options": {
+        "A": "Jamoa bitta partiyani yutishi uchun necha ochko to'plashi kerak",
+        "B": "Voleybol nomini bergan shaxs va yil",
+        "C": "O'zbek voleybolchilari ishtirok etgan ilk xalqaro uchrashuv",
+        "D": "1897-yildagi maydon o'lchamlari"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 297,
+      "source_number": 297,
+      "source_paragraph": 13271,
+      "text": "Qaysi javobda Hal qiluvchi partiyada maydon qachon almashtiriladi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Jamoalardan biri 8 ochko to'plagan zahoti",
+        "B": "Yugurib kelish, sakrash, to'pga zarba berish, qo'nish",
+        "C": "2, 3 va 4-zonalarda",
+        "D": "9x18 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 298,
+      "source_number": 298,
+      "source_paragraph": 13273,
+      "text": "Qaysi javobda Libero o'yinchisining taktik vazifasi to'g'ri va aniq ko'rsatilgan?",
+      "options": {
+        "A": "Faqat orqa zonada, himoyada o'ynash",
+        "B": "2, 3 va 4-zonalarda",
+        "C": "10 mm diametr, 1,8 m uzunlik",
+        "D": "9x18 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 299,
+      "source_number": 299,
+      "source_paragraph": 13275,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"15 ochkogacha (kamida 2 ochko ustunlik bilan)\"?",
+      "options": {
+        "A": "Hal qiluvchi 5-partiya necha ochkogacha davom etadi",
+        "B": "Voleybol o'yini ixtirochisi",
+        "C": "Libero o'yinchisining taktik vazifasi",
+        "D": "FIVBning birinchi prezidenti"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 300,
+      "source_number": 300,
+      "source_paragraph": 13277,
+      "text": "Quyidagi tasdiq qaysi tushuncha yoki voqeani anglatadi: \"Soat mili yo'nalishi bo'ylab siljiydi\"?",
+      "options": {
+        "A": "O'yinchilarning maydondagi joylashish raqamlari tartibi qanday o'zgaradi",
+        "B": "1897-yildagi maydon o'lchamlari",
+        "C": "Partiyalar oralig'idagi standart tanaffus vaqti",
+        "D": "Voleybol so'zining ma'nosi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    }
+  ]
+}

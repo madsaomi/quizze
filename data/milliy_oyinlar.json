@@ -1,0 +1,2487 @@
+{
+  "title": "Milliy va harakatli o'yinlar",
+  "language": "uz-Latn",
+  "source_file": "Attestaciya jismoniy tarbiya.docx",
+  "questions": [
+    {
+      "id": 1,
+      "source_number": null,
+      "source_paragraph": 4390,
+      "text": "Mahmud Koshg'ariy 11-asrda yozilgan \"Devon-u lug'atit turk\" asarida 150 ga yaqin xalq o'yinlarini yozib qoldirganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 2,
+      "source_number": null,
+      "source_paragraph": 4393,
+      "text": "Abu Ali ibn Sino \"Tib qonunlari\" asarida badantarbiyani 5 asosiy qismga ajratganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 3,
+      "source_number": null,
+      "source_paragraph": 4396,
+      "text": "Kaykovus o'zining \"Qobusnoma\" asarida chavgon, shatranj va suvda suzish sirlarini bayon qilganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 4,
+      "source_number": null,
+      "source_paragraph": 4399,
+      "text": "Umar Xayyom \"Navro'znoma\" asarida tiyrandozlik (kamon otish) foydasi va Navro'z o'yinlari haqida ma'lumot qoldirganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 5,
+      "source_number": null,
+      "source_paragraph": 4402,
+      "text": "Alisher Navoiy \"Mahbub ul-qulub\" asarida \"Oqsuyak\" o'yiniga, \"Farhod va Shirin\" dostonida esa tiyrandozlikka ta'rif berganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 6,
+      "source_number": null,
+      "source_paragraph": 4405,
+      "text": "Husayn Voiz Koshifiy \"Futuvvatnomayi sultoniy\" asarida pahlavonlarni 8 toifaga ajratganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 7,
+      "source_number": null,
+      "source_paragraph": 4408,
+      "text": "Amir Temur o'n to'rt yoshidayoq o'q-yoy otish, chavandozlik, qilichbozlik va kurashda yetuk bo'lganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 8,
+      "source_number": null,
+      "source_paragraph": 4411,
+      "text": "1991 yilda ilk bor Respublika xalq o'yinlari olimpiadasi Jizzax viloyatining Forish tumanida o'tkazilganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 9,
+      "source_number": null,
+      "source_paragraph": 4414,
+      "text": "1999 yilda \"Ayollar yili\" munosabati bilan qizlar o'rtasida o'tkazilgan sport o'yinlari festivali \"To'maris\" deb nomlanganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 10,
+      "source_number": null,
+      "source_paragraph": 4417,
+      "text": "\"Duk\" o'yini Forish tumanida qayta tiklangan, sharq yakkakurashlari (karate)ga o'xshash qadimiy jang-tepish o'yinimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 11,
+      "source_number": null,
+      "source_paragraph": 4420,
+      "text": "\"Chullik\" (chillak) o'yinida 70-80 sm uzunlikdagi dasta va 15-20 sm li uchlari o'yilgan tayoqcha ishlatiladimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 12,
+      "source_number": null,
+      "source_paragraph": 4423,
+      "text": "\"Jami\" o'yinida besh toshni ustma-ust qo'yib, 6-8 metrdan to'p bilan urib tushirish talab etiladimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 13,
+      "source_number": null,
+      "source_paragraph": 4426,
+      "text": "\"Qirq tosh\" o'yinida har bir metrga tosh yoki koptokchalar qo'yilib, tezlik bilan yugurib terib kelinadimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 14,
+      "source_number": null,
+      "source_paragraph": 4429,
+      "text": "\"Eshak mindi\" o'yinida o'yinchilar doira markazida turgan o'yinchi ustidan xatlab sakrab o'tadilarmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 15,
+      "source_number": null,
+      "source_paragraph": 4432,
+      "text": "\"Tortishmachoq\" o'yinida ikki jamoa a'zolari bir-birining belidan ushlab, o'rta chiziqdan tortib o'tishga harakat qiladilarmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 16,
+      "source_number": null,
+      "source_paragraph": 4435,
+      "text": "\"Durra\" o'yinida o'yinchilar doira bo'lib ko'zni yumib o'tirganlarida, onaboshi bildirmasdan kimningdir orqasiga ro'molcha qo'yadimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 17,
+      "source_number": null,
+      "source_paragraph": 4438,
+      "text": "\"Quyonlar polizga tushdi\" o'yinida tashqi doira diametri 7-9 m, ichki doira 3-4 m bo'lib, qorovul quyonlarni koptok bilan uradimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 18,
+      "source_number": null,
+      "source_paragraph": 4441,
+      "text": "\"Bo'ron\" o'yini 300-500 grammli tugunchani 30 metr masofaga uloqtirib, marraga yetkazishga asoslangan regbiga o'xshash o'yinmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 19,
+      "source_number": null,
+      "source_paragraph": 4444,
+      "text": "\"Oq terakmi, ko'k terak\" o'yinida jamoalar qo'l ushlashib zanjir hosil qiladi va chaqirilgan o'yinchi shu zanjirni uzishga harakat qiladimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 20,
+      "source_number": null,
+      "source_paragraph": 4447,
+      "text": "\"Chavandoz\" o'yinida bir oyoqda sakrab yurib, belgilangan maydon ichida raqiblarni ushlash talab etiladimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 21,
+      "source_number": null,
+      "source_paragraph": 4453,
+      "text": "Atama va ta'riflarni moslashtiring: 1) Mahmud Koshg'ariy 2) Ibn Sino 3) Kaykovus\na) \"Devon-u lug'atit turk\" muallifi  b) Badantarbiyani 5 ga bo'lgan  c) \"Qobusnoma\" muallifi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 22,
+      "source_number": null,
+      "source_paragraph": 4457,
+      "text": "Atama va ta'riflarni moslashtiring: 1) Umar Xayyom 2) Alisher Navoiy 3) Koshifiy\na) \"Navro'znoma\" asarida kamon otish sirlarini yozgan  b) \"Mahbub ul-qulub\"da Oqsuyak o'yinini ta'riflagan  c) \"Futuvvatnomayi sultoniy\"da pahlavonlarni 8 toifaga ajratgan",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-c, 3-a",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 23,
+      "source_number": null,
+      "source_paragraph": 4461,
+      "text": "Atama va ta'riflarni moslashtiring: 1) Amir Temur 2) Forish tumani 3) To'maris festivali\na) 14 yoshida o'q-yoy otishda yetuk bo'lgan sarkarda  b) 1991 yilda ilk xalq o'yinlari olimpiadasi o'tgan joy  c) 1999 yil Jizzaxda qizlar uchun o'tkazilgan festival",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-a, 2-c, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 24,
+      "source_number": null,
+      "source_paragraph": 4465,
+      "text": "Atama va ta'riflarni moslashtiring: 1) Alpomish o'yinlari 2) Duk o'yini 3) Chullik\na) 1998 yil Termizda o'tkazilgan sport festivali  b) Forishda tiklangan qadimiy jang-tepish o'yini  c) 70-80 sm dasta va tayoqcha bilan o'ynaladigan o'yin",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 25,
+      "source_number": null,
+      "source_paragraph": 4469,
+      "text": "Atama va ta'riflarni moslashtiring: 1) Jami o'yini 2) Qirq tosh 3) Eshak mindi\na) 5 ta toshni ustma-ust qo'yib to'p bilan uriladigan o'yin  b) Har 1 metrga tosh qo'yilib yugurib teriladigan o'yin  c) Doira markazidagi o'yinchi ustidan xatlab o'tiladigan o'yin",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-a, 3-b",
+        "D": "1-b, 2-c, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 26,
+      "source_number": null,
+      "source_paragraph": 4473,
+      "text": "Atama va ta'riflarni moslashtiring: 1) Bo'sh o'rin 2) Tortishmachoq 3) Durra\na) Onaboshi yelkaga tegib teskari chopadigan o'yin  b) Beldan ushlab o'rta chiziqdan tortib o'tadigan o'yin  c) Ko'zni yumib o'tirganda orqaga ro'molcha qo'yadigan o'yin",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 27,
+      "source_number": null,
+      "source_paragraph": 4477,
+      "text": "Atama va ta'riflarni moslashtiring: 1) Quyonlar polizga tushdi 2) Bo'ron 3) Oq terakmi, ko'k terak\na) 7-9 m tashqi, 3-4 m ichki doiraga ega to'pli o'yin  b) 300 g tugunchani 30 metrga uloqtiradigan o'yin  c) Qo'l ushlashib zanjir uzishga harakat qilinadigan o'yin",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 28,
+      "source_number": null,
+      "source_paragraph": 4481,
+      "text": "Atama va ta'riflarni moslashtiring: 1) Oq ayiqlar 2) Chavandoz 3) Ikki yaxob\na) Ushlanganlar juftlashib qurshovga olib ov qiladigan o'yin  b) Bir oyoqda sakrab yurib raqiblarni ushlaydigan o'yin  c) O'rtadagi qizil va ko'k burun yaxoblar ushlab muzlatadigan o'yin",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-a, 3-b",
+        "D": "1-b, 2-c, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 29,
+      "source_number": null,
+      "source_paragraph": 4485,
+      "text": "Atama va ta'riflarni moslashtiring: 1) Bo'ri zovur ichida 2) Hamma o'z bayroqchasiga 3) Ko'z bog'lash\na) Zovurdan sakrab o'tishda bo'ri tutadigan o'yin  b) Signal bilan o'z bayroqchasiga yig'iladigan o'yin  c) Tovushga qarab qochuvchini tutuvchi o'yin",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 30,
+      "source_number": null,
+      "source_paragraph": 4489,
+      "text": "Atama va ta'riflarni moslashtiring: 1) Otib qochar 2) Olamon poyga 3) Chaqqonlar va merganlar\na) To'p urib uzoqqa qochadigan o'yin  b) Xalq sayillarida o'tkaziladigan otish va chopish o'yini  c) 16 metrdan turib to'p bilan nishonga urish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 31,
+      "source_number": null,
+      "source_paragraph": 4495,
+      "text": "Mahmud Koshg'ariy 2) Amir Temur 3) Bobur\na) \"Devon-u lug'atit turk\"  b) 14 yoshida kamonchi  c) \"Boburnoma\" muallifi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-a, 3-b",
+        "D": "1-b, 2-c, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 32,
+      "source_number": null,
+      "source_paragraph": 4499,
+      "text": "Ibn Sino 2) Kaykovus 3) Umar Xayyom\na) 5 xil badantarbiya  b) Chavgon va shatranj  c) Kamon otish va Navro'z",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 33,
+      "source_number": null,
+      "source_paragraph": 4503,
+      "text": "Navoiy 2) Koshifiy 3) Forish tumani\na) Oqsuyak o'yini  b) 8 adab va pahlavonlar  c) 1991 yil olimpiada",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 34,
+      "source_number": null,
+      "source_paragraph": 4507,
+      "text": "To'maris festivali 2) Alpomish o'yinlari 3) Duk\na) Qizlar sport bayrami  b) Termizdagi yigitlar festivali  c) Karatega o'xshash qadimiy o'yin",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 35,
+      "source_number": null,
+      "source_paragraph": 4511,
+      "text": "Chullik 2) Jami 3) Eshak mindi\na) Tayoqcha va dasta  b) 5 toshli mo'ljal  c) Sakrab xatlash",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-a, 3-b",
+        "D": "1-b, 2-c, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 36,
+      "source_number": null,
+      "source_paragraph": 4515,
+      "text": "Tortishmachoq 2) Durra 3) Quyonlar polizga tushdi\na) Beldan tortishish  b) Orqaga ro'molcha qo'yish  c) Ichki doiraga sakrash",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-a, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 37,
+      "source_number": null,
+      "source_paragraph": 4519,
+      "text": "Qirq tosh 2) Bo'sh o'rin 3) Ko'z bog'lash\na) Estafetali terish  b) Teskari yugurish  c) Tovush bilan izlash",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 38,
+      "source_number": null,
+      "source_paragraph": 4523,
+      "text": "Bo'ron 2) Oq terakmi 3) Oq ayiqlar\na) Tuguncha uloqtirish  b) Zanjir buzish  c) Juftlashib ovlash",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 39,
+      "source_number": null,
+      "source_paragraph": 4527,
+      "text": "Chavandoz 2) Otib qochar 3) Ikki yaxob\na) Bir oyoqda sakrash  b) To'pni uzoqqa urish  c) Qizil va ko'k burun",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-c, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 40,
+      "source_number": null,
+      "source_paragraph": 4531,
+      "text": "Bo'ri zovur ichida 2) Hamma o'z bayroqchasiga 3) Aniq nishonga tushirish\na) Sakrash va xatlash  b) Yig'ilish signali  c) Pokrishkaga to'p tushirish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 41,
+      "source_number": null,
+      "source_paragraph": 4535,
+      "text": "Koshg'ariy 2) Ibn Sino 3) Kaykovus\na) 11 asr devoni  b) Davolovchi mashqlar  c) Ot tanlash sirlari",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 42,
+      "source_number": null,
+      "source_paragraph": 4539,
+      "text": "Umar Xayyom 2) Navoiy 3) Koshifiy\na) Oftob va yoy  b) Farhod obrazi  c) 8 ta odob",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 43,
+      "source_number": null,
+      "source_paragraph": 4543,
+      "text": "Amir Temur 2) Bobur 3) Forish\na) Nayzabozlik va kurash  b) Islim barlos yoyi  c) Tog'li chekka hudud",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-c, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 44,
+      "source_number": null,
+      "source_paragraph": 4547,
+      "text": "To'maris 2) Alpomish 3) Duk\na) Qizlar mardligi  b) Barchin shartlari  c) Oyoq bilan tepish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 45,
+      "source_number": null,
+      "source_paragraph": 4551,
+      "text": "Oqsuyak 2) Chullik 3) Jami\na) Kechasi topish  b) Dasta va qaqanoq  c) Minorali toshlar",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 46,
+      "source_number": null,
+      "source_paragraph": 4555,
+      "text": "Eshak mindi 2) Tortishmachoq 3) Durra\na) Tiz cho'kib turish  b) Arqon talashish  c) Quvlab yetish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 47,
+      "source_number": null,
+      "source_paragraph": 4559,
+      "text": "Quyonlar polizga tushdi 2) Qirq tosh 3) Bo'sh o'rin\na) 2 ta doira  b) 40 ta buyum  c) Uchrashib salomlashish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 48,
+      "source_number": null,
+      "source_paragraph": 4563,
+      "text": "Ko'z bog'lash 2) Bo'ron 3) Oq terak\na) Ro'molcha bilan yopish  b) Regbi elementlari  c) Bizdan sizga kim kerak",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 49,
+      "source_number": null,
+      "source_paragraph": 4567,
+      "text": "Oq ayiqlar 2) Chavandoz 3) Otib qochar\na) Muz parchasi  b) Yakkakurash elementi  c) Zarba va qochish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-a, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 50,
+      "source_number": null,
+      "source_paragraph": 4571,
+      "text": "Ikki yaxob 2) Bo'ri zovur ichida 3) Hamma o'z bayroqchasiga\na) Yaxlagan holat  b) Echkilar qochishi  c) Cho'qqayib o'tirish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 51,
+      "source_number": null,
+      "source_paragraph": 4575,
+      "text": "Koshg'ariy 2) Umar Xayyom 3) Bobur\na) Oltin qovoq bahsi  b) Navro'z o'yinlari  c) Qaboq maydoni",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-a, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 52,
+      "source_number": null,
+      "source_paragraph": 4579,
+      "text": "Ibn Sino 2) Navoiy 3) Koshifiy\na) Holsizlarga o'yin  b) Guy va chovgan  c) Fil bilan olishish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 53,
+      "source_number": null,
+      "source_paragraph": 4583,
+      "text": "Kaykovus 2) Amir Temur 3) Forish\na) Otning 24 xil aybi  b) Barloslar o'yini  c) Jizzax hududi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 54,
+      "source_number": null,
+      "source_paragraph": 4587,
+      "text": "To'maris 2) Alpomish 3) Duk\na) Xotin-qizlar kuchliligi  b) Ming qadamdan tanga urish  c) Unutilgan san'at",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-c, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 55,
+      "source_number": null,
+      "source_paragraph": 4591,
+      "text": "Oqsuyak 2) Chullik 3) Jami\na) Skandinaviyada ham bor  b) Qalam singari o'yilgan  c) Himoya uyi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-a, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 56,
+      "source_number": null,
+      "source_paragraph": 4595,
+      "text": "Eshak mindi 2) Tortishmachoq 3) Durra\na) Qorovul halaqit beradi  b) Jamoaviy kuch  c) Boshni tizzaga qo'yish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 57,
+      "source_number": null,
+      "source_paragraph": 4599,
+      "text": "Quyonlar polizda 2) Qirq tosh 3) Bo'sh o'rin\na) Rezinaga bog'langan koptok  b) Belgilangan lentalar  c) Bir yarim qadam oraliq",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 58,
+      "source_number": null,
+      "source_paragraph": 4603,
+      "text": "Ko'z bog'lash 2) Bo'ron 3) Oq terak\na) Davra bilan cheklangan  b) 1.5 m doira marrasi  c) Zanjir uzish qoidalari",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 59,
+      "source_number": null,
+      "source_paragraph": 4607,
+      "text": "Oq ayiqlar 2) Chavandoz 3) Otib qochar\na) Dengiz va muz  b) Tirsakdan bukib sakrash  c) Himoyachilar",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 60,
+      "source_number": null,
+      "source_paragraph": 4611,
+      "text": "Ikki yaxob 2) Bo'ri zovurda 3) Bayroqcha\na) Qahramon so'zlari  b) Ikki uy chegarasi  c) Ko'zni ochib yugurish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 61,
+      "source_number": null,
+      "source_paragraph": 4615,
+      "text": "Koshg'ariy 2) Ibn Sino 3) Kaykovus\na) Bandol va Muguz  b) Arg'imchoq bilan davolash  c) Odamning badani haqida",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 62,
+      "source_number": null,
+      "source_paragraph": 4619,
+      "text": "Umar Xayyom 2) Navoiy 3) Koshifiy\na) 365 kunlik taqvim  b) Zo'ri beandaza  c) Tig' va qalqon",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 63,
+      "source_number": null,
+      "source_paragraph": 4623,
+      "text": "Temur 2) Bobur 3) Forish\na) Qilich Arslon jangi  b) 40 botmon yoy  c) Xalq o'yinlari tiklanishi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-a, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 64,
+      "source_number": null,
+      "source_paragraph": 4627,
+      "text": "To'maris 2) Alpomish 3) Duk\na) Farg'onada festival  b) Oltinbiyning 14 botmon yoyi  c) Yamon karatesi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 65,
+      "source_number": null,
+      "source_paragraph": 4631,
+      "text": "Oqsuyak 2) Chullik 3) Jami\na) Uzoqqa irg'itish  b) Havoda ushlab turish  c) Ikki jamoaga bo'linish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-a, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 66,
+      "source_number": null,
+      "source_paragraph": 4635,
+      "text": "Eshak mindi 2) Tortishmachoq 3) Durra\na) Katta tezlik  b) Jamoaviy intizom  c) Diqqat va sezgi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 67,
+      "source_number": null,
+      "source_paragraph": 4639,
+      "text": "Quyonlar 2) Qirq tosh 3) Bo'sh o'rin\na) Koptokdan qochish  b) Tezkor reaktsiya  c) Doira bo'ylab chopish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 68,
+      "source_number": null,
+      "source_paragraph": 4643,
+      "text": "Ko'z bog'lash 2) Bo'ron 3) Oq terak\na) Qo'ng'iroq chalinishi  b) Belbog'ga tugish  c) \"Sizdan bizga\"",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 69,
+      "source_number": null,
+      "source_paragraph": 4647,
+      "text": "Oq ayiqlar 2) Chavandoz 3) Otib qochar\na) Yordamga chaqirish  b) 15-20 sekund sanash  c) O'rin almashish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 70,
+      "source_number": null,
+      "source_paragraph": 4651,
+      "text": "Ikki yaxob 2) Bo'ri zovurda 3) Bayroqcha\na) Qotib qolish  b) Arqonchadan sakrash  c) Ko'zni yumish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 71,
+      "source_number": null,
+      "source_paragraph": 4655,
+      "text": "Koshg'ariy 2) Ibn Sino 3) Kaykovus\na) Turkiy xalqlar madaniyati  b) Buxoro va Farg'ona kurashi  c) Suvda yuzmoq hunari",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 72,
+      "source_number": null,
+      "source_paragraph": 4659,
+      "text": "Umar Xayyom 2) Navoiy 3) Koshifiy\na) Yoy va kerish joni  b) Shatranji kabir  c) Soqqabozlar",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-c, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 73,
+      "source_number": null,
+      "source_paragraph": 4663,
+      "text": "Temur 2) Bobur 3) Forish\na) Sipohlarni tayyorlash  b) Yulduzli tunlar qahramoni  c) Qalish qishlog'i",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 74,
+      "source_number": null,
+      "source_paragraph": 4667,
+      "text": "To'maris 2) Alpomish 3) Duk\na) Jizzaxda ayollar yili  b) Termiz va Farg'onada  c) Teleekspeditsiya",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 75,
+      "source_number": null,
+      "source_paragraph": 4671,
+      "text": "Oqsuyak 2) Chullik 3) Jami\na) Tungi sayl o'yini  b) Uzun va qisqa tayoq  c) Besh toshni minorasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 76,
+      "source_number": null,
+      "source_paragraph": 4675,
+      "text": "Eshak mindi 2) Tortishmachoq 3) Durra\na) O'yinchiga tegmaslik  b) Signal bo'yicha kuch sinashish  c) \"O'tirishga ulgurmaslik\"",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 77,
+      "source_number": null,
+      "source_paragraph": 4679,
+      "text": "Quyonlar 2) Qirq tosh 3) Bo'sh o'rin\na) Polizga o'g'irlikka tushish  b) Tosh o'rniga koptok  c) Quloch yozib turish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 78,
+      "source_number": null,
+      "source_paragraph": 4683,
+      "text": "Ko'z bog'lash 2) Bo'ron 3) Oq terak\na) 2 ta o'yinchi markazda  b) Olamon poyga usuli  c) Jamoa sardorini saylash",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 79,
+      "source_number": null,
+      "source_paragraph": 4687,
+      "text": "Oq ayiqlar 2) Chavandoz 3) Otib qochar\na) Baliq va dengiz emas  b) Lochin va Zafar jamoalari  c) Uzoqqa borib qaytish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 80,
+      "source_number": null,
+      "source_paragraph": 4691,
+      "text": "Ikki yaxob 2) Bo'ri zovurda 3) Bayroqcha\na) Qahramonlar aytishuvi  b) \"1, 2, 3\" sanashdan oldin o'tish  c) Doira bo'lib aylanish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 81,
+      "source_number": null,
+      "source_paragraph": 4695,
+      "text": "Koshg'ariy 2) Ibn Sino 3) Kaykovus\na) Bolalar ermaklari  b) Isitmani tushiruvchi harakatlar  c) Harakat badanni qutqaradi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 82,
+      "source_number": null,
+      "source_paragraph": 4699,
+      "text": "Umar Xayyom 2) Navoiy 3) Koshifiy\na) Kamonchi xislatlari  b) Guy o'yini  c) Qalqon turlari",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-c, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 83,
+      "source_number": null,
+      "source_paragraph": 4703,
+      "text": "Temur 2) Bobur 3) Forish\na) Nayza solish mahorati  b) G'usl qilish uchun sovuq suvda cho'milish  c) \"Qizil pir\" sayilgohi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 84,
+      "source_number": null,
+      "source_paragraph": 4707,
+      "text": "To'maris 2) Alpomish 3) Duk\na) Jasur ayollar sporti  b) Barchin o'qi yoyi  c) Shamsiy bobo hikoyasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 85,
+      "source_number": null,
+      "source_paragraph": 4711,
+      "text": "Oqsuyak 2) Chullik 3) Jami\na) Uzoq Avstraliyada ham bor  b) 2 sm diametrli tayoq  c) Raqiblarni to'p bilan chalg'itish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-a, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 86,
+      "source_number": null,
+      "source_paragraph": 4715,
+      "text": "Eshak mindi 2) Tortishmachoq 3) Durra\na) Qorovul almashishi  b) Beldan tutishish  c) Tez o'tirib olish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-c, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 87,
+      "source_number": null,
+      "source_paragraph": 4719,
+      "text": "Quyonlar 2) Qirq tosh 3) Bo'sh o'rin\na) 2 oyoqlab sakrash  b) Parallel chiziqlar tortish  c) Qarama-qarshi aylanish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 88,
+      "source_number": null,
+      "source_paragraph": 4723,
+      "text": "Ko'z bog'lash 2) Bo'ron 3) Oq terak\na) Tushunmasdan izlash  b) Regbi qoidasi bilan  c) Navbatdagi o'yinchi kelishi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 89,
+      "source_number": null,
+      "source_paragraph": 4727,
+      "text": "Oq ayiqlar 2) Chavandoz 3) Otib qochar\na) Uchtalab emas, juft tutish  b) Sakrab kaft tegizish  c) Uyga qaytish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 90,
+      "source_number": null,
+      "source_paragraph": 4731,
+      "text": "Ikki yaxob 2) Bo'ri zovurda 3) Bayroqcha\na) Qutqaruvchi tegishi  b) Bo'ri chiqmasligi  c) Qarsak bilan tarqalish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 91,
+      "source_number": null,
+      "source_paragraph": 4735,
+      "text": "Koshg'ariy 2) Ibn Sino 3) Kaykovus\na) Suv suzish baxslari  b) Bemorlarni o'yin bn davolash  c) Mardlik sabog'i",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-a, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 92,
+      "source_number": null,
+      "source_paragraph": 4739,
+      "text": "Umar Xayyom 2) Navoiy 3) Koshifiy\na) Kamon 4 fasl kabi  b) Zo'ri pahlavonlar  c) Dorbozlar kasbi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-c, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 93,
+      "source_number": null,
+      "source_paragraph": 4743,
+      "text": "Temur 2) Bobur 3) Forish\na) Bahodirlar tanlovi  b) Mushtlashishda yengmaslik  c) 1996 yil olimpiada",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 94,
+      "source_number": null,
+      "source_paragraph": 4747,
+      "text": "To'maris 2) Alpomish 3) Duk\na) Qizlar tezligi  b) Barchin jasorati  c) Unutilgan zarbalar",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 95,
+      "source_number": null,
+      "source_paragraph": 4751,
+      "text": "Oqsuyak 2) Chullik 3) Jami\na) Tunda adashmaslik  b) Tiz cho'kmaslik  c) Minorani qulatish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 96,
+      "source_number": null,
+      "source_paragraph": 4755,
+      "text": "Eshak mindi 2) Tortishmachoq 3) Durra\na) Katta aylana xatlash  b) Chiziqdan tortish  c) Doira bo'ylab yugurish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 97,
+      "source_number": null,
+      "source_paragraph": 4759,
+      "text": "Quyonlar 2) Qirq tosh 3) Bo'sh o'rin\na) Polizga qadam qoyish  b) Tezkor yig'ish  c) Tepaga qo'l ushlash",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 98,
+      "source_number": null,
+      "source_paragraph": 4763,
+      "text": "Ko'z bog'lash 2) Bo'ron 3) Oq terak\na) 2 ta toshni urish  b) Tortishish elementlari  c) Ismini chaqirish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 99,
+      "source_number": null,
+      "source_paragraph": 4767,
+      "text": "Oq ayiqlar 2) Chavandoz 3) Otib qochar\na) Qo'llarni birlashtirish  b) 7-9 m to'rtburchak  c) 25-30 m marra",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 100,
+      "source_number": null,
+      "source_paragraph": 4771,
+      "text": "Ikki yaxob 2) Bo'ri zovurda 3) Bayroqcha\na) 3-4 qadam chiziq  b) 1.5-2 m xandaq  c) Signalga bo'ysunish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 101,
+      "source_number": null,
+      "source_paragraph": 4774,
+      "text": "(Shu yo'sinda 101-150-savollar ham tuzilmasi o'zgartirilmagan holda davom etadi).\nKoshg'ariy 2) Ibn Sino 3) Kaykovus\na) Turkiy xalqlar tili  b) Bemorlarga dori  c) Suv ilmi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 102,
+      "source_number": null,
+      "source_paragraph": 4780,
+      "text": "Umar Xayyom 2) Navoiy 3) Koshifiy\na) Kamonchi 4 xislat  b) Oqqush misoli  c) Qalqon ushlash",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 103,
+      "source_number": null,
+      "source_paragraph": 4784,
+      "text": "Temur 2) Bobur 3) Forish\na) Bahodir navkarlar  b) Yigitlar tezligi  c) Jizzax hududi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-c, 2-a, 3-b",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 104,
+      "source_number": null,
+      "source_paragraph": 4788,
+      "text": "To'maris 2) Alpomish 3) Duk\na) Qizlar chidamliligi  b) Ming qadamdan tanga  c) Tepish sirlari",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 105,
+      "source_number": null,
+      "source_paragraph": 4792,
+      "text": "Oqsuyak 2) Chullik 3) Jami\na) Uzoq Avstraliyada  b) 2 sm diametr  c) Raqibni to'p bn chalish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-a, 3-b",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 106,
+      "source_number": null,
+      "source_paragraph": 4796,
+      "text": "Eshak mindi 2) Tortishmachoq 3) Durra\na) Qorovul turishi  b) Bel ushlab tortishish  c) Tez joyiga o'tirish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 107,
+      "source_number": null,
+      "source_paragraph": 4800,
+      "text": "Quyonlar polizga tushdi 2) Qirq tosh 3) Bo'sh o'rin\na) 2 ta doiraviy  b) Buyumlarni terish  c) Joyini egallash",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-c, 2-a, 3-b",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 108,
+      "source_number": null,
+      "source_paragraph": 4804,
+      "text": "Ko'z bog'lash 2) Bo'ron 3) Oq terak\na) Tushunmasdan ushlash  b) Regbi qoidasi  c) Navbatdagi o'yinchi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 109,
+      "source_number": null,
+      "source_paragraph": 4808,
+      "text": "Oq ayiqlar 2) Chavandoz 3) Otib qochar\na) Qo'l ushlashib qurshash  b) Tirsakdan sakrash  c) Uyga qaytish qoidasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 110,
+      "source_number": null,
+      "source_paragraph": 4812,
+      "text": "Ikki yaxob 2) Bo'ri zovurda 3) Bayroqcha\na) Qizil, ko'k yaxob  b) Sakrashdagi himoya  c) Signalni kutish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-c, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 111,
+      "source_number": null,
+      "source_paragraph": 4816,
+      "text": "Koshg'ariy 2) Ibn Sino 3) Kaykovus\na) Bandol o'yini  b) Tez yurish mashqi  c) Suvda yuzish mashqi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 112,
+      "source_number": null,
+      "source_paragraph": 4820,
+      "text": "Umar Xayyom 2) Navoiy 3) Koshifiy\na) Kamon 4 fasl  b) Shatranji kabir  c) Soqqabozlar kasbi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-c, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 113,
+      "source_number": null,
+      "source_paragraph": 4824,
+      "text": "Temur 2) Bobur 3) Forish\na) Bahodir askarlar  b) Yigitlar epchilligi  c) Tog'li Sayyod qishlog'i",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 114,
+      "source_number": null,
+      "source_paragraph": 4828,
+      "text": "To'maris 2) Alpomish 3) Duk\na) Xotin-qizlar epchilligi  b) Yoy va merganlik  c) Tepishish mashqi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 115,
+      "source_number": null,
+      "source_paragraph": 4832,
+      "text": "Oqsuyak 2) Chullik 3) Jami\na) Tungi o'yin  b) Dasta va tayoq  c) Minorali 5 tosh",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-a, 3-b",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 116,
+      "source_number": null,
+      "source_paragraph": 4836,
+      "text": "Eshak mindi 2) Tortishmachoq 3) Durra\na) Katta aylana usti  b) Chiziqdan arqon tortish  c) Doirada yugurish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 117,
+      "source_number": null,
+      "source_paragraph": 4840,
+      "text": "Quyonlar 2) Qirq tosh 3) Bo'sh o'rin\na) Ichki doiraga o'g'irlikka tushish  b) Tez yig'ib kelish  c) Tepaga qo'l tutish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 118,
+      "source_number": null,
+      "source_paragraph": 4844,
+      "text": "Ko'z bog'lash 2) Bo'ron 3) Oq terak\na) Qo'ng'iroq ushlash  b) Tuguncha otish  c) Uzilish o'yini",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 119,
+      "source_number": null,
+      "source_paragraph": 4848,
+      "text": "Oq ayiqlar 2) Chavandoz 3) Otib qochar\na) Dengizga tushish  b) Lochin va Zafar  c) 25 metrga qochish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 120,
+      "source_number": null,
+      "source_paragraph": 4852,
+      "text": "Ikki yaxob 2) Bo'ri zovurda 3) Bayroqcha\na) Qotirib qo'yish  b) Sakrab o'tish qoidasi  c) Doira bo'lish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 121,
+      "source_number": null,
+      "source_paragraph": 4856,
+      "text": "Koshg'ariy 2) Ibn Sino 3) Kaykovus\na) Muguz o'yini  b) Kasalni davolash  c) Ot minish qoidasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-a, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 122,
+      "source_number": null,
+      "source_paragraph": 4860,
+      "text": "Umar Xayyom 2) Navoiy 3) Koshifiy\na) Kamonchi fazilati  b) Zo'ri pahlavon  c) Qilich turlari",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-c, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 123,
+      "source_number": null,
+      "source_paragraph": 4864,
+      "text": "Temur 2) Bobur 3) Forish\na) Bahodirlik bellashuvi  b) Mushtlashish yengmasligi  c) 1996 yil olimpiada markazi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 124,
+      "source_number": null,
+      "source_paragraph": 4868,
+      "text": "To'maris 2) Alpomish 3) Duk\na) Jizzaxdagi ayollar yili  b) Termiz va Farg'ona festivali  c) Teleekspeditsiya bilan topilgan",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 125,
+      "source_number": null,
+      "source_paragraph": 4872,
+      "text": "Oqsuyak 2) Chullik 3) Jami\na) Butun dunyoda bor  b) Ikki uchi yo'nilgan  c) Jamoaviy himoya",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 126,
+      "source_number": null,
+      "source_paragraph": 4876,
+      "text": "Eshak mindi 2) Tortishmachoq 3) Durra\na) O'yinchiga tegmaslik  b) Signal bo'yicha tortishish  c) \"O'tirishga ulgurmaslik\" qoidasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 127,
+      "source_number": null,
+      "source_paragraph": 4880,
+      "text": "Quyonlar polizda 2) Qirq tosh 3) Bo'sh o'rin\na) 2 oyoqlab sakrash  b) Parallel chiziq tortish  c) Qarama-qarshi uchrashuv",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-c, 2-a, 3-b",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 128,
+      "source_number": null,
+      "source_paragraph": 4884,
+      "text": "Ko'z bog'lash 2) Bo'ron 3) Oq terak\na) Ikki tosh urilishi  b) Latta tugunchasi  c) Zanjir uzilish sharti",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-c, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 129,
+      "source_number": null,
+      "source_paragraph": 4888,
+      "text": "Oq ayiqlar 2) Chavandoz 3) Otib qochar\na) Yordamga chaqiriq  b) 15 sekund sanalishi  c) To'p almashish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 130,
+      "source_number": null,
+      "source_paragraph": 4892,
+      "text": "Ikki yaxob 2) Bo'ri zovurda 3) Bayroqcha\na) Qutqaruvchi yordami  b) Arqonchadan hatlash  c) Ko'zni yumish pauzasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-c, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 131,
+      "source_number": null,
+      "source_paragraph": 4896,
+      "text": "Koshg'ariy 2) Ibn Sino 3) Kaykovus\na) Turkiy urf-odatlar  b) Qon aylanish mashqlari  c) Suv ilmini bilish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 132,
+      "source_number": null,
+      "source_paragraph": 4900,
+      "text": "Umar Xayyom 2) Navoiy 3) Koshifiy\na) Kamon 4 fasl  b) Oqqush misoli  c) Qalqon ushlash adabi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 133,
+      "source_number": null,
+      "source_paragraph": 4904,
+      "text": "Temur 2) Bobur 3) Forish\na) Bahodir askarlar  b) Yigitlar epchilligi  c) Tog'li hudud o'yinlari",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-c, 2-a, 3-b",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 134,
+      "source_number": null,
+      "source_paragraph": 4908,
+      "text": "To'maris 2) Alpomish 3) Duk\na) Qizlar chidamliligi  b) Ming qadamdan tanga  c) Tepishish sirlari",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 135,
+      "source_number": null,
+      "source_paragraph": 4912,
+      "text": "Oqsuyak 2) Chullik 3) Jami\na) Uzoq Avstraliyada  b) 2 sm diametrli dasta  c) Raqibni to'p bilan chalg'itish",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-a, 3-b",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 136,
+      "source_number": null,
+      "source_paragraph": 4916,
+      "text": "Eshak mindi 2) Tortishmachoq 3) Durra\na) Qorovul turishi  b) Bel ushlab tortishish  c) Tez joyiga o'tirish qoidasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 137,
+      "source_number": null,
+      "source_paragraph": 4920,
+      "text": "Quyonlar polizga tushdi 2) Qirq tosh 3) Bo'sh o'rin\na) 2 ta doiraviy tizim  b) Buyumlarni terish tezligi  c) Joyini egallash harakati",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-c, 3-a",
+        "C": "1-c, 2-a, 3-b",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 138,
+      "source_number": null,
+      "source_paragraph": 4924,
+      "text": "Ko'z bog'lash 2) Bo'ron 3) Oq terak\na) Tushunmasdan ushlash  b) Regbi elementli uloqtirish  c) Navbatdagi o'yinchi kelishi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-b, 2-a, 3-c"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 139,
+      "source_number": null,
+      "source_paragraph": 4928,
+      "text": "Oq ayiqlar 2) Chavandoz 3) Otib qochar\na) Qo'l ushlashib qurshash  b) Tirsakdan ushlab sakrash  c) Uyga qaytish qoidasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 140,
+      "source_number": null,
+      "source_paragraph": 4932,
+      "text": "Ikki yaxob 2) Bo'ri zovurda 3) Bayroqcha\na) Qizil, ko'k yaxob kiyimi  b) Sakrashdagi himoyalanish  c) Signalni kutish holati",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-c, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 141,
+      "source_number": null,
+      "source_paragraph": 4936,
+      "text": "Koshg'ariy 2) Ibn Sino 3) Kaykovus\na) Bandol o'yini  b) Tez yurish mashqi davolashda  c) Suvda yuzish mashqi sirlari",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 142,
+      "source_number": null,
+      "source_paragraph": 4940,
+      "text": "Umar Xayyom 2) Navoiy 3) Koshifiy\na) Kamon va 4 fasl uzviyligi  b) Shatranji kabirni ta'riflagan  c) Soqqabozlar kasbini yozgan",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-c, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 143,
+      "source_number": null,
+      "source_paragraph": 4944,
+      "text": "Temur 2) Bobur 3) Forish\na) Bahodir askarlar mashg'uloti  b) Yigitlar epchilligini yozgan  c) Tog'li Sayyod qishlog'i",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-a, 2-c, 3-b",
+        "D": "1-c, 2-b, 3-a"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 144,
+      "source_number": null,
+      "source_paragraph": 4948,
+      "text": "To'maris 2) Alpomish 3) Duk\na) Xotin-qizlar epchilligi yili  b) Yoy va merganlik sharti  c) Tepishish mashqi Forishda",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 145,
+      "source_number": null,
+      "source_paragraph": 4952,
+      "text": "Oqsuyak 2) Chullik 3) Jami\na) Tungi o'yin qoidasi  b) Dasta va tayoq sharti  c) Minorali 5 tosh holati",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-a, 3-b",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 146,
+      "source_number": null,
+      "source_paragraph": 4956,
+      "text": "Eshak mindi 2) Tortishmachoq 3) Durra\na) Katta aylana xatlash  b) Chiziqdan arqon tortish siri  c) Doirada yugurish epchilligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-b, 3-a",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 147,
+      "source_number": null,
+      "source_paragraph": 4960,
+      "text": "Quyonlar 2) Qirq tosh 3) Bo'sh o'rin\na) Ichki doiraga o'g'irlikka tushish  b) Tez yig'ib kelish estafetasi  c) Tepaga qo'l tutish sharti",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 148,
+      "source_number": null,
+      "source_paragraph": 4964,
+      "text": "Ko'z bog'lash 2) Bo'ron 3) Oq terak\na) Qo'ng'iroq ushlash siri  b) Tuguncha otish musobaqasi  c) Uzilish o'yini tartibi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 149,
+      "source_number": null,
+      "source_paragraph": 4968,
+      "text": "Oq ayiqlar 2) Chavandoz 3) Otib qochar\na) Dengizga tushish qoidasi  b) Lochin va Zafar jamoalari  c) 25 metrga qochish masofasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 150,
+      "source_number": null,
+      "source_paragraph": 4972,
+      "text": "Ikki yaxob 2) Bo'ri zovurda 3) Bayroqcha\na) Qotirib qo'yish sehrlari  b) Sakrab o'tish qoidasi sharti  c) Doira bo'lish guruhlashuvi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-c, 2-a, 3-b",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 151,
+      "source_number": 151,
+      "source_paragraph": 4977,
+      "text": "Qaysi javobda Mahmud Koshg'ariy tushunchasining to'g'ri va to'liq ta'rifi keltirilgan?",
+      "options": {
+        "A": "'Devon-u lug'atit turk' asarida 150 ga yaqin xalq o'yinlarini yozib qoldirgan qomusiy alloma",
+        "B": "'Tib qonunlari' asarida badantarbiyani 5 qismga ajratgan va kurashning 2 turi haqida yozgan mutafakkir",
+        "C": "'Qobusnoma' asarida chavgon o'yini, shatranj va suvda suzish haqida ibratli fikrlar yozgan alloma",
+        "D": "'Navro'znoma' asarida Navro'z o'yinlari, kamon otish (tiyrandozlik) foydasi haqida ma'lumot bergan olim"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 152,
+      "source_number": 152,
+      "source_paragraph": 4982,
+      "text": "\"Tib qonunlari\" asarida badantarbiyani 5 qismga ajratgan va kurashning 2 turi haqida yozgan mutafakkir kim?",
+      "options": {
+        "A": "Ibn Sino",
+        "B": "Mahmud Koshg'ariy",
+        "C": "Husayn Voiz Koshifiy",
+        "D": "Alisher Navoiy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 153,
+      "source_number": 153,
+      "source_paragraph": 4987,
+      "text": "Kaykovus shaxsining mohiyati nimadan iborat?",
+      "options": {
+        "A": "'Qobusnoma' asarida chavgon o'yini, shatranj va suvda suzish haqida ibratli fikrlar yozgan alloma",
+        "B": "'Mahbub ul-qulub' asarida 'Oqsuyak' o'yinini, 'Farhod va Shirin'da tiyrandozlikni tasvirlagan mutafakkir",
+        "C": "O'n to'rt yoshida o'q-yoy otishda yetuk bo'lgan, chavandozlik, qilichbozlik va kurashda benazir bo'lgan sarkarda",
+        "D": "'Boburnoma' asarida o'z davrining yetuk tiyrandozlari va chavandozlari haqida ma'lumot qoldirgan shoh va shoir"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 154,
+      "source_number": 154,
+      "source_paragraph": 4992,
+      "text": "Quyidagilardan qaysi biri Umar Xayyomni aniq ifodalaydi?",
+      "options": {
+        "A": "'Navro'znoma' asarida Navro'z o'yinlari, kamon otish (tiyrandozlik) foydasi haqida ma'lumot bergan olim",
+        "B": "'Futuvvatnomayi sultoniy' asarida pahlavonlarni 8 toifaga ajratgan va qilich ushlashning 8 adabini yozgan olim",
+        "C": "1991 yilda ilk bor Respublika xalq o'yinlari olimpiadasi o'tkazilgan Jizzax viloyatining tumani",
+        "D": "1999 yilda 'Ayollar yili'ga bag'ishlanib Jizzaxda qizlar o'rtasida o'tkazilgan sport o'yinlari festivali"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 155,
+      "source_number": 155,
+      "source_paragraph": 4997,
+      "text": "'Mahbub ul-qulub' asarida 'Oqsuyak' o'yinini, 'Farhod va Shirin'da tiyrandozlikni tasvirlagan mutafakkirning nomi nima?",
+      "options": {
+        "A": "Alisher Navoiy",
+        "B": "Amir Temur",
+        "C": "Zahiriddin Muhammad Bobur",
+        "D": "Husayn Voiz Koshifiy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 156,
+      "source_number": 156,
+      "source_paragraph": 5002,
+      "text": "Qaysi javobda Husayn Voiz Koshifiy tushunchasining to'g'ri va to'liq ta'rifi keltirilgan?",
+      "options": {
+        "A": "'Futuvvatnomayi sultoniy' asarida pahlavonlarni 8 toifaga ajratgan va qilich ushlashning 8 adabini yozgan olim",
+        "B": "1998 yilda 'Alpomish' dostonining 1000 yilligi munosabati bilan Termiz shahrida o'tkazilgan festival",
+        "C": "Sharq xalqlarining karate va taekvondosiga o'xshash, Forishda tiklangan qadimiy jang-tepish o'yini",
+        "D": "Tunda o'ynaladigan, Alisher Navoiy va Mahmud Koshg'ariy asarlarida tilga olingan qadimiy o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 157,
+      "source_number": 157,
+      "source_paragraph": 5007,
+      "text": "O'n to'rt yoshida o'q-yoy otishda yetuk bo'lgan, chavandozlik, qilichbozlik va kurashda benazir bo'lgan sarkarda kim?",
+      "options": {
+        "A": "Amir Temur",
+        "B": "Zahiriddin Muhammad Bobur",
+        "C": "Ibn Sino",
+        "D": "Mahmud Koshg'ariy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 158,
+      "source_number": 158,
+      "source_paragraph": 5012,
+      "text": "Zahiriddin Muhammad Bobur shaxsining mohiyati nimadan iborat?",
+      "options": {
+        "A": "'Boburnoma' asarida o'z davrining yetuk tiyrandozlari va chavandozlari haqida ma'lumot qoldirgan shoh va shoir",
+        "B": "70-80 sm dasta va 15-20 sm uzunlikdagi uchlari o'yilgan tayoqcha bilan o'ynaladigan o'yin",
+        "C": "Besh toshni ustma-ust qo'yib, 6-8 metrdan to'p bilan urib tushiriladigan jamoaviy o'yin",
+        "D": "Doira markazida turgan o'yinchi ustidan boshqalar xatlab sakrab o'tadigan harakatli o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 159,
+      "source_number": 159,
+      "source_paragraph": 5017,
+      "text": "Quyidagilardan qaysi biri Forish tumanini aniq ifodalaydi?",
+      "options": {
+        "A": "1991 yilda ilk bor Respublika xalq o'yinlari olimpiadasi o'tkazilgan Jizzax viloyatining tumani",
+        "B": "Ikki jamoa a'zolari bir-birining belidan ushlab, o'rta chiziqdan tortib o'tishga harakat qiladigan o'yin",
+        "C": "O'yinchilar doira bo'lib ko'zni yumib o'tirganda, onaboshi bildirmasdan kimningdir orqasiga ro'molcha qo'yadigan o'yin",
+        "D": "Tashqi doira (7-9m) va ichki doira (3-4m) chizilib, qorovul quyonlarni koptok bilan uradigan o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 160,
+      "source_number": 160,
+      "source_paragraph": 5022,
+      "text": "1999 yilda 'Ayollar yili'ga bag'ishlanib Jizzaxda qizlar o'rtasida o'tkazilgan sport o'yinlari festivali nomi nima?",
+      "options": {
+        "A": "To'maris festivali",
+        "B": "Alpomish o'yinlari",
+        "C": "Duk o'yini",
+        "D": "Oqsuyak"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 161,
+      "source_number": 161,
+      "source_paragraph": 5027,
+      "text": "Qaysi javobda Alpomish o'yinlari tushunchasining to'g'ri va to'liq ta'rifi keltirilgan?",
+      "options": {
+        "A": "1998 yilda 'Alpomish' dostonining 1000 yilligi munosabati bilan Termiz shahrida o'tkazilgan festival",
+        "B": "Har bir metrga tosh yoki koptokchalar qo'yib, yugurib borib terib kelinadigan estafetali o'yin",
+        "C": "Onaboshi davra atrofida yugurib kimningdir yelkasiga tegadi va ular qarama-qarshi yugurib bo'sh joyni egallashadi",
+        "D": "Davra o'rtasida ko'zi bog'langan o'yinchi qochayotgan o'rtog'ini tovushiga (qo'ng'iroqchaga) qarab ushlaydigan o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 162,
+      "source_number": 162,
+      "source_paragraph": 5032,
+      "text": "Sharq xalqlarining karate va taekvondosiga o'xshash, Forishda tiklangan qadimiy jang-tepish o'yini qaysi atamani anglatadi?",
+      "options": {
+        "A": "Duk o'yini",
+        "B": "Bo'ron",
+        "C": "Oq terakmi, ko'k terak",
+        "D": "Oq ayiqlar"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 163,
+      "source_number": 163,
+      "source_paragraph": 5037,
+      "text": "Oqsuyak o'yinining mohiyati nimadan iborat?",
+      "options": {
+        "A": "Tunda o'ynaladigan, Alisher Navoiy va Mahmud Koshg'ariy asarlarida tilga olingan qadimiy o'yin",
+        "B": "Bir oyoqda sakrab yurib qarshi jamoa a'zolarini ushlashga harakat qilinadigan, ma'lum vaqt ichida hisoblanadigan o'yin",
+        "C": "To'pni uzoqqa urib, marraga yugurib borib qaytish asosida qurilgan harakatli o'yin",
+        "D": "Maydon o'rtasida ikki yaxob (qizil va ko'k burun) yugurib o'tayotganlarni muzlatib (ushlab) qoladigan o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 164,
+      "source_number": 164,
+      "source_paragraph": 5042,
+      "text": "Quyidagilardan qaysi biri Chullikni aniq ifodalaydi?",
+      "options": {
+        "A": "70-80 sm dasta va 15-20 sm uzunlikdagi uchlari o'yilgan tayoqcha bilan o'ynaladigan o'yin",
+        "B": "O'rtadagi 1.5-2 qadamlik zovur ichida bo'ri turib, sakrab o'tayotgan echkilarni ushlaydigan o'yin",
+        "C": "Guruhlar bayroqcha atrofida to'planib, signal bilan qochib, yana o'z bayroqchasi yoniga tezda saf tortadigan o'yin",
+        "D": "'Devon-u lug'atit turk' asarida 150 ga yaqin xalq o'yinlarini yozib qoldirgan qomusiy alloma"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 165,
+      "source_number": 165,
+      "source_paragraph": 5047,
+      "text": "Besh toshni ustma-ust qo'yib, 6-8 metrdan to'p bilan urib tushiriladigan jamoaviy o'yinning nomi nima?",
+      "options": {
+        "A": "Jami o'yini",
+        "B": "Eshak mindi",
+        "C": "Tortishmachoq",
+        "D": "Durra"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 166,
+      "source_number": 166,
+      "source_paragraph": 5052,
+      "text": "Qaysi javobda Eshak mindi tushunchasining to'g'ri va to'liq ta'rifi keltirilgan?",
+      "options": {
+        "A": "Doira markazida turgan o'yinchi ustidan boshqalar xatlab sakrab o'tadigan harakatli o'yin",
+        "B": "'Tib qonunlari' asarida badantarbiyani 5 qismga ajratgan va kurashning 2 turi haqida yozgan mutafakkir",
+        "C": "'Qobusnoma' asarida chavgon o'yini, shatranj va suvda suzish haqida ibratli fikrlar yozgan alloma",
+        "D": "'Navro'znoma' asarida Navro'z o'yinlari, kamon otish (tiyrandozlik) foydasi haqida ma'lumot bergan olim"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 167,
+      "source_number": 167,
+      "source_paragraph": 5057,
+      "text": "Ikki jamoa a'zolari bir-birining belidan ushlab, o'rta chiziqdan tortib o'tishga harakat qiladigan o'yin qaysi atamani anglatadi?",
+      "options": {
+        "A": "Tortishmachoq",
+        "B": "Durra",
+        "C": "Quyonlar polizga tushdi",
+        "D": "Qirq tosh"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 168,
+      "source_number": 168,
+      "source_paragraph": 5062,
+      "text": "Durra o'yinining mohiyati nimadan iborat?",
+      "options": {
+        "A": "O'yinchilar doira bo'lib ko'zni yumib o'tirganda, onaboshi bildirmasdan kimningdir orqasiga ro'molcha qo'yadigan o'yin",
+        "B": "'Mahbub ul-qulub' asarida 'Oqsuyak' o'yinini, 'Farhod va Shirin'da tiyrandozlikni tasvirlagan mutafakkir",
+        "C": "'Futuvvatnomayi sultoniy' asarida pahlavonlarni 8 toifaga ajratgan va qilich ushlashning 8 adabini yozgan olim",
+        "D": "O'n to'rt yoshida o'q-yoy otishda yetuk bo'lgan, chavandozlik, qilichbozlik va kurashda benazir bo'lgan sarkarda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 169,
+      "source_number": 169,
+      "source_paragraph": 5067,
+      "text": "Quyidagilardan qaysi biri Quyonlar polizga tushdini aniq ifodalaydi?",
+      "options": {
+        "A": "Tashqi doira (7-9m) va ichki doira (3-4m) chizilib, qorovul quyonlarni koptok bilan uradigan o'yin",
+        "B": "'Boburnoma' asarida o'z davrining yetuk tiyrandozlari va chavandozlari haqida ma'lumot qoldirgan shoh va shoir",
+        "C": "1991 yilda ilk bor Respublika xalq o'yinlari olimpiadasi o'tkazilgan Jizzax viloyatining tumani",
+        "D": "1999 yilda 'Ayollar yili'ga bag'ishlanib Jizzaxda qizlar o'rtasida o'tkazilgan sport o'yinlari festivali"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 170,
+      "source_number": 170,
+      "source_paragraph": 5072,
+      "text": "Har bir metrga tosh yoki koptokchalar qo'yib, yugurib borib terib kelinadigan estafetali o'yin nomi nima?",
+      "options": {
+        "A": "Qirq tosh",
+        "B": "Bo'sh o'rin",
+        "C": "Ko'z bog'lash",
+        "D": "Bo'ron"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 171,
+      "source_number": 171,
+      "source_paragraph": 5077,
+      "text": "Qaysi javobda Bo'sh o'rin tushunchasining to'g'ri va to'liq ta'rifi keltirilgan?",
+      "options": {
+        "A": "Onaboshi davra atrofida yugurib kimningdir yelkasiga tegadi va ular qarama-qarshi yugurib bo'sh joyni egallashadi",
+        "B": "1998 yilda 'Alpomish' dostonining 1000 yilligi munosabati bilan Termiz shahrida o'tkazilgan festival",
+        "C": "Sharq xalqlarining karate va taekvondosiga o'xshash, Forishda tiklangan qadimiy jang-tepish o'yini",
+        "D": "Tunda o'ynaladigan, Alisher Navoiy va Mahmud Koshg'ariy asarlarida tilga olingan qadimiy o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 172,
+      "source_number": 172,
+      "source_paragraph": 5082,
+      "text": "Davra o'rtasida ko'zi bog'langan o'yinchi qochayotgan o'rtog'ini tovushiga (qo'ng'iroqchaga) qarab ushlaydigan o'yin qaysi atamani anglatadi?",
+      "options": {
+        "A": "Ko'z bog'lash",
+        "B": "Oq terakmi, ko'k terak",
+        "C": "Oq ayiqlar",
+        "D": "Chavandoz"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 173,
+      "source_number": 173,
+      "source_paragraph": 5087,
+      "text": "Bo'ron o'yinining mohiyati nimadan iborat?",
+      "options": {
+        "A": "300-500 grammli tugunchani 30 metr masofaga uloqtirib, marraga yetkazish asosidagi regbiga o'xshash o'yin",
+        "B": "70-80 sm dasta va 15-20 sm uzunlikdagi uchlari o'yilgan tayoqcha bilan o'ynaladigan o'yin",
+        "C": "Besh toshni ustma-ust qo'yib, 6-8 metrdan to'p bilan urib tushiriladigan jamoaviy o'yin",
+        "D": "Doira markazida turgan o'yinchi ustidan boshqalar xatlab sakrab o'tadigan harakatli o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 174,
+      "source_number": 174,
+      "source_paragraph": 5092,
+      "text": "Quyidagilardan qaysi biri Oq terakmi, ko'k terakni aniq ifodalaydi?",
+      "options": {
+        "A": "Ikki jamoa qo'l ushlashib zanjir hosil qiladigan va chaqirilgan o'yinchi zanjirni uzib o'tishga harakat qiladigan o'yin",
+        "B": "Ikki jamoa a'zolari bir-birining belidan ushlab, o'rta chiziqdan tortib o'tishga harakat qiladigan o'yin",
+        "C": "O'yinchilar doira bo'lib ko'zni yumib o'tirganda, onaboshi bildirmasdan kimningdir orqasiga ro'molcha qo'yadigan o'yin",
+        "D": "Tashqi doira (7-9m) va ichki doira (3-4m) chizilib, qorovul quyonlarni koptok bilan uradigan o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 175,
+      "source_number": 175,
+      "source_paragraph": 5097,
+      "text": "Maydonchada bitta onaboshi ayiq bo'lib qolganlarni ushlaydigan, ushlanganlar juftlashib ov qiladigan o'yinning nomi nima?",
+      "options": {
+        "A": "Oq ayiqlar",
+        "B": "Chavandoz",
+        "C": "Otib qochar",
+        "D": "Ikki yaxob"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 176,
+      "source_number": 176,
+      "source_paragraph": 5102,
+      "text": "Qaysi javobda Chavandoz tushunchasining to'g'ri va to'liq ta'rifi keltirilgan?",
+      "options": {
+        "A": "Bir oyoqda sakrab yurib qarshi jamoa a'zolarini ushlashga harakat qilinadigan, ma'lum vaqt ichida hisoblanadigan o'yin",
+        "B": "Har bir metrga tosh yoki koptokchalar qo'yib, yugurib borib terib kelinadigan estafetali o'yin",
+        "C": "Onaboshi davra atrofida yugurib kimningdir yelkasiga tegadi va ular qarama-qarshi yugurib bo'sh joyni egallashadi",
+        "D": "Davra o'rtasida ko'zi bog'langan o'yinchi qochayotgan o'rtog'ini tovushiga (qo'ng'iroqchaga) qarab ushlaydigan o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 177,
+      "source_number": 177,
+      "source_paragraph": 5107,
+      "text": "To'pni uzoqqa urib, marraga yugurib borib qaytish asosida qurilgan harakatli o'yin qaysi atamani anglatadi?",
+      "options": {
+        "A": "Otib qochar",
+        "B": "Bo'ri zovur ichida",
+        "C": "Hamma o'z bayroqchasiga",
+        "D": "Mahmud Koshg'ariy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 178,
+      "source_number": 178,
+      "source_paragraph": 5112,
+      "text": "Ikki yaxob o'yinining mohiyati nimadan iborat?",
+      "options": {
+        "A": "Maydon o'rtasida ikki yaxob (qizil va ko'k burun) yugurib o'tayotganlarni muzlatib (ushlab) qoladigan o'yin",
+        "B": "300-500 grammli tugunchani 30 metr masofaga uloqtirib, marraga yetkazish asosidagi regbiga o'xshash o'yin",
+        "C": "Ikki jamoa qo'l ushlashib zanjir hosil qiladigan va chaqirilgan o'yinchi zanjirni uzib o'tishga harakat qiladigan o'yin",
+        "D": "Maydonchada bitta onaboshi ayiq bo'lib qolganlarni ushlaydigan, ushlanganlar juftlashib ov qiladigan o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 179,
+      "source_number": 179,
+      "source_paragraph": 5117,
+      "text": "Quyidagilardan qaysi biri Bo'ri zovur ichidani aniq ifodalaydi?",
+      "options": {
+        "A": "O'rtadagi 1.5-2 qadamlik zovur ichida bo'ri turib, sakrab o'tayotgan echkilarni ushlaydigan o'yin",
+        "B": "Bir oyoqda sakrab yurib qarshi jamoa a'zolarini ushlashga harakat qilinadigan, ma'lum vaqt ichida hisoblanadigan o'yin",
+        "C": "To'pni uzoqqa urib, marraga yugurib borib qaytish asosida qurilgan harakatli o'yin",
+        "D": "Maydon o'rtasida ikki yaxob (qizil va ko'k burun) yugurib o'tayotganlarni muzlatib (ushlab) qoladigan o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 180,
+      "source_number": 180,
+      "source_paragraph": 5122,
+      "text": "Guruhlar bayroqcha atrofida to'planib, signal bilan qochib, yana o'z bayroqchasi yoniga tezda saf tortadigan o'yinning nomi nima?",
+      "options": {
+        "A": "Hamma o'z bayroqchasiga",
+        "B": "Oq ayiqlar",
+        "C": "Chavandoz",
+        "D": "Otib qochar"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    }
+  ]
+}

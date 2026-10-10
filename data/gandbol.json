@@ -1,0 +1,5567 @@
+{
+  "title": "Gandbol",
+  "language": "uz-Latn",
+  "source_file": "Attestaciya jismoniy tarbiya.docx",
+  "questions": [
+    {
+      "id": 1,
+      "source_number": 1,
+      "source_paragraph": 13283,
+      "text": "Gandbol o'yini birinchi marta 1898 yilda Daniyada Xolger Nilson tomonidan yaratilganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 2,
+      "source_number": 2,
+      "source_paragraph": 13284,
+      "text": "1946-yilda Xalqaro gandbol federatsiyasi (IHF) tashkil topgan va uning shtab kvartirasi Bazel shahrida joylashganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 3,
+      "source_number": 3,
+      "source_paragraph": 13285,
+      "text": "Gandbol maydonining o'lchami uzunligiga 40 metr, eniga 20 metrni tashkil qiladimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 4,
+      "source_number": 4,
+      "source_paragraph": 13286,
+      "text": "Erkaklar va o'smirlar (16 yoshdan yuqori) uchun to'pning og'irligi 425-475 gramm atrofida bo'lishi belgilanganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 5,
+      "source_number": 5,
+      "source_paragraph": 13287,
+      "text": "Darvoza maydonchasini belgilovchi chiziq darvoza oldidan 6 metr masofada joylashganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 6,
+      "source_number": 6,
+      "source_paragraph": 13288,
+      "text": "7 metrli jarima to'p tashlash chizig'i darvoza o'rtasidan 7 metr uzoqlikda 1 metrlik chiziqdan iboratmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 7,
+      "source_number": 7,
+      "source_paragraph": 13289,
+      "text": "O'yin qoidasiga ko'ra, maydon o'yinchisi to'p bilan 3 qadamdan ortiq yurishi taqiqlanganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 8,
+      "source_number": 8,
+      "source_paragraph": 13290,
+      "text": "To'pni qo'lda 3 soniyadan ortiq ushlab turish gandbol qoidalariga zid hisoblanadimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 9,
+      "source_number": 9,
+      "source_paragraph": 13291,
+      "text": "Darvozabon darvoza maydonchasi ichida o'z xududida to'p bilan xohlagancha harakatlanishi mumkinmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 10,
+      "source_number": 10,
+      "source_paragraph": 13292,
+      "text": "Zahiradagi o'yinchilar faqat o'yinchilarni almashtirish xududi (4,5 m) orqali maydonga kirishlari shartmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 11,
+      "source_number": 11,
+      "source_paragraph": 13293,
+      "text": "O'yin boshlanishida jamoa tarkibi maydonda 5 kishidan kam bo'lsa, o'yinni boshlashga ruxsat etilmaydimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 12,
+      "source_number": 12,
+      "source_paragraph": 13294,
+      "text": "1972 yil Myunxenda erkaklar o'rtasida gandbol sport turi ilk bor Olimpiya o'yinlari dasturiga kiritilganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 13,
+      "source_number": 13,
+      "source_paragraph": 13295,
+      "text": "1997 yili O'zbekiston ayollar terma jamoasi Germaniyada o'tkazilgan Jahon chempionatida qatnashganmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 14,
+      "source_number": 14,
+      "source_paragraph": 13296,
+      "text": "Taym-aut e'lon qilinganda vaqt to'xtatilib, u 1 daqiqa davom etadimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 15,
+      "source_number": 15,
+      "source_paragraph": 13297,
+      "text": "Qoida buzilganda ogohlantirish uchun sariq kartochka ko'rsatiladimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 16,
+      "source_number": 16,
+      "source_paragraph": 13298,
+      "text": "Maydon o'yinchisi qasddan raqibiga nisbatan jismoniy zo'rlik ishlatsa, to'g'ridan-to'g'ri diskvalifikatsiya (qizil kartochka) qilinadimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 17,
+      "source_number": 17,
+      "source_paragraph": 13299,
+      "text": "Musobaqani aylanma tizimda o'tkazishda jamoalar bir-birlari bilan kamida bir marotaba uchrashishlari shartmi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 18,
+      "source_number": 18,
+      "source_paragraph": 13300,
+      "text": "Gandbolda jamoa g'alabasi uchun 2 ball, durrang uchun 1 ball, mag'lubiyat uchun 0 ball beriladimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 19,
+      "source_number": 19,
+      "source_paragraph": 13301,
+      "text": "O'yinchining maydonni ko'ra bilishi va taktik tafakkuri markaz o'yinchisiga qo'yiladigan asosiy talablardan birimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 20,
+      "source_number": 20,
+      "source_paragraph": 13302,
+      "text": "Harakatlarni muvofiqlashtirish va chaqqonlik sifatlari to'pni harakatda ilib olishda muhim ahamiyat kasb etadimi?",
+      "options": {
+        "A": "Ha",
+        "B": "Yo'q"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 21,
+      "source_number": 21,
+      "source_paragraph": 13304,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Chiziq o'yinchisi\n2) 3 qadam\n3) 325-375 gr\na) 6-7 metr oralig'ida zaslon qo'yuvchi o'yinchi\nb) To'p bilan yurishning ruxsat etilgan qadamlari\nc) Ayollar va o'smirlar uchun to'pning og'irligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 22,
+      "source_number": 22,
+      "source_paragraph": 13305,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Darvozabon\n2) 6 metr\n3) 40x20 metr\na) To'pga barcha a'zolari bilan tegish huquqi bor shaxs\nb) Darvozabon maydoni chizig'igacha bo'lgan masofa\nc) Gandbol maydonining rasmiy o'lchami",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 23,
+      "source_number": 23,
+      "source_paragraph": 13306,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x3 metr\n2) 40x20 metr\n3) 10 daqiqa\na) Gandbol darvozasining ichki o'lchami\nb) Gandbol maydonining rasmiy o'lchami\nc) Taymlar orasidagi tanaffus vaqti",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 24,
+      "source_number": 24,
+      "source_paragraph": 13307,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Aylanma tizim\n2) Chiziq o'yinchisi\n3) 10 daqiqa\na) Jamoalar bir-birlari bilan uchrashib chiqadigan tizim\nb) 6-7 metr oralig'ida zaslon qo'yuvchi o'yinchi\nc) Taymlar orasidagi tanaffus vaqti",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 25,
+      "source_number": 25,
+      "source_paragraph": 13308,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Aylanma tizim\n2) 2x25 daqiqa\n3) Dastlabki to'p\na) Jamoalar bir-birlari bilan uchrashib chiqadigan tizim\nb) 12-16 yoshdagi o'smirlar uchun o'yin davomiyligi\nc) O'yinni boshlashda markazdan bajariladigan harakat",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 26,
+      "source_number": 26,
+      "source_paragraph": 13309,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Xolger Nilson\n2) Markaz o'yinchisi\n3) 1 daqiqa\na) Gandbol o'yiniga asos solgan shaxs\nb) Jamoa hujumini tashkil etuvchi pleymeyker\nc) Jamoaviy taym-aut vaqti",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 27,
+      "source_number": 27,
+      "source_paragraph": 13310,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 5 sm\n2) 1928 yil\n3) 2x3 metr\na) Maydondagi oddiy belgilovchi chiziqlar eni\nb) Sobiq Ittifoqda birinchi gandbol musobaqasi o'tkazilgan yil\nc) Gandbol darvozasining ichki o'lchami",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 28,
+      "source_number": 28,
+      "source_paragraph": 13311,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x3 metr\n2) 2x20 daqiqa\n3) 20 sm\na) Gandbol darvozasining ichki o'lchami\nb) 8-12 yoshdagi bolalar uchun o'yin davomiyligi\nc) Raqamlarning orqa tarafdagi eng kam balandligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 29,
+      "source_number": 29,
+      "source_paragraph": 13312,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Darvozabon\n2) 2x20 daqiqa\n3) Sust o'yin\na) To'pga barcha a'zolari bilan tegish huquqi bor shaxs\nb) 8-12 yoshdagi bolalar uchun o'yin davomiyligi\nc) Hujum qilmasdan to'pni ushlab turish holati",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 30,
+      "source_number": 30,
+      "source_paragraph": 13313,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Aylanma tizim\n2) Chiqib ketish tizimi\n3) 54-56 sm\na) Jamoalar bir-birlari bilan uchrashib chiqadigan tizim\nb) Yutqazgan jamoa musobaqani tark etadigan tizim\nc) Ayollar va o'smirlar uchun to'pning aylanasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 31,
+      "source_number": 31,
+      "source_paragraph": 13314,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 58-60 sm\n2) 2x30 daqiqa\n3) 1946 yil\na) Erkaklar uchun to'pning aylanasi\nb) Kattalar jamoalari uchun o'yin davomiyligi\nc) Xalqaro gandbol federatsiyasi (IHF) tashkil topgan yil",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 32,
+      "source_number": 32,
+      "source_paragraph": 13315,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 7 metr\n2) 2x5 daqiqa\n3) 10 daqiqa\na) Jarima to'p tashlash chizig'i masofasi\nb) Qo'shimcha vaqt taymlari davomiyligi\nc) Taymlar orasidagi tanaffus vaqti",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 33,
+      "source_number": 33,
+      "source_paragraph": 13316,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 10 daqiqa\n2) 325-375 gr\n3) Aylanma tizim\na) Taymlar orasidagi tanaffus vaqti\nb) Ayollar va o'smirlar uchun to'pning og'irligi\nc) Jamoalar bir-birlari bilan uchrashib chiqadigan tizim",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 34,
+      "source_number": 34,
+      "source_paragraph": 13317,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Qizil kartochka\n2) Chiqib ketish tizimi\n3) 3 qadam\na) Qo'pollik uchun to'g'ridan to'g'ri diskvalifikatsiya\nb) Yutqazgan jamoa musobaqani tark etadigan tizim\nc) To'p bilan yurishning ruxsat etilgan qadamlari",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 35,
+      "source_number": 35,
+      "source_paragraph": 13318,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 10 daqiqa\n2) Sust o'yin\n3) 2x25 daqiqa\na) Taymlar orasidagi tanaffus vaqti\nb) Hujum qilmasdan to'pni ushlab turish holati\nc) 12-16 yoshdagi o'smirlar uchun o'yin davomiyligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 36,
+      "source_number": 36,
+      "source_paragraph": 13319,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Markaz o'yinchisi\n2) 4 metr\n3) 50-52 sm\na) Jamoa hujumini tashkil etuvchi pleymeyker\nb) Darvozabonni cheklovchi chiziq masofasi\nc) Bolalar uchun to'pning aylanasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 37,
+      "source_number": 37,
+      "source_paragraph": 13320,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Burchak o'yinchisi\n2) 6 metr\n3) 1904 yil\na) Qanotlarda harakatlanuvchi tezkor o'yinchi\nb) Darvozabon maydoni chizig'igacha bo'lgan masofa\nc) Daniya gandbol federatsiyasi tashkil topgan yil",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 38,
+      "source_number": 38,
+      "source_paragraph": 13321,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 20 sm\n2) 2 daqiqali jazo\n3) Monreal (1976)\na) Raqamlarning orqa tarafdagi eng kam balandligi\nb) Noto'g'ri almashganda beriladigan vaqtinchalik jazo\nc) Ayollar gandboli Olimpiada dasturiga kiritilgan joy",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 39,
+      "source_number": 39,
+      "source_paragraph": 13322,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 54-56 sm\n2) Darvozabon\n3) 7 metr\na) Ayollar va o'smirlar uchun to'pning aylanasi\nb) To'pga barcha a'zolari bilan tegish huquqi bor shaxs\nc) Jarima to'p tashlash chizig'i masofasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 40,
+      "source_number": 40,
+      "source_paragraph": 13323,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Marg'uba Artiqboeva\n2) 4 metr\n3) 325-375 gr\na) O'zbekistonda birinchi bo'lib sport ustasi unvoniga ega bo'lgan qiz\nb) Darvozabonni cheklovchi chiziq masofasi\nc) Ayollar va o'smirlar uchun to'pning og'irligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 41,
+      "source_number": 41,
+      "source_paragraph": 13324,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 10 sm\n2) 50-52 sm\n3) Chiziq o'yinchisi\na) Raqamlarning old tarafdagi eng kam balandligi\nb) Bolalar uchun to'pning aylanasi\nc) 6-7 metr oralig'ida zaslon qo'yuvchi o'yinchi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 42,
+      "source_number": 42,
+      "source_paragraph": 13325,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 4.5 metr\n2) 5 sm\n3) 1904 yil\na) O'yinchilarni almashtirish xududi uzunligi\nb) Maydondagi oddiy belgilovchi chiziqlar eni\nc) Daniya gandbol federatsiyasi tashkil topgan yil",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 43,
+      "source_number": 43,
+      "source_paragraph": 13326,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Dastlabki to'p\n2) Marg'uba Artiqboeva\n3) Aralash tizim\na) O'yinni boshlashda markazdan bajariladigan harakat\nb) O'zbekistonda birinchi bo'lib sport ustasi unvoniga ega bo'lgan qiz\nc) Ham guruh, ham pley-offni o'z ichiga oluvchi tizim",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 44,
+      "source_number": 44,
+      "source_paragraph": 13327,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Chiqib ketish tizimi\n2) 2 daqiqali jazo\n3) 425-475 gr\na) Yutqazgan jamoa musobaqani tark etadigan tizim\nb) Noto'g'ri almashganda beriladigan vaqtinchalik jazo\nc) Erkaklar uchun to'pning og'irligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 45,
+      "source_number": 45,
+      "source_paragraph": 13328,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 40x20 metr\n2) 2x30 daqiqa\n3) 2 daqiqali jazo\na) Gandbol maydonining rasmiy o'lchami\nb) Kattalar jamoalari uchun o'yin davomiyligi\nc) Noto'g'ri almashganda beriladigan vaqtinchalik jazo",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 46,
+      "source_number": 46,
+      "source_paragraph": 13329,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x30 daqiqa\n2) 8 sm\n3) Monreal (1976)\na) Kattalar jamoalari uchun o'yin davomiyligi\nb) Darvoza ustunlari orasidan o'tadigan chiziq eni\nc) Ayollar gandboli Olimpiada dasturiga kiritilgan joy",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 47,
+      "source_number": 47,
+      "source_paragraph": 13330,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 54-56 sm\n2) 1904 yil\n3) Sust o'yin\na) Ayollar va o'smirlar uchun to'pning aylanasi\nb) Daniya gandbol federatsiyasi tashkil topgan yil\nc) Hujum qilmasdan to'pni ushlab turish holati",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 48,
+      "source_number": 48,
+      "source_paragraph": 13331,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Myunxen (1972)\n2) Dastlabki to'p\n3) 10 sm\na) Erkaklar gandboli Olimpiada dasturiga kiritilgan joy\nb) O'yinni boshlashda markazdan bajariladigan harakat\nc) Raqamlarning old tarafdagi eng kam balandligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 49,
+      "source_number": 49,
+      "source_paragraph": 13332,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 6 metr\n2) 2 daqiqali jazo\n3) Myunxen (1972)\na) Darvozabon maydoni chizig'igacha bo'lgan masofa\nb) Noto'g'ri almashganda beriladigan vaqtinchalik jazo\nc) Erkaklar gandboli Olimpiada dasturiga kiritilgan joy",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 50,
+      "source_number": 50,
+      "source_paragraph": 13333,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Markaz o'yinchisi\n2) Sariq kartochka\n3) 4 metr\na) Jamoa hujumini tashkil etuvchi pleymeyker\nb) Ogohlantirish berish vositasi\nc) Darvozabonni cheklovchi chiziq masofasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 51,
+      "source_number": 51,
+      "source_paragraph": 13334,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 3 metr\n2) 5 sm\n3) 2 daqiqali jazo\na) Dastlabki to'p tashlashdagi raqibgacha masofa\nb) Maydondagi oddiy belgilovchi chiziqlar eni\nc) Noto'g'ri almashganda beriladigan vaqtinchalik jazo",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 52,
+      "source_number": 52,
+      "source_paragraph": 13335,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Chiqib ketish tizimi\n2) Marg'uba Artiqboeva\n3) 1904 yil\na) Yutqazgan jamoa musobaqani tark etadigan tizim\nb) O'zbekistonda birinchi bo'lib sport ustasi unvoniga ega bo'lgan qiz\nc) Daniya gandbol federatsiyasi tashkil topgan yil",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 53,
+      "source_number": 53,
+      "source_paragraph": 13336,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Aralash tizim\n2) 8 sm\n3) Monreal (1976)\na) Ham guruh, ham pley-offni o'z ichiga oluvchi tizim\nb) Darvoza ustunlari orasidan o'tadigan chiziq eni\nc) Ayollar gandboli Olimpiada dasturiga kiritilgan joy",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 54,
+      "source_number": 54,
+      "source_paragraph": 13337,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 8 sm\n2) Aralash tizim\n3) Myunxen (1972)\na) Darvoza ustunlari orasidan o'tadigan chiziq eni\nb) Ham guruh, ham pley-offni o'z ichiga oluvchi tizim\nc) Erkaklar gandboli Olimpiada dasturiga kiritilgan joy",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 55,
+      "source_number": 55,
+      "source_paragraph": 13338,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Sariq kartochka\n2) 3 soniya\n3) 40x20 metr\na) Ogohlantirish berish vositasi\nb) To'pni ushlab turishning ruxsat etilgan vaqti\nc) Gandbol maydonining rasmiy o'lchami",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 56,
+      "source_number": 56,
+      "source_paragraph": 13339,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x3 metr\n2) 4.5 metr\n3) 2x30 daqiqa\na) Gandbol darvozasining ichki o'lchami\nb) O'yinchilarni almashtirish xududi uzunligi\nc) Kattalar jamoalari uchun o'yin davomiyligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 57,
+      "source_number": 57,
+      "source_paragraph": 13340,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 10 daqiqa\n2) Chiziq o'yinchisi\n3) 9 metr\na) Taymlar orasidagi tanaffus vaqti\nb) 6-7 metr oralig'ida zaslon qo'yuvchi o'yinchi\nc) Erkin to'p tashlash chizig'i masofasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 58,
+      "source_number": 58,
+      "source_paragraph": 13341,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 3 soniya\n2) 4.5 metr\n3) 1904 yil\na) To'pni ushlab turishning ruxsat etilgan vaqti\nb) O'yinchilarni almashtirish xududi uzunligi\nc) Daniya gandbol federatsiyasi tashkil topgan yil",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 59,
+      "source_number": 59,
+      "source_paragraph": 13342,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x5 daqiqa\n2) 325-375 gr\n3) 2x3 metr\na) Qo'shimcha vaqt taymlari davomiyligi\nb) Ayollar va o'smirlar uchun to'pning og'irligi\nc) Gandbol darvozasining ichki o'lchami",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 60,
+      "source_number": 60,
+      "source_paragraph": 13343,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Monreal (1976)\n2) Chiqib ketish tizimi\n3) 1 daqiqa\na) Ayollar gandboli Olimpiada dasturiga kiritilgan joy\nb) Yutqazgan jamoa musobaqani tark etadigan tizim\nc) Jamoaviy taym-aut vaqti",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 61,
+      "source_number": 61,
+      "source_paragraph": 13344,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 1946 yil\n2) 2x5 daqiqa\n3) 4.5 metr\na) Xalqaro gandbol federatsiyasi (IHF) tashkil topgan yil\nb) Qo'shimcha vaqt taymlari davomiyligi\nc) O'yinchilarni almashtirish xududi uzunligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 62,
+      "source_number": 62,
+      "source_paragraph": 13345,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 325-375 gr\n2) 50-52 sm\n3) Chiziq o'yinchisi\na) Ayollar va o'smirlar uchun to'pning og'irligi\nb) Bolalar uchun to'pning aylanasi\nc) 6-7 metr oralig'ida zaslon qo'yuvchi o'yinchi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 63,
+      "source_number": 63,
+      "source_paragraph": 13346,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Dastlabki to'p\n2) 9 metr\n3) 40x20 metr\na) O'yinni boshlashda markazdan bajariladigan harakat\nb) Erkin to'p tashlash chizig'i masofasi\nc) Gandbol maydonining rasmiy o'lchami",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 64,
+      "source_number": 64,
+      "source_paragraph": 13347,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Monreal (1976)\n2) 10 daqiqa\n3) 54-56 sm\na) Ayollar gandboli Olimpiada dasturiga kiritilgan joy\nb) Taymlar orasidagi tanaffus vaqti\nc) Ayollar va o'smirlar uchun to'pning aylanasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 65,
+      "source_number": 65,
+      "source_paragraph": 13348,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 6 metr\n2) 54-56 sm\n3) 8 sm\na) Darvozabon maydoni chizig'igacha bo'lgan masofa\nb) Ayollar va o'smirlar uchun to'pning aylanasi\nc) Darvoza ustunlari orasidan o'tadigan chiziq eni",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 66,
+      "source_number": 66,
+      "source_paragraph": 13349,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 5 sm\n2) 10 sm\n3) Xolger Nilson\na) Maydondagi oddiy belgilovchi chiziqlar eni\nb) Raqamlarning old tarafdagi eng kam balandligi\nc) Gandbol o'yiniga asos solgan shaxs",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 67,
+      "source_number": 67,
+      "source_paragraph": 13350,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 8 sm\n2) 4.5 metr\n3) Markaz o'yinchisi\na) Darvoza ustunlari orasidan o'tadigan chiziq eni\nb) O'yinchilarni almashtirish xududi uzunligi\nc) Jamoa hujumini tashkil etuvchi pleymeyker",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 68,
+      "source_number": 68,
+      "source_paragraph": 13351,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 4.5 metr\n2) Monreal (1976)\n3) Darvozabon\na) O'yinchilarni almashtirish xududi uzunligi\nb) Ayollar gandboli Olimpiada dasturiga kiritilgan joy\nc) To'pga barcha a'zolari bilan tegish huquqi bor shaxs",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 69,
+      "source_number": 69,
+      "source_paragraph": 13352,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Aralash tizim\n2) 4.5 metr\n3) 3 qadam\na) Ham guruh, ham pley-offni o'z ichiga oluvchi tizim\nb) O'yinchilarni almashtirish xududi uzunligi\nc) To'p bilan yurishning ruxsat etilgan qadamlari",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 70,
+      "source_number": 70,
+      "source_paragraph": 13353,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 1928 yil\n2) Sust o'yin\n3) 2x30 daqiqa\na) Sobiq Ittifoqda birinchi gandbol musobaqasi o'tkazilgan yil\nb) Hujum qilmasdan to'pni ushlab turish holati\nc) Kattalar jamoalari uchun o'yin davomiyligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 71,
+      "source_number": 71,
+      "source_paragraph": 13354,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x30 daqiqa\n2) Darvozabon\n3) 8 sm\na) Kattalar jamoalari uchun o'yin davomiyligi\nb) To'pga barcha a'zolari bilan tegish huquqi bor shaxs\nc) Darvoza ustunlari orasidan o'tadigan chiziq eni",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 72,
+      "source_number": 72,
+      "source_paragraph": 13355,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x3 metr\n2) 8 sm\n3) 1928 yil\na) Gandbol darvozasining ichki o'lchami\nb) Darvoza ustunlari orasidan o'tadigan chiziq eni\nc) Sobiq Ittifoqda birinchi gandbol musobaqasi o'tkazilgan yil",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 73,
+      "source_number": 73,
+      "source_paragraph": 13356,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 425-475 gr\n2) Myunxen (1972)\n3) 7 metr\na) Erkaklar uchun to'pning og'irligi\nb) Erkaklar gandboli Olimpiada dasturiga kiritilgan joy\nc) Jarima to'p tashlash chizig'i masofasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 74,
+      "source_number": 74,
+      "source_paragraph": 13357,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Chiqib ketish tizimi\n2) Marg'uba Artiqboeva\n3) Sust o'yin\na) Yutqazgan jamoa musobaqani tark etadigan tizim\nb) O'zbekistonda birinchi bo'lib sport ustasi unvoniga ega bo'lgan qiz\nc) Hujum qilmasdan to'pni ushlab turish holati",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 75,
+      "source_number": 75,
+      "source_paragraph": 13358,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 425-475 gr\n2) Aralash tizim\n3) 3 qadam\na) Erkaklar uchun to'pning og'irligi\nb) Ham guruh, ham pley-offni o'z ichiga oluvchi tizim\nc) To'p bilan yurishning ruxsat etilgan qadamlari",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 76,
+      "source_number": 76,
+      "source_paragraph": 13359,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Yarim o'rta\n2) 425-475 gr\n3) 3 qadam\na) Uzoqdan kuchli zarba beruvchi bo'ydor o'yinchi\nb) Erkaklar uchun to'pning og'irligi\nc) To'p bilan yurishning ruxsat etilgan qadamlari",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 77,
+      "source_number": 77,
+      "source_paragraph": 13360,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 1928 yil\n2) 50-52 sm\n3) 1904 yil\na) Sobiq Ittifoqda birinchi gandbol musobaqasi o'tkazilgan yil\nb) Bolalar uchun to'pning aylanasi\nc) Daniya gandbol federatsiyasi tashkil topgan yil",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 78,
+      "source_number": 78,
+      "source_paragraph": 13361,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x25 daqiqa\n2) 10 daqiqa\n3) 6 metr\na) 12-16 yoshdagi o'smirlar uchun o'yin davomiyligi\nb) Taymlar orasidagi tanaffus vaqti\nc) Darvozabon maydoni chizig'igacha bo'lgan masofa",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 79,
+      "source_number": 79,
+      "source_paragraph": 13362,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 10 daqiqa\n2) 1946 yil\n3) Sariq kartochka\na) Taymlar orasidagi tanaffus vaqti\nb) Xalqaro gandbol federatsiyasi (IHF) tashkil topgan yil\nc) Ogohlantirish berish vositasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 80,
+      "source_number": 80,
+      "source_paragraph": 13363,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Monreal (1976)\n2) 2x25 daqiqa\n3) Aylanma tizim\na) Ayollar gandboli Olimpiada dasturiga kiritilgan joy\nb) 12-16 yoshdagi o'smirlar uchun o'yin davomiyligi\nc) Jamoalar bir-birlari bilan uchrashib chiqadigan tizim",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 81,
+      "source_number": 81,
+      "source_paragraph": 13364,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x20 daqiqa\n2) 54-56 sm\n3) 10 sm\na) 8-12 yoshdagi bolalar uchun o'yin davomiyligi\nb) Ayollar va o'smirlar uchun to'pning aylanasi\nc) Raqamlarning old tarafdagi eng kam balandligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 82,
+      "source_number": 82,
+      "source_paragraph": 13365,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x20 daqiqa\n2) Chiqib ketish tizimi\n3) 425-475 gr\na) 8-12 yoshdagi bolalar uchun o'yin davomiyligi\nb) Yutqazgan jamoa musobaqani tark etadigan tizim\nc) Erkaklar uchun to'pning og'irligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 83,
+      "source_number": 83,
+      "source_paragraph": 13366,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 1928 yil\n2) Dastlabki to'p\n3) 1904 yil\na) Sobiq Ittifoqda birinchi gandbol musobaqasi o'tkazilgan yil\nb) O'yinni boshlashda markazdan bajariladigan harakat\nc) Daniya gandbol federatsiyasi tashkil topgan yil",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 84,
+      "source_number": 84,
+      "source_paragraph": 13367,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 10 daqiqa\n2) 54-56 sm\n3) Xolger Nilson\na) Taymlar orasidagi tanaffus vaqti\nb) Ayollar va o'smirlar uchun to'pning aylanasi\nc) Gandbol o'yiniga asos solgan shaxs",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 85,
+      "source_number": 85,
+      "source_paragraph": 13368,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 1946 yil\n2) 10 sm\n3) 6 metr\na) Xalqaro gandbol federatsiyasi (IHF) tashkil topgan yil\nb) Raqamlarning old tarafdagi eng kam balandligi\nc) Darvozabon maydoni chizig'igacha bo'lgan masofa",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 86,
+      "source_number": 86,
+      "source_paragraph": 13369,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 4.5 metr\n2) 10 sm\n3) 6 metr\na) O'yinchilarni almashtirish xududi uzunligi\nb) Raqamlarning old tarafdagi eng kam balandligi\nc) Darvozabon maydoni chizig'igacha bo'lgan masofa",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 87,
+      "source_number": 87,
+      "source_paragraph": 13370,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x30 daqiqa\n2) 4 metr\n3) 2 daqiqali jazo\na) Kattalar jamoalari uchun o'yin davomiyligi\nb) Darvozabonni cheklovchi chiziq masofasi\nc) Noto'g'ri almashganda beriladigan vaqtinchalik jazo",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 88,
+      "source_number": 88,
+      "source_paragraph": 13371,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 50-52 sm\n2) 1928 yil\n3) Sust o'yin\na) Bolalar uchun to'pning aylanasi\nb) Sobiq Ittifoqda birinchi gandbol musobaqasi o'tkazilgan yil\nc) Hujum qilmasdan to'pni ushlab turish holati",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 89,
+      "source_number": 89,
+      "source_paragraph": 13372,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 50-52 sm\n2) 3 qadam\n3) 2x3 metr\na) Bolalar uchun to'pning aylanasi\nb) To'p bilan yurishning ruxsat etilgan qadamlari\nc) Gandbol darvozasining ichki o'lchami",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 90,
+      "source_number": 90,
+      "source_paragraph": 13373,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Aralash tizim\n2) 8 sm\n3) 20 sm\na) Ham guruh, ham pley-offni o'z ichiga oluvchi tizim\nb) Darvoza ustunlari orasidan o'tadigan chiziq eni\nc) Raqamlarning orqa tarafdagi eng kam balandligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 91,
+      "source_number": 91,
+      "source_paragraph": 13374,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 1 daqiqa\n2) 58-60 sm\n3) Sust o'yin\na) Jamoaviy taym-aut vaqti\nb) Erkaklar uchun to'pning aylanasi\nc) Hujum qilmasdan to'pni ushlab turish holati",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 92,
+      "source_number": 92,
+      "source_paragraph": 13375,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 58-60 sm\n2) 2x5 daqiqa\n3) 10 sm\na) Erkaklar uchun to'pning aylanasi\nb) Qo'shimcha vaqt taymlari davomiyligi\nc) Raqamlarning old tarafdagi eng kam balandligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 93,
+      "source_number": 93,
+      "source_paragraph": 13376,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 1904 yil\n2) 6 metr\n3) Chiziq o'yinchisi\na) Daniya gandbol federatsiyasi tashkil topgan yil\nb) Darvozabon maydoni chizig'igacha bo'lgan masofa\nc) 6-7 metr oralig'ida zaslon qo'yuvchi o'yinchi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 94,
+      "source_number": 94,
+      "source_paragraph": 13377,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 40x20 metr\n2) 9 metr\n3) 1 daqiqa\na) Gandbol maydonining rasmiy o'lchami\nb) Erkin to'p tashlash chizig'i masofasi\nc) Jamoaviy taym-aut vaqti",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 95,
+      "source_number": 95,
+      "source_paragraph": 13378,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Yarim o'rta\n2) 2x5 daqiqa\n3) 54-56 sm\na) Uzoqdan kuchli zarba beruvchi bo'ydor o'yinchi\nb) Qo'shimcha vaqt taymlari davomiyligi\nc) Ayollar va o'smirlar uchun to'pning aylanasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 96,
+      "source_number": 96,
+      "source_paragraph": 13379,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 20 sm\n2) Darvozabon\n3) Chiziq o'yinchisi\na) Raqamlarning orqa tarafdagi eng kam balandligi\nb) To'pga barcha a'zolari bilan tegish huquqi bor shaxs\nc) 6-7 metr oralig'ida zaslon qo'yuvchi o'yinchi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 97,
+      "source_number": 97,
+      "source_paragraph": 13380,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 1946 yil\n2) 10 sm\n3) 3 metr\na) Xalqaro gandbol federatsiyasi (IHF) tashkil topgan yil\nb) Raqamlarning old tarafdagi eng kam balandligi\nc) Dastlabki to'p tashlashdagi raqibgacha masofa",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 98,
+      "source_number": 98,
+      "source_paragraph": 13381,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x30 daqiqa\n2) 1 daqiqa\n3) 10 daqiqa\na) Kattalar jamoalari uchun o'yin davomiyligi\nb) Jamoaviy taym-aut vaqti\nc) Taymlar orasidagi tanaffus vaqti",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 99,
+      "source_number": 99,
+      "source_paragraph": 13382,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Burchak o'yinchisi\n2) 3 metr\n3) 6 metr\na) Qanotlarda harakatlanuvchi tezkor o'yinchi\nb) Dastlabki to'p tashlashdagi raqibgacha masofa\nc) Darvozabon maydoni chizig'igacha bo'lgan masofa",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 100,
+      "source_number": 100,
+      "source_paragraph": 13383,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2 daqiqali jazo\n2) 9 metr\n3) Chiziq o'yinchisi\na) Noto'g'ri almashganda beriladigan vaqtinchalik jazo\nb) Erkin to'p tashlash chizig'i masofasi\nc) 6-7 metr oralig'ida zaslon qo'yuvchi o'yinchi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 101,
+      "source_number": 101,
+      "source_paragraph": 13384,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 425-475 gr\n2) 1904 yil\n3) Aralash tizim\na) Erkaklar uchun to'pning og'irligi\nb) Daniya gandbol federatsiyasi tashkil topgan yil\nc) Ham guruh, ham pley-offni o'z ichiga oluvchi tizim",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 102,
+      "source_number": 102,
+      "source_paragraph": 13385,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 54-56 sm\n2) 2 daqiqali jazo\n3) 58-60 sm\na) Ayollar va o'smirlar uchun to'pning aylanasi\nb) Noto'g'ri almashganda beriladigan vaqtinchalik jazo\nc) Erkaklar uchun to'pning aylanasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 103,
+      "source_number": 103,
+      "source_paragraph": 13386,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 20 sm\n2) 2x3 metr\n3) 2x30 daqiqa\na) Raqamlarning orqa tarafdagi eng kam balandligi\nb) Gandbol darvozasining ichki o'lchami\nc) Kattalar jamoalari uchun o'yin davomiyligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 104,
+      "source_number": 104,
+      "source_paragraph": 13387,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 6 metr\n2) 20 sm\n3) 3 soniya\na) Darvozabon maydoni chizig'igacha bo'lgan masofa\nb) Raqamlarning orqa tarafdagi eng kam balandligi\nc) To'pni ushlab turishning ruxsat etilgan vaqti",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 105,
+      "source_number": 105,
+      "source_paragraph": 13388,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 58-60 sm\n2) 2x25 daqiqa\n3) 54-56 sm\na) Erkaklar uchun to'pning aylanasi\nb) 12-16 yoshdagi o'smirlar uchun o'yin davomiyligi\nc) Ayollar va o'smirlar uchun to'pning aylanasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 106,
+      "source_number": 106,
+      "source_paragraph": 13389,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 3 metr\n2) 3 soniya\n3) 2x5 daqiqa\na) Dastlabki to'p tashlashdagi raqibgacha masofa\nb) To'pni ushlab turishning ruxsat etilgan vaqti\nc) Qo'shimcha vaqt taymlari davomiyligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 107,
+      "source_number": 107,
+      "source_paragraph": 13390,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 5 sm\n2) Dastlabki to'p\n3) Markaz o'yinchisi\na) Maydondagi oddiy belgilovchi chiziqlar eni\nb) O'yinni boshlashda markazdan bajariladigan harakat\nc) Jamoa hujumini tashkil etuvchi pleymeyker",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 108,
+      "source_number": 108,
+      "source_paragraph": 13391,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 1946 yil\n2) 3 qadam\n3) 1 daqiqa\na) Xalqaro gandbol federatsiyasi (IHF) tashkil topgan yil\nb) To'p bilan yurishning ruxsat etilgan qadamlari\nc) Jamoaviy taym-aut vaqti",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 109,
+      "source_number": 109,
+      "source_paragraph": 13392,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Chiziq o'yinchisi\n2) Xolger Nilson\n3) 4 metr\na) 6-7 metr oralig'ida zaslon qo'yuvchi o'yinchi\nb) Gandbol o'yiniga asos solgan shaxs\nc) Darvozabonni cheklovchi chiziq masofasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 110,
+      "source_number": 110,
+      "source_paragraph": 13393,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 8 sm\n2) 50-52 sm\n3) 54-56 sm\na) Darvoza ustunlari orasidan o'tadigan chiziq eni\nb) Bolalar uchun to'pning aylanasi\nc) Ayollar va o'smirlar uchun to'pning aylanasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 111,
+      "source_number": 111,
+      "source_paragraph": 13394,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 1904 yil\n2) 3 metr\n3) 5 sm\na) Daniya gandbol federatsiyasi tashkil topgan yil\nb) Dastlabki to'p tashlashdagi raqibgacha masofa\nc) Maydondagi oddiy belgilovchi chiziqlar eni",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 112,
+      "source_number": 112,
+      "source_paragraph": 13395,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 1928 yil\n2) Myunxen (1972)\n3) 2 daqiqali jazo\na) Sobiq Ittifoqda birinchi gandbol musobaqasi o'tkazilgan yil\nb) Erkaklar gandboli Olimpiada dasturiga kiritilgan joy\nc) Noto'g'ri almashganda beriladigan vaqtinchalik jazo",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 113,
+      "source_number": 113,
+      "source_paragraph": 13396,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 9 metr\n2) 1946 yil\n3) 8 sm\na) Erkin to'p tashlash chizig'i masofasi\nb) Xalqaro gandbol federatsiyasi (IHF) tashkil topgan yil\nc) Darvoza ustunlari orasidan o'tadigan chiziq eni",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 114,
+      "source_number": 114,
+      "source_paragraph": 13397,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 9 metr\n2) Aylanma tizim\n3) Dastlabki to'p\na) Erkin to'p tashlash chizig'i masofasi\nb) Jamoalar bir-birlari bilan uchrashib chiqadigan tizim\nc) O'yinni boshlashda markazdan bajariladigan harakat",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 115,
+      "source_number": 115,
+      "source_paragraph": 13398,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x30 daqiqa\n2) 2x25 daqiqa\n3) 58-60 sm\na) Kattalar jamoalari uchun o'yin davomiyligi\nb) 12-16 yoshdagi o'smirlar uchun o'yin davomiyligi\nc) Erkaklar uchun to'pning aylanasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 116,
+      "source_number": 116,
+      "source_paragraph": 13399,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Markaz o'yinchisi\n2) 2x25 daqiqa\n3) Chiziq o'yinchisi\na) Jamoa hujumini tashkil etuvchi pleymeyker\nb) 12-16 yoshdagi o'smirlar uchun o'yin davomiyligi\nc) 6-7 metr oralig'ida zaslon qo'yuvchi o'yinchi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 117,
+      "source_number": 117,
+      "source_paragraph": 13400,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 58-60 sm\n2) 10 daqiqa\n3) 2 daqiqali jazo\na) Erkaklar uchun to'pning aylanasi\nb) Taymlar orasidagi tanaffus vaqti\nc) Noto'g'ri almashganda beriladigan vaqtinchalik jazo",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 118,
+      "source_number": 118,
+      "source_paragraph": 13401,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x30 daqiqa\n2) Myunxen (1972)\n3) 2x25 daqiqa\na) Kattalar jamoalari uchun o'yin davomiyligi\nb) Erkaklar gandboli Olimpiada dasturiga kiritilgan joy\nc) 12-16 yoshdagi o'smirlar uchun o'yin davomiyligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 119,
+      "source_number": 119,
+      "source_paragraph": 13402,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 1904 yil\n2) 3 metr\n3) 3 soniya\na) Daniya gandbol federatsiyasi tashkil topgan yil\nb) Dastlabki to'p tashlashdagi raqibgacha masofa\nc) To'pni ushlab turishning ruxsat etilgan vaqti",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 120,
+      "source_number": 120,
+      "source_paragraph": 13403,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 1946 yil\n2) Darvozabon\n3) 1 daqiqa\na) Xalqaro gandbol federatsiyasi (IHF) tashkil topgan yil\nb) To'pga barcha a'zolari bilan tegish huquqi bor shaxs\nc) Jamoaviy taym-aut vaqti",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 121,
+      "source_number": 121,
+      "source_paragraph": 13404,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 20 sm\n2) 1928 yil\n3) Sust o'yin\na) Raqamlarning orqa tarafdagi eng kam balandligi\nb) Sobiq Ittifoqda birinchi gandbol musobaqasi o'tkazilgan yil\nc) Hujum qilmasdan to'pni ushlab turish holati",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 122,
+      "source_number": 122,
+      "source_paragraph": 13405,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 4.5 metr\n2) 1928 yil\n3) 3 metr\na) O'yinchilarni almashtirish xududi uzunligi\nb) Sobiq Ittifoqda birinchi gandbol musobaqasi o'tkazilgan yil\nc) Dastlabki to'p tashlashdagi raqibgacha masofa",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 123,
+      "source_number": 123,
+      "source_paragraph": 13406,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 8 sm\n2) 3 soniya\n3) 2x20 daqiqa\na) Darvoza ustunlari orasidan o'tadigan chiziq eni\nb) To'pni ushlab turishning ruxsat etilgan vaqti\nc) 8-12 yoshdagi bolalar uchun o'yin davomiyligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 124,
+      "source_number": 124,
+      "source_paragraph": 13407,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Aylanma tizim\n2) Aralash tizim\n3) 2x30 daqiqa\na) Jamoalar bir-birlari bilan uchrashib chiqadigan tizim\nb) Ham guruh, ham pley-offni o'z ichiga oluvchi tizim\nc) Kattalar jamoalari uchun o'yin davomiyligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 125,
+      "source_number": 125,
+      "source_paragraph": 13408,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x5 daqiqa\n2) Aralash tizim\n3) Yarim o'rta\na) Qo'shimcha vaqt taymlari davomiyligi\nb) Ham guruh, ham pley-offni o'z ichiga oluvchi tizim\nc) Uzoqdan kuchli zarba beruvchi bo'ydor o'yinchi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 126,
+      "source_number": 126,
+      "source_paragraph": 13409,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 5 sm\n2) Darvozabon\n3) 9 metr\na) Maydondagi oddiy belgilovchi chiziqlar eni\nb) To'pga barcha a'zolari bilan tegish huquqi bor shaxs\nc) Erkin to'p tashlash chizig'i masofasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 127,
+      "source_number": 127,
+      "source_paragraph": 13410,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Sust o'yin\n2) Marg'uba Artiqboeva\n3) 3 metr\na) Hujum qilmasdan to'pni ushlab turish holati\nb) O'zbekistonda birinchi bo'lib sport ustasi unvoniga ega bo'lgan qiz\nc) Dastlabki to'p tashlashdagi raqibgacha masofa",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 128,
+      "source_number": 128,
+      "source_paragraph": 13411,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 54-56 sm\n2) 1946 yil\n3) Aralash tizim\na) Ayollar va o'smirlar uchun to'pning aylanasi\nb) Xalqaro gandbol federatsiyasi (IHF) tashkil topgan yil\nc) Ham guruh, ham pley-offni o'z ichiga oluvchi tizim",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 129,
+      "source_number": 129,
+      "source_paragraph": 13412,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 325-375 gr\n2) 54-56 sm\n3) Markaz o'yinchisi\na) Ayollar va o'smirlar uchun to'pning og'irligi\nb) Ayollar va o'smirlar uchun to'pning aylanasi\nc) Jamoa hujumini tashkil etuvchi pleymeyker",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 130,
+      "source_number": 130,
+      "source_paragraph": 13413,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 325-375 gr\n2) Darvozabon\n3) 7 metr\na) Ayollar va o'smirlar uchun to'pning og'irligi\nb) To'pga barcha a'zolari bilan tegish huquqi bor shaxs\nc) Jarima to'p tashlash chizig'i masofasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 131,
+      "source_number": 131,
+      "source_paragraph": 13414,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Markaz o'yinchisi\n2) 3 soniya\n3) 58-60 sm\na) Jamoa hujumini tashkil etuvchi pleymeyker\nb) To'pni ushlab turishning ruxsat etilgan vaqti\nc) Erkaklar uchun to'pning aylanasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 132,
+      "source_number": 132,
+      "source_paragraph": 13415,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 3 metr\n2) 3 qadam\n3) Chiziq o'yinchisi\na) Dastlabki to'p tashlashdagi raqibgacha masofa\nb) To'p bilan yurishning ruxsat etilgan qadamlari\nc) 6-7 metr oralig'ida zaslon qo'yuvchi o'yinchi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 133,
+      "source_number": 133,
+      "source_paragraph": 13416,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 10 daqiqa\n2) Sariq kartochka\n3) 10 sm\na) Taymlar orasidagi tanaffus vaqti\nb) Ogohlantirish berish vositasi\nc) Raqamlarning old tarafdagi eng kam balandligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 134,
+      "source_number": 134,
+      "source_paragraph": 13417,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 10 daqiqa\n2) Markaz o'yinchisi\n3) 425-475 gr\na) Taymlar orasidagi tanaffus vaqti\nb) Jamoa hujumini tashkil etuvchi pleymeyker\nc) Erkaklar uchun to'pning og'irligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 135,
+      "source_number": 135,
+      "source_paragraph": 13418,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Monreal (1976)\n2) 1928 yil\n3) Myunxen (1972)\na) Ayollar gandboli Olimpiada dasturiga kiritilgan joy\nb) Sobiq Ittifoqda birinchi gandbol musobaqasi o'tkazilgan yil\nc) Erkaklar gandboli Olimpiada dasturiga kiritilgan joy",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 136,
+      "source_number": 136,
+      "source_paragraph": 13419,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 40x20 metr\n2) 3 soniya\n3) Sust o'yin\na) Gandbol maydonining rasmiy o'lchami\nb) To'pni ushlab turishning ruxsat etilgan vaqti\nc) Hujum qilmasdan to'pni ushlab turish holati",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 137,
+      "source_number": 137,
+      "source_paragraph": 13420,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 2x20 daqiqa\n2) Darvozabon\n3) Chiqib ketish tizimi\na) 8-12 yoshdagi bolalar uchun o'yin davomiyligi\nb) To'pga barcha a'zolari bilan tegish huquqi bor shaxs\nc) Yutqazgan jamoa musobaqani tark etadigan tizim",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 138,
+      "source_number": 138,
+      "source_paragraph": 13421,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 1 daqiqa\n2) Sust o'yin\n3) 4.5 metr\na) Jamoaviy taym-aut vaqti\nb) Hujum qilmasdan to'pni ushlab turish holati\nc) O'yinchilarni almashtirish xududi uzunligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 139,
+      "source_number": 139,
+      "source_paragraph": 13422,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 54-56 sm\n2) 2x25 daqiqa\n3) 2x20 daqiqa\na) Ayollar va o'smirlar uchun to'pning aylanasi\nb) 12-16 yoshdagi o'smirlar uchun o'yin davomiyligi\nc) 8-12 yoshdagi bolalar uchun o'yin davomiyligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 140,
+      "source_number": 140,
+      "source_paragraph": 13423,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 7 metr\n2) 3 metr\n3) 325-375 gr\na) Jarima to'p tashlash chizig'i masofasi\nb) Dastlabki to'p tashlashdagi raqibgacha masofa\nc) Ayollar va o'smirlar uchun to'pning og'irligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 141,
+      "source_number": 141,
+      "source_paragraph": 13424,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 1946 yil\n2) 3 metr\n3) 1928 yil\na) Xalqaro gandbol federatsiyasi (IHF) tashkil topgan yil\nb) Dastlabki to'p tashlashdagi raqibgacha masofa\nc) Sobiq Ittifoqda birinchi gandbol musobaqasi o'tkazilgan yil",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 142,
+      "source_number": 142,
+      "source_paragraph": 13425,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Dastlabki to'p\n2) Marg'uba Artiqboeva\n3) 2x25 daqiqa\na) O'yinni boshlashda markazdan bajariladigan harakat\nb) O'zbekistonda birinchi bo'lib sport ustasi unvoniga ega bo'lgan qiz\nc) 12-16 yoshdagi o'smirlar uchun o'yin davomiyligi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 143,
+      "source_number": 143,
+      "source_paragraph": 13426,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Burchak o'yinchisi\n2) 2x20 daqiqa\n3) Chiziq o'yinchisi\na) Qanotlarda harakatlanuvchi tezkor o'yinchi\nb) 8-12 yoshdagi bolalar uchun o'yin davomiyligi\nc) 6-7 metr oralig'ida zaslon qo'yuvchi o'yinchi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 144,
+      "source_number": 144,
+      "source_paragraph": 13427,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 10 daqiqa\n2) 1928 yil\n3) Aylanma tizim\na) Taymlar orasidagi tanaffus vaqti\nb) Sobiq Ittifoqda birinchi gandbol musobaqasi o'tkazilgan yil\nc) Jamoalar bir-birlari bilan uchrashib chiqadigan tizim",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 145,
+      "source_number": 145,
+      "source_paragraph": 13428,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 20 sm\n2) 4.5 metr\n3) Yarim o'rta\na) Raqamlarning orqa tarafdagi eng kam balandligi\nb) O'yinchilarni almashtirish xududi uzunligi\nc) Uzoqdan kuchli zarba beruvchi bo'ydor o'yinchi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 146,
+      "source_number": 146,
+      "source_paragraph": 13429,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Xolger Nilson\n2) 3 metr\n3) 3 qadam\na) Gandbol o'yiniga asos solgan shaxs\nb) Dastlabki to'p tashlashdagi raqibgacha masofa\nc) To'p bilan yurishning ruxsat etilgan qadamlari",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 147,
+      "source_number": 147,
+      "source_paragraph": 13430,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Chiziq o'yinchisi\n2) 2x20 daqiqa\n3) 1946 yil\na) 6-7 metr oralig'ida zaslon qo'yuvchi o'yinchi\nb) 8-12 yoshdagi bolalar uchun o'yin davomiyligi\nc) Xalqaro gandbol federatsiyasi (IHF) tashkil topgan yil",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 148,
+      "source_number": 148,
+      "source_paragraph": 13431,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 3 soniya\n2) 2x20 daqiqa\n3) 50-52 sm\na) To'pni ushlab turishning ruxsat etilgan vaqti\nb) 8-12 yoshdagi bolalar uchun o'yin davomiyligi\nc) Bolalar uchun to'pning aylanasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 149,
+      "source_number": 149,
+      "source_paragraph": 13432,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) Aylanma tizim\n2) 325-375 gr\n3) Markaz o'yinchisi\na) Jamoalar bir-birlari bilan uchrashib chiqadigan tizim\nb) Ayollar va o'smirlar uchun to'pning og'irligi\nc) Jamoa hujumini tashkil etuvchi pleymeyker",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 150,
+      "source_number": 150,
+      "source_paragraph": 13433,
+      "text": "Quyidagi atamalar va ularning ta'riflarini to'g'ri moslashtiring:\n1) 10 daqiqa\n2) Dastlabki to'p\n3) Aylanma tizim\na) Taymlar orasidagi tanaffus vaqti\nb) O'yinni boshlashda markazdan bajariladigan harakat\nc) Jamoalar bir-birlari bilan uchrashib chiqadigan tizim",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 151,
+      "source_number": 151,
+      "source_paragraph": 13435,
+      "text": "Gandbol qachon va qayerda paydo bo'lgan?",
+      "options": {
+        "A": "1898 yilda Daniyada",
+        "B": "1904 yilda Shvetsiyada",
+        "C": "1892 yilda AQShda",
+        "D": "1928 yilda SSSRda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 152,
+      "source_number": 152,
+      "source_paragraph": 13436,
+      "text": "Gandbol o'yinining asoschisi kim hisoblanadi?",
+      "options": {
+        "A": "Xolger Nilson",
+        "B": "Deyms Neysmit",
+        "C": "Uilyam Morgan",
+        "D": "K. Shmitt"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 153,
+      "source_number": 153,
+      "source_paragraph": 13437,
+      "text": "Xalqaro gandbol federatsiyasi (IHF) qachon tashkil topgan?",
+      "options": {
+        "A": "1946 yilda",
+        "B": "1928 yilda",
+        "C": "1904 yilda",
+        "D": "1972 yilda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 154,
+      "source_number": 154,
+      "source_paragraph": 13438,
+      "text": "Xalqaro gandbol federatsiyasining shtab kvartirasi qayerda joylashgan?",
+      "options": {
+        "A": "Bazel (Shveysariya)",
+        "B": "Lozanna (Shveysariya)",
+        "C": "London (Angliya)",
+        "D": "Kopengagen (Daniya)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 155,
+      "source_number": 155,
+      "source_paragraph": 13439,
+      "text": "Gandbol bo'yicha erkaklar o'rtasida birinchi Jahon chempionati qachon o'tkazilgan?",
+      "options": {
+        "A": "1970 yil",
+        "B": "1971 yil",
+        "C": "1962 yil",
+        "D": "1972 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 156,
+      "source_number": 156,
+      "source_paragraph": 13440,
+      "text": "Gandbol bo'yicha ayollar o'rtasida birinchi Jahon chempionati qachon o'tkazilgan?",
+      "options": {
+        "A": "1971 yil",
+        "B": "1970 yil",
+        "C": "1976 yil",
+        "D": "1997 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 157,
+      "source_number": 157,
+      "source_paragraph": 13441,
+      "text": "Erkaklar gandboli qachon Olimpiya o'yinlari dasturiga kiritilgan?",
+      "options": {
+        "A": "1972 yil (Myunxen)",
+        "B": "1976 yil (Monreal)",
+        "C": "1980 yil (Moskva)",
+        "D": "1984 yil (Los-Anjeles)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 158,
+      "source_number": 158,
+      "source_paragraph": 13442,
+      "text": "Ayollar gandboli qachon Olimpiya o'yinlari dasturiga kiritilgan?",
+      "options": {
+        "A": "1976 yil (Monreal)",
+        "B": "1972 yil (Myunxen)",
+        "C": "1980 yil (Moskva)",
+        "D": "1992 yil (Barselona)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 159,
+      "source_number": 159,
+      "source_paragraph": 13443,
+      "text": "O'zbekistonda gandbol bo'yicha birinchi chempionat qachon o'tkazilgan?",
+      "options": {
+        "A": "1938 yil",
+        "B": "1960 yil",
+        "C": "1962 yil",
+        "D": "1992 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 160,
+      "source_number": 160,
+      "source_paragraph": 13444,
+      "text": "O'zbekiston gandbol federatsiyasi qachon tashkil etilgan?",
+      "options": {
+        "A": "1992 yil",
+        "B": "1993 yil",
+        "C": "1997 yil",
+        "D": "2005 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 161,
+      "source_number": 161,
+      "source_paragraph": 13445,
+      "text": "Gandbol maydonining o'lchamlari qanday?",
+      "options": {
+        "A": "40x20 m",
+        "B": "28x15 m",
+        "C": "18x9 m",
+        "D": "105x68 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 162,
+      "source_number": 162,
+      "source_paragraph": 13446,
+      "text": "Gandbol darvozasining o'lchami qanday?",
+      "options": {
+        "A": "Balandligi 2 m, eni 3 m",
+        "B": "Balandligi 3 m, eni 2 m",
+        "C": "Balandligi 2.44 m, eni 7.32 m",
+        "D": "Balandligi 2 m, eni 4 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 163,
+      "source_number": 163,
+      "source_paragraph": 13447,
+      "text": "Darvozabon maydonchasi chizig'i darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "6 metr",
+        "B": "7 metr",
+        "C": "9 metr",
+        "D": "4 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 164,
+      "source_number": 164,
+      "source_paragraph": 13448,
+      "text": "Jarima to'p tashlash chizig'i darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "7 metr",
+        "B": "6 metr",
+        "C": "9 metr",
+        "D": "4.5 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 165,
+      "source_number": 165,
+      "source_paragraph": 13449,
+      "text": "Erkin to'p tashlash chizig'i (punktir chiziq) darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "9 metr",
+        "B": "7 metr",
+        "C": "6 metr",
+        "D": "12 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 166,
+      "source_number": 166,
+      "source_paragraph": 13450,
+      "text": "Darvozabonni cheklovchi chiziq darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "4 metr",
+        "B": "3 metr",
+        "C": "6 metr",
+        "D": "4.5 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 167,
+      "source_number": 167,
+      "source_paragraph": 13451,
+      "text": "O'yinchilarni almashtirish xududi markaziy chiziqdan har ikki tomonga qanday masofada joylashgan?",
+      "options": {
+        "A": "4.5 metr",
+        "B": "3 metr",
+        "C": "6 metr",
+        "D": "9 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 168,
+      "source_number": 168,
+      "source_paragraph": 13452,
+      "text": "Erkaklar va o'smirlar (16 yoshdan yuqori) uchun to'pning og'irligi qancha bo'lishi kerak?",
+      "options": {
+        "A": "425-475 gr",
+        "B": "325-375 gr",
+        "C": "290-330 gr",
+        "D": "400-450 gr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 169,
+      "source_number": 169,
+      "source_paragraph": 13453,
+      "text": "Ayollar va 14 yoshdan yuqori qizlar uchun to'pning og'irligi qancha bo'lishi kerak?",
+      "options": {
+        "A": "325-375 gr",
+        "B": "425-475 gr",
+        "C": "290-330 gr",
+        "D": "300-350 gr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 170,
+      "source_number": 170,
+      "source_paragraph": 13454,
+      "text": "Kattalar jamoasi uchun gandbol o'yini qancha vaqt davom etadi?",
+      "options": {
+        "A": "2x30 daqiqa",
+        "B": "2x25 daqiqa",
+        "C": "2x20 daqiqa",
+        "D": "4x10 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 171,
+      "source_number": 171,
+      "source_paragraph": 13455,
+      "text": "12-16 yoshdagi o'smirlar jamoasi uchun o'yin vaqti qancha?",
+      "options": {
+        "A": "2x25 daqiqa",
+        "B": "2x30 daqiqa",
+        "C": "2x20 daqiqa",
+        "D": "2x15 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 172,
+      "source_number": 172,
+      "source_paragraph": 13456,
+      "text": "Taymlar orasidagi tanaffus vaqti qancha?",
+      "options": {
+        "A": "10 daqiqa",
+        "B": "15 daqiqa",
+        "C": "5 daqiqa",
+        "D": "12 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 173,
+      "source_number": 173,
+      "source_paragraph": 13457,
+      "text": "Qo'shimcha vaqt qanday taymlardan iborat bo'ladi?",
+      "options": {
+        "A": "2x5 daqiqa",
+        "B": "2x10 daqiqa",
+        "C": "2x15 daqiqa",
+        "D": "1x10 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 174,
+      "source_number": 174,
+      "source_paragraph": 13458,
+      "text": "Maydonda bir vaqtning o'zida har bir jamoadan eng ko'pi bilan nechta o'yinchi bo'lishi mumkin?",
+      "options": {
+        "A": "7 ta",
+        "B": "6 ta",
+        "C": "11 ta",
+        "D": "5 ta"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 175,
+      "source_number": 175,
+      "source_paragraph": 13459,
+      "text": "Jamoa o'yinni boshlashi uchun maydonda kamida nechta o'yinchi bo'lishi kerak?",
+      "options": {
+        "A": "5 ta",
+        "B": "7 ta",
+        "C": "6 ta",
+        "D": "4 ta"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 176,
+      "source_number": 176,
+      "source_paragraph": 13460,
+      "text": "O'yinchilarni almashtirish jarayonida zaxiradagi o'yinchi qachon maydonga tushishi mumkin?",
+      "options": {
+        "A": "Maydondagi o'yinchi maydonni to'liq tark etgach",
+        "B": "Hakam xushtagidan so'ng",
+        "C": "O'yin to'xtatilganda",
+        "D": "Istalgan vaqtda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 177,
+      "source_number": 177,
+      "source_paragraph": 13461,
+      "text": "Sust (passiv) o'yin degani nima?",
+      "options": {
+        "A": "Hujum qilmasdan to'pni ushlab turish",
+        "B": "Tezlik bilan hujum qilish",
+        "C": "To'pni faqat markazda saqlash",
+        "D": "Darvozabonga to'pni oshirish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 178,
+      "source_number": 178,
+      "source_paragraph": 13462,
+      "text": "O'yinchi to'pni qo'lida maksimal qancha vaqt ushlab turishi mumkin?",
+      "options": {
+        "A": "3 soniya",
+        "B": "5 soniya",
+        "C": "10 soniya",
+        "D": "Vaqt cheklanmagan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 179,
+      "source_number": 179,
+      "source_paragraph": 13463,
+      "text": "To'p bilan maksimal nechta qadam yurishga ruxsat etiladi?",
+      "options": {
+        "A": "3 qadam",
+        "B": "2 qadam",
+        "C": "4 qadam",
+        "D": "5 qadam"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 180,
+      "source_number": 180,
+      "source_paragraph": 13464,
+      "text": "Darvozabonga darvoza maydonchasi ichida nima ruxsat etiladi?",
+      "options": {
+        "A": "To'pga tanasining istalgan qismi bilan tegish",
+        "B": "To'p bilan maydon tashqarisiga chiqish",
+        "C": "O'yinchi kabi 3 qadam yurish qoidasiga bo'ysunish",
+        "D": "Raqib o'yinchisini ushlab qolish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 181,
+      "source_number": 181,
+      "source_paragraph": 13465,
+      "text": "Qachon jamoaga jamoaviy taym-aut olishga ruxsat beriladi?",
+      "options": {
+        "A": "Jamoa to'pga egalik qilayotganda",
+        "B": "Raqib to'pga egalik qilganda",
+        "C": "Faqat tanaffus vaqtida",
+        "D": "Istalgan vaqtda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 182,
+      "source_number": 182,
+      "source_paragraph": 13466,
+      "text": "Gandbolda g'alaba uchun jamoaga nechta ball beriladi?",
+      "options": {
+        "A": "2 ball",
+        "B": "3 ball",
+        "C": "1 ball",
+        "D": "5 ball"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 183,
+      "source_number": 183,
+      "source_paragraph": 13467,
+      "text": "Gandbolda durrang uchun jamoaga nechta ball beriladi?",
+      "options": {
+        "A": "1 ball",
+        "B": "0 ball",
+        "C": "2 ball",
+        "D": "0.5 ball"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 184,
+      "source_number": 184,
+      "source_paragraph": 13468,
+      "text": "Sportchiga xos bo'lmagan xulq yoki qo'pollik uchun qanday kartochka bilan ogohlantirish beriladi?",
+      "options": {
+        "A": "Sariq kartochka",
+        "B": "Qizil kartochka",
+        "C": "Yashil kartochka",
+        "D": "Oq kartochka"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 185,
+      "source_number": 185,
+      "source_paragraph": 13469,
+      "text": "2 daqiqali chetlatish qanday holatlarda beriladi?",
+      "options": {
+        "A": "Noto'g'ri almashtirish yoki takroriy qo'pollik uchun",
+        "B": "Faqat vaqtni cho'zgani uchun",
+        "C": "Gol ura olmagani uchun",
+        "D": "Hakam bilan gaplashgani uchun"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 186,
+      "source_number": 186,
+      "source_paragraph": 13470,
+      "text": "Bir o'yinchi o'yin davomida 3 marta 2 daqiqali jazoga tortilsa, nima bo'ladi?",
+      "options": {
+        "A": "Qizil kartochka (diskvalifikatsiya) oladi",
+        "B": "O'yin oxirigacha chetlatilib, o'rniga zaxira o'yinchisi tushadi",
+        "C": "Maydondan chiqadi, jamoa to'liq qoladi",
+        "D": "Jarima to'pi belgilanadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 187,
+      "source_number": 187,
+      "source_paragraph": 13471,
+      "text": "Dastlabki to'p tashlash harakati qayerdan amalga oshiriladi?",
+      "options": {
+        "A": "Maydon markazidan",
+        "B": "Darvoza chizig'idan",
+        "C": "Jarima chizig'idan",
+        "D": "Burchakdan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 188,
+      "source_number": 188,
+      "source_paragraph": 13472,
+      "text": "Dastlabki to'p tashlashni bajarayotgan o'yinchiga raqiblar qanday masofadan yaqin kelmasligi kerak?",
+      "options": {
+        "A": "3 metr",
+        "B": "4 metr",
+        "C": "5 metr",
+        "D": "6 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 189,
+      "source_number": 189,
+      "source_paragraph": 13473,
+      "text": "Yon chiziqdan to'p tashlash vaqtida o'yinchining oyog'i qayerda bo'lishi shart?",
+      "options": {
+        "A": "Bir oyog'i yon chiziqni bosib turishi shart",
+        "B": "Ikkala oyog'i maydon ichida bo'lishi",
+        "C": "Ikkala oyog'i maydon tashqarisida",
+        "D": "Oyoq holati muhim emas"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 190,
+      "source_number": 190,
+      "source_paragraph": 13474,
+      "text": "7 metrli jarima to'pi qaysi holatda belgilanadi?",
+      "options": {
+        "A": "Yaqqol gol urish imkoniyati qo'pollik bilan to'xtatilganda",
+        "B": "To'p yon chiziqdan chiqqanda",
+        "C": "O'yinchi to'pni tizzadan pastga tekkizganda",
+        "D": "Darvozabon to'pni ushlaganda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 191,
+      "source_number": 191,
+      "source_paragraph": 13475,
+      "text": "Jarima to'pi (7 m) belgilanganda, uni amalga oshiruvchi o'yinchi qachongacha chiziqni bosmasligi kerak?",
+      "options": {
+        "A": "To'p qo'lidan chiqqunga qadar",
+        "B": "Hakam xushtak chalguncha",
+        "C": "Darvozabon tayyor bo'lguncha",
+        "D": "To'p darvozaga kirguncha"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 192,
+      "source_number": 192,
+      "source_paragraph": 13476,
+      "text": "Jamoa sardori bog'ichining eni necha sm bo'lishi kerak?",
+      "options": {
+        "A": "4 sm",
+        "B": "5 sm",
+        "C": "3 sm",
+        "D": "10 sm"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 193,
+      "source_number": 193,
+      "source_paragraph": 13477,
+      "text": "O'yinchilarning libosidagi raqamlar orqa tomonda kamida necha sm bo'lishi kerak?",
+      "options": {
+        "A": "20 sm",
+        "B": "10 sm",
+        "C": "15 sm",
+        "D": "25 sm"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 194,
+      "source_number": 194,
+      "source_paragraph": 13478,
+      "text": "Maydonda faoliyat olib boradigan hakamlar soni nechta bo'ladi?",
+      "options": {
+        "A": "2 ta teng huquqli maydon hakami",
+        "B": "1 ta bosh hakam, 2 ta qanot",
+        "C": "1 ta maydon hakami",
+        "D": "4 ta hakam"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 195,
+      "source_number": 195,
+      "source_paragraph": 13479,
+      "text": "Hakamlar qarori bo'yicha to'pning darvoza chizig'idan to'liq o'tishi nima deb ataladi?",
+      "options": {
+        "A": "Gol",
+        "B": "Aut",
+        "C": "Burchak to'pi",
+        "D": "Erkin to'p"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 196,
+      "source_number": 196,
+      "source_paragraph": 13480,
+      "text": "Qaysi jismoniy sifat harakatlarni minimal vaqt ichida maksimal kuchlanish bilan bajarishni ta'minlaydi?",
+      "options": {
+        "A": "Portlovchi kuch",
+        "B": "Chidamlilik",
+        "C": "Egiluvchanlik",
+        "D": "Muvozanat"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 197,
+      "source_number": 197,
+      "source_paragraph": 13481,
+      "text": "Chaqqonlik nima?",
+      "options": {
+        "A": "Murakkab koordinatsion harakatlarni tez bajara olish",
+        "B": "Uzoq vaqt ishlash",
+        "C": "Maksimal kuchni namoyon etish",
+        "D": "Katta amplitudada ishlash"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 198,
+      "source_number": 198,
+      "source_paragraph": 13482,
+      "text": "Qanday tayyorgarlik turi o'yinchining to'pni idrok etish, masofani va vaqtni chamalash hislarini rivojlantiradi?",
+      "options": {
+        "A": "Taktik va psixologik",
+        "B": "Umumiy jismoniy",
+        "C": "Gigienik",
+        "D": "Nazariy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 199,
+      "source_number": 199,
+      "source_paragraph": 13483,
+      "text": "Taym-aut olish uchun stolga qanday kartochka qo'yiladi?",
+      "options": {
+        "A": "Yashil kartochka",
+        "B": "Sariq kartochka",
+        "C": "Oq kartochka",
+        "D": "Qizil kartochka"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 200,
+      "source_number": 200,
+      "source_paragraph": 13484,
+      "text": "Qur'a tashlash o'yindan oldin kimlar o'rtasida o'tkaziladi?",
+      "options": {
+        "A": "Ikki hakam va ikki jamoa sardori",
+        "B": "Murabbiylar o'rtasida",
+        "C": "Barcha o'yinchilar",
+        "D": "Kotib va sardorlar"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 201,
+      "source_number": 201,
+      "source_paragraph": 13485,
+      "text": "Qoidaga ko'ra, gandbol qachon va qayerda paydo bo'lgan?",
+      "options": {
+        "A": "1898 yilda Daniyada",
+        "B": "1904 yilda Shvetsiyada",
+        "C": "1892 yilda AQShda",
+        "D": "1928 yilda SSSRda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 202,
+      "source_number": 202,
+      "source_paragraph": 13486,
+      "text": "Qoidaga ko'ra, gandbol o'yinining asoschisi kim hisoblanadi?",
+      "options": {
+        "A": "Xolger Nilson",
+        "B": "Deyms Neysmit",
+        "C": "Uilyam Morgan",
+        "D": "K. Shmitt"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 203,
+      "source_number": 203,
+      "source_paragraph": 13487,
+      "text": "Qoidaga ko'ra, xalqaro gandbol federatsiyasi (IHF) qachon tashkil topgan?",
+      "options": {
+        "A": "1946 yilda",
+        "B": "1928 yilda",
+        "C": "1904 yilda",
+        "D": "1972 yilda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 204,
+      "source_number": 204,
+      "source_paragraph": 13488,
+      "text": "Qoidaga ko'ra, xalqaro gandbol federatsiyasining shtab kvartirasi qayerda joylashgan?",
+      "options": {
+        "A": "Bazel (Shveysariya)",
+        "B": "Lozanna (Shveysariya)",
+        "C": "London (Angliya)",
+        "D": "Kopengagen (Daniya)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 205,
+      "source_number": 205,
+      "source_paragraph": 13489,
+      "text": "Qoidaga ko'ra, gandbol bo'yicha erkaklar o'rtasida birinchi Jahon chempionati qachon o'tkazilgan?",
+      "options": {
+        "A": "1970 yil",
+        "B": "1971 yil",
+        "C": "1962 yil",
+        "D": "1972 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 206,
+      "source_number": 206,
+      "source_paragraph": 13490,
+      "text": "Qoidaga ko'ra, gandbol bo'yicha ayollar o'rtasida birinchi Jahon chempionati qachon o'tkazilgan?",
+      "options": {
+        "A": "1971 yil",
+        "B": "1970 yil",
+        "C": "1976 yil",
+        "D": "1997 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 207,
+      "source_number": 207,
+      "source_paragraph": 13491,
+      "text": "Qoidaga ko'ra, erkaklar gandboli qachon Olimpiya o'yinlari dasturiga kiritilgan?",
+      "options": {
+        "A": "1972 yil (Myunxen)",
+        "B": "1976 yil (Monreal)",
+        "C": "1980 yil (Moskva)",
+        "D": "1984 yil (Los-Anjeles)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 208,
+      "source_number": 208,
+      "source_paragraph": 13492,
+      "text": "Qoidaga ko'ra, ayollar gandboli qachon Olimpiya o'yinlari dasturiga kiritilgan?",
+      "options": {
+        "A": "1976 yil (Monreal)",
+        "B": "1972 yil (Myunxen)",
+        "C": "1980 yil (Moskva)",
+        "D": "1992 yil (Barselona)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 209,
+      "source_number": 209,
+      "source_paragraph": 13493,
+      "text": "Qoidaga ko'ra, o'zbekistonda gandbol bo'yicha birinchi chempionat qachon o'tkazilgan?",
+      "options": {
+        "A": "1938 yil",
+        "B": "1960 yil",
+        "C": "1962 yil",
+        "D": "1992 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 210,
+      "source_number": 210,
+      "source_paragraph": 13494,
+      "text": "Qoidaga ko'ra, o'zbekiston gandbol federatsiyasi qachon tashkil etilgan?",
+      "options": {
+        "A": "1992 yil",
+        "B": "1993 yil",
+        "C": "1997 yil",
+        "D": "2005 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 211,
+      "source_number": 211,
+      "source_paragraph": 13495,
+      "text": "Qoidaga ko'ra, gandbol maydonining o'lchamlari qanday?",
+      "options": {
+        "A": "40x20 m",
+        "B": "28x15 m",
+        "C": "18x9 m",
+        "D": "105x68 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 212,
+      "source_number": 212,
+      "source_paragraph": 13496,
+      "text": "Qoidaga ko'ra, gandbol darvozasining o'lchami qanday?",
+      "options": {
+        "A": "Balandligi 2 m, eni 3 m",
+        "B": "Balandligi 3 m, eni 2 m",
+        "C": "Balandligi 2.44 m, eni 7.32 m",
+        "D": "Balandligi 2 m, eni 4 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 213,
+      "source_number": 213,
+      "source_paragraph": 13497,
+      "text": "Qoidaga ko'ra, darvozabon maydonchasi chizig'i darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "6 metr",
+        "B": "7 metr",
+        "C": "9 metr",
+        "D": "4 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 214,
+      "source_number": 214,
+      "source_paragraph": 13498,
+      "text": "Qoidaga ko'ra, jarima to'p tashlash chizig'i darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "7 metr",
+        "B": "6 metr",
+        "C": "9 metr",
+        "D": "4.5 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 215,
+      "source_number": 215,
+      "source_paragraph": 13499,
+      "text": "Qoidaga ko'ra, erkin to'p tashlash chizig'i (punktir chiziq) darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "9 metr",
+        "B": "7 metr",
+        "C": "6 metr",
+        "D": "12 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 216,
+      "source_number": 216,
+      "source_paragraph": 13500,
+      "text": "Qoidaga ko'ra, darvozabonni cheklovchi chiziq darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "4 metr",
+        "B": "3 metr",
+        "C": "6 metr",
+        "D": "4.5 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 217,
+      "source_number": 217,
+      "source_paragraph": 13501,
+      "text": "Qoidaga ko'ra, o'yinchilarni almashtirish xududi markaziy chiziqdan har ikki tomonga qanday masofada joylashgan?",
+      "options": {
+        "A": "4.5 metr",
+        "B": "3 metr",
+        "C": "6 metr",
+        "D": "9 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 218,
+      "source_number": 218,
+      "source_paragraph": 13502,
+      "text": "Qoidaga ko'ra, erkaklar va o'smirlar (16 yoshdan yuqori) uchun to'pning og'irligi qancha bo'lishi kerak?",
+      "options": {
+        "A": "425-475 gr",
+        "B": "325-375 gr",
+        "C": "290-330 gr",
+        "D": "400-450 gr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 219,
+      "source_number": 219,
+      "source_paragraph": 13503,
+      "text": "Qoidaga ko'ra, ayollar va 14 yoshdan yuqori qizlar uchun to'pning og'irligi qancha bo'lishi kerak?",
+      "options": {
+        "A": "325-375 gr",
+        "B": "425-475 gr",
+        "C": "290-330 gr",
+        "D": "300-350 gr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 220,
+      "source_number": 220,
+      "source_paragraph": 13504,
+      "text": "Qoidaga ko'ra, kattalar jamoasi uchun gandbol o'yini qancha vaqt davom etadi?",
+      "options": {
+        "A": "2x30 daqiqa",
+        "B": "2x25 daqiqa",
+        "C": "2x20 daqiqa",
+        "D": "4x10 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 221,
+      "source_number": 221,
+      "source_paragraph": 13505,
+      "text": "Qoidaga ko'ra, 12-16 yoshdagi o'smirlar jamoasi uchun o'yin vaqti qancha?",
+      "options": {
+        "A": "2x25 daqiqa",
+        "B": "2x30 daqiqa",
+        "C": "2x20 daqiqa",
+        "D": "2x15 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 222,
+      "source_number": 222,
+      "source_paragraph": 13506,
+      "text": "Qoidaga ko'ra, taymlar orasidagi tanaffus vaqti qancha?",
+      "options": {
+        "A": "10 daqiqa",
+        "B": "15 daqiqa",
+        "C": "5 daqiqa",
+        "D": "12 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 223,
+      "source_number": 223,
+      "source_paragraph": 13507,
+      "text": "Qoidaga ko'ra, qo'shimcha vaqt qanday taymlardan iborat bo'ladi?",
+      "options": {
+        "A": "2x5 daqiqa",
+        "B": "2x10 daqiqa",
+        "C": "2x15 daqiqa",
+        "D": "1x10 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 224,
+      "source_number": 224,
+      "source_paragraph": 13508,
+      "text": "Qoidaga ko'ra, maydonda bir vaqtning o'zida har bir jamoadan eng ko'pi bilan nechta o'yinchi bo'lishi mumkin?",
+      "options": {
+        "A": "7 ta",
+        "B": "6 ta",
+        "C": "11 ta",
+        "D": "5 ta"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 225,
+      "source_number": 225,
+      "source_paragraph": 13509,
+      "text": "Qoidaga ko'ra, jamoa o'yinni boshlashi uchun maydonda kamida nechta o'yinchi bo'lishi kerak?",
+      "options": {
+        "A": "5 ta",
+        "B": "7 ta",
+        "C": "6 ta",
+        "D": "4 ta"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 226,
+      "source_number": 226,
+      "source_paragraph": 13510,
+      "text": "Qoidaga ko'ra, o'yinchilarni almashtirish jarayonida zaxiradagi o'yinchi qachon maydonga tushishi mumkin?",
+      "options": {
+        "A": "Maydondagi o'yinchi maydonni to'liq tark etgach",
+        "B": "Hakam xushtagidan so'ng",
+        "C": "O'yin to'xtatilganda",
+        "D": "Istalgan vaqtda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 227,
+      "source_number": 227,
+      "source_paragraph": 13511,
+      "text": "Qoidaga ko'ra, sust (passiv) o'yin degani nima?",
+      "options": {
+        "A": "Hujum qilmasdan to'pni ushlab turish",
+        "B": "Tezlik bilan hujum qilish",
+        "C": "To'pni faqat markazda saqlash",
+        "D": "Darvozabonga to'pni oshirish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 228,
+      "source_number": 228,
+      "source_paragraph": 13512,
+      "text": "Qoidaga ko'ra, o'yinchi to'pni qo'lida maksimal qancha vaqt ushlab turishi mumkin?",
+      "options": {
+        "A": "3 soniya",
+        "B": "5 soniya",
+        "C": "10 soniya",
+        "D": "Vaqt cheklanmagan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 229,
+      "source_number": 229,
+      "source_paragraph": 13513,
+      "text": "Qoidaga ko'ra, to'p bilan maksimal nechta qadam yurishga ruxsat etiladi?",
+      "options": {
+        "A": "3 qadam",
+        "B": "2 qadam",
+        "C": "4 qadam",
+        "D": "5 qadam"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 230,
+      "source_number": 230,
+      "source_paragraph": 13514,
+      "text": "Qoidaga ko'ra, darvozabonga darvoza maydonchasi ichida nima ruxsat etiladi?",
+      "options": {
+        "A": "To'pga tanasining istalgan qismi bilan tegish",
+        "B": "To'p bilan maydon tashqarisiga chiqish",
+        "C": "O'yinchi kabi 3 qadam yurish qoidasiga bo'ysunish",
+        "D": "Raqib o'yinchisini ushlab qolish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 231,
+      "source_number": 231,
+      "source_paragraph": 13515,
+      "text": "Qoidaga ko'ra, qachon jamoaga jamoaviy taym-aut olishga ruxsat beriladi?",
+      "options": {
+        "A": "Jamoa to'pga egalik qilayotganda",
+        "B": "Raqib to'pga egalik qilganda",
+        "C": "Faqat tanaffus vaqtida",
+        "D": "Istalgan vaqtda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 232,
+      "source_number": 232,
+      "source_paragraph": 13516,
+      "text": "Qoidaga ko'ra, gandbolda g'alaba uchun jamoaga nechta ball beriladi?",
+      "options": {
+        "A": "2 ball",
+        "B": "3 ball",
+        "C": "1 ball",
+        "D": "5 ball"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 233,
+      "source_number": 233,
+      "source_paragraph": 13517,
+      "text": "Qoidaga ko'ra, gandbolda durrang uchun jamoaga nechta ball beriladi?",
+      "options": {
+        "A": "1 ball",
+        "B": "0 ball",
+        "C": "2 ball",
+        "D": "0.5 ball"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 234,
+      "source_number": 234,
+      "source_paragraph": 13518,
+      "text": "Qoidaga ko'ra, sportchiga xos bo'lmagan xulq yoki qo'pollik uchun qanday kartochka bilan ogohlantirish beriladi?",
+      "options": {
+        "A": "Sariq kartochka",
+        "B": "Qizil kartochka",
+        "C": "Yashil kartochka",
+        "D": "Oq kartochka"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 235,
+      "source_number": 235,
+      "source_paragraph": 13519,
+      "text": "Qoidaga ko'ra, 2 daqiqali chetlatish qanday holatlarda beriladi?",
+      "options": {
+        "A": "Noto'g'ri almashtirish yoki takroriy qo'pollik uchun",
+        "B": "Faqat vaqtni cho'zgani uchun",
+        "C": "Gol ura olmagani uchun",
+        "D": "Hakam bilan gaplashgani uchun"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 236,
+      "source_number": 236,
+      "source_paragraph": 13520,
+      "text": "Qoidaga ko'ra, bir o'yinchi o'yin davomida 3 marta 2 daqiqali jazoga tortilsa, nima bo'ladi?",
+      "options": {
+        "A": "Qizil kartochka (diskvalifikatsiya) oladi",
+        "B": "O'yin oxirigacha chetlatilib, o'rniga zaxira o'yinchisi tushadi",
+        "C": "Maydondan chiqadi, jamoa to'liq qoladi",
+        "D": "Jarima to'pi belgilanadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 237,
+      "source_number": 237,
+      "source_paragraph": 13521,
+      "text": "Qoidaga ko'ra, dastlabki to'p tashlash harakati qayerdan amalga oshiriladi?",
+      "options": {
+        "A": "Maydon markazidan",
+        "B": "Darvoza chizig'idan",
+        "C": "Jarima chizig'idan",
+        "D": "Burchakdan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 238,
+      "source_number": 238,
+      "source_paragraph": 13522,
+      "text": "Qoidaga ko'ra, dastlabki to'p tashlashni bajarayotgan o'yinchiga raqiblar qanday masofadan yaqin kelmasligi kerak?",
+      "options": {
+        "A": "3 metr",
+        "B": "4 metr",
+        "C": "5 metr",
+        "D": "6 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 239,
+      "source_number": 239,
+      "source_paragraph": 13523,
+      "text": "Qoidaga ko'ra, yon chiziqdan to'p tashlash vaqtida o'yinchining oyog'i qayerda bo'lishi shart?",
+      "options": {
+        "A": "Bir oyog'i yon chiziqni bosib turishi shart",
+        "B": "Ikkala oyog'i maydon ichida bo'lishi",
+        "C": "Ikkala oyog'i maydon tashqarisida",
+        "D": "Oyoq holati muhim emas"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 240,
+      "source_number": 240,
+      "source_paragraph": 13524,
+      "text": "Qoidaga ko'ra, 7 metrli jarima to'pi qaysi holatda belgilanadi?",
+      "options": {
+        "A": "Yaqqol gol urish imkoniyati qo'pollik bilan to'xtatilganda",
+        "B": "To'p yon chiziqdan chiqqanda",
+        "C": "O'yinchi to'pni tizzadan pastga tekkizganda",
+        "D": "Darvozabon to'pni ushlaganda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 241,
+      "source_number": 241,
+      "source_paragraph": 13525,
+      "text": "Qoidaga ko'ra, jarima to'pi (7 m) belgilanganda, uni amalga oshiruvchi o'yinchi qachongacha chiziqni bosmasligi kerak?",
+      "options": {
+        "A": "To'p qo'lidan chiqqunga qadar",
+        "B": "Hakam xushtak chalguncha",
+        "C": "Darvozabon tayyor bo'lguncha",
+        "D": "To'p darvozaga kirguncha"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 242,
+      "source_number": 242,
+      "source_paragraph": 13526,
+      "text": "Qoidaga ko'ra, jamoa sardori bog'ichining eni necha sm bo'lishi kerak?",
+      "options": {
+        "A": "4 sm",
+        "B": "5 sm",
+        "C": "3 sm",
+        "D": "10 sm"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 243,
+      "source_number": 243,
+      "source_paragraph": 13527,
+      "text": "Qoidaga ko'ra, o'yinchilarning libosidagi raqamlar orqa tomonda kamida necha sm bo'lishi kerak?",
+      "options": {
+        "A": "20 sm",
+        "B": "10 sm",
+        "C": "15 sm",
+        "D": "25 sm"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 244,
+      "source_number": 244,
+      "source_paragraph": 13528,
+      "text": "Qoidaga ko'ra, maydonda faoliyat olib boradigan hakamlar soni nechta bo'ladi?",
+      "options": {
+        "A": "2 ta teng huquqli maydon hakami",
+        "B": "1 ta bosh hakam, 2 ta qanot",
+        "C": "1 ta maydon hakami",
+        "D": "4 ta hakam"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 245,
+      "source_number": 245,
+      "source_paragraph": 13529,
+      "text": "Qoidaga ko'ra, hakamlar qarori bo'yicha to'pning darvoza chizig'idan to'liq o'tishi nima deb ataladi?",
+      "options": {
+        "A": "Gol",
+        "B": "Aut",
+        "C": "Burchak to'pi",
+        "D": "Erkin to'p"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 246,
+      "source_number": 246,
+      "source_paragraph": 13530,
+      "text": "Qoidaga ko'ra, qaysi jismoniy sifat harakatlarni minimal vaqt ichida maksimal kuchlanish bilan bajarishni ta'minlaydi?",
+      "options": {
+        "A": "Portlovchi kuch",
+        "B": "Chidamlilik",
+        "C": "Egiluvchanlik",
+        "D": "Muvozanat"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 247,
+      "source_number": 247,
+      "source_paragraph": 13531,
+      "text": "Qoidaga ko'ra, chaqqonlik nima?",
+      "options": {
+        "A": "Murakkab koordinatsion harakatlarni tez bajara olish",
+        "B": "Uzoq vaqt ishlash",
+        "C": "Maksimal kuchni namoyon etish",
+        "D": "Katta amplitudada ishlash"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 248,
+      "source_number": 248,
+      "source_paragraph": 13532,
+      "text": "Qoidaga ko'ra, qanday tayyorgarlik turi o'yinchining to'pni idrok etish, masofani va vaqtni chamalash hislarini rivojlantiradi?",
+      "options": {
+        "A": "Taktik va psixologik",
+        "B": "Umumiy jismoniy",
+        "C": "Gigienik",
+        "D": "Nazariy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 249,
+      "source_number": 249,
+      "source_paragraph": 13533,
+      "text": "Qoidaga ko'ra, taym-aut olish uchun stolga qanday kartochka qo'yiladi?",
+      "options": {
+        "A": "Yashil kartochka",
+        "B": "Sariq kartochka",
+        "C": "Oq kartochka",
+        "D": "Qizil kartochka"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 250,
+      "source_number": 250,
+      "source_paragraph": 13534,
+      "text": "Qoidaga ko'ra, qur'a tashlash o'yindan oldin kimlar o'rtasida o'tkaziladi?",
+      "options": {
+        "A": "Ikki hakam va ikki jamoa sardori",
+        "B": "Murabbiylar o'rtasida",
+        "C": "Barcha o'yinchilar",
+        "D": "Kotib va sardorlar"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 251,
+      "source_number": 251,
+      "source_paragraph": 13535,
+      "text": "Gandbol qoidalariga asosan: gandbol qachon va qayerda paydo bo'lgan?",
+      "options": {
+        "A": "1898 yilda Daniyada",
+        "B": "1904 yilda Shvetsiyada",
+        "C": "1892 yilda AQShda",
+        "D": "1928 yilda SSSRda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 252,
+      "source_number": 252,
+      "source_paragraph": 13536,
+      "text": "Gandbol qoidalariga asosan: gandbol o'yinining asoschisi kim hisoblanadi?",
+      "options": {
+        "A": "Xolger Nilson",
+        "B": "Deyms Neysmit",
+        "C": "Uilyam Morgan",
+        "D": "K. Shmitt"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 253,
+      "source_number": 253,
+      "source_paragraph": 13537,
+      "text": "Gandbol qoidalariga asosan: xalqaro gandbol federatsiyasi (IHF) qachon tashkil topgan?",
+      "options": {
+        "A": "1946 yilda",
+        "B": "1928 yilda",
+        "C": "1904 yilda",
+        "D": "1972 yilda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 254,
+      "source_number": 254,
+      "source_paragraph": 13538,
+      "text": "Gandbol qoidalariga asosan: xalqaro gandbol federatsiyasining shtab kvartirasi qayerda joylashgan?",
+      "options": {
+        "A": "Bazel (Shveysariya)",
+        "B": "Lozanna (Shveysariya)",
+        "C": "London (Angliya)",
+        "D": "Kopengagen (Daniya)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 255,
+      "source_number": 255,
+      "source_paragraph": 13539,
+      "text": "Gandbol qoidalariga asosan: gandbol bo'yicha erkaklar o'rtasida birinchi Jahon chempionati qachon o'tkazilgan?",
+      "options": {
+        "A": "1970 yil",
+        "B": "1971 yil",
+        "C": "1962 yil",
+        "D": "1972 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 256,
+      "source_number": 256,
+      "source_paragraph": 13540,
+      "text": "Gandbol qoidalariga asosan: gandbol bo'yicha ayollar o'rtasida birinchi Jahon chempionati qachon o'tkazilgan?",
+      "options": {
+        "A": "1971 yil",
+        "B": "1970 yil",
+        "C": "1976 yil",
+        "D": "1997 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 257,
+      "source_number": 257,
+      "source_paragraph": 13541,
+      "text": "Gandbol qoidalariga asosan: erkaklar gandboli qachon Olimpiya o'yinlari dasturiga kiritilgan?",
+      "options": {
+        "A": "1972 yil (Myunxen)",
+        "B": "1976 yil (Monreal)",
+        "C": "1980 yil (Moskva)",
+        "D": "1984 yil (Los-Anjeles)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 258,
+      "source_number": 258,
+      "source_paragraph": 13542,
+      "text": "Gandbol qoidalariga asosan: ayollar gandboli qachon Olimpiya o'yinlari dasturiga kiritilgan?",
+      "options": {
+        "A": "1976 yil (Monreal)",
+        "B": "1972 yil (Myunxen)",
+        "C": "1980 yil (Moskva)",
+        "D": "1992 yil (Barselona)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 259,
+      "source_number": 259,
+      "source_paragraph": 13543,
+      "text": "Gandbol qoidalariga asosan: o'zbekistonda gandbol bo'yicha birinchi chempionat qachon o'tkazilgan?",
+      "options": {
+        "A": "1938 yil",
+        "B": "1960 yil",
+        "C": "1962 yil",
+        "D": "1992 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 260,
+      "source_number": 260,
+      "source_paragraph": 13544,
+      "text": "Gandbol qoidalariga asosan: o'zbekiston gandbol federatsiyasi qachon tashkil etilgan?",
+      "options": {
+        "A": "1992 yil",
+        "B": "1993 yil",
+        "C": "1997 yil",
+        "D": "2005 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 261,
+      "source_number": 261,
+      "source_paragraph": 13545,
+      "text": "Gandbol qoidalariga asosan: gandbol maydonining o'lchamlari qanday?",
+      "options": {
+        "A": "40x20 m",
+        "B": "28x15 m",
+        "C": "18x9 m",
+        "D": "105x68 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 262,
+      "source_number": 262,
+      "source_paragraph": 13546,
+      "text": "Gandbol qoidalariga asosan: gandbol darvozasining o'lchami qanday?",
+      "options": {
+        "A": "Balandligi 2 m, eni 3 m",
+        "B": "Balandligi 3 m, eni 2 m",
+        "C": "Balandligi 2.44 m, eni 7.32 m",
+        "D": "Balandligi 2 m, eni 4 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 263,
+      "source_number": 263,
+      "source_paragraph": 13547,
+      "text": "Gandbol qoidalariga asosan: darvozabon maydonchasi chizig'i darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "6 metr",
+        "B": "7 metr",
+        "C": "9 metr",
+        "D": "4 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 264,
+      "source_number": 264,
+      "source_paragraph": 13548,
+      "text": "Gandbol qoidalariga asosan: jarima to'p tashlash chizig'i darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "7 metr",
+        "B": "6 metr",
+        "C": "9 metr",
+        "D": "4.5 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 265,
+      "source_number": 265,
+      "source_paragraph": 13549,
+      "text": "Gandbol qoidalariga asosan: erkin to'p tashlash chizig'i (punktir chiziq) darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "9 metr",
+        "B": "7 metr",
+        "C": "6 metr",
+        "D": "12 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 266,
+      "source_number": 266,
+      "source_paragraph": 13550,
+      "text": "Gandbol qoidalariga asosan: darvozabonni cheklovchi chiziq darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "4 metr",
+        "B": "3 metr",
+        "C": "6 metr",
+        "D": "4.5 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 267,
+      "source_number": 267,
+      "source_paragraph": 13551,
+      "text": "Gandbol qoidalariga asosan: o'yinchilarni almashtirish xududi markaziy chiziqdan har ikki tomonga qanday masofada joylashgan?",
+      "options": {
+        "A": "4.5 metr",
+        "B": "3 metr",
+        "C": "6 metr",
+        "D": "9 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 268,
+      "source_number": 268,
+      "source_paragraph": 13552,
+      "text": "Gandbol qoidalariga asosan: erkaklar va o'smirlar (16 yoshdan yuqori) uchun to'pning og'irligi qancha bo'lishi kerak?",
+      "options": {
+        "A": "425-475 gr",
+        "B": "325-375 gr",
+        "C": "290-330 gr",
+        "D": "400-450 gr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 269,
+      "source_number": 269,
+      "source_paragraph": 13553,
+      "text": "Gandbol qoidalariga asosan: ayollar va 14 yoshdan yuqori qizlar uchun to'pning og'irligi qancha bo'lishi kerak?",
+      "options": {
+        "A": "325-375 gr",
+        "B": "425-475 gr",
+        "C": "290-330 gr",
+        "D": "300-350 gr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 270,
+      "source_number": 270,
+      "source_paragraph": 13554,
+      "text": "Gandbol qoidalariga asosan: kattalar jamoasi uchun gandbol o'yini qancha vaqt davom etadi?",
+      "options": {
+        "A": "2x30 daqiqa",
+        "B": "2x25 daqiqa",
+        "C": "2x20 daqiqa",
+        "D": "4x10 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 271,
+      "source_number": 271,
+      "source_paragraph": 13555,
+      "text": "Gandbol qoidalariga asosan: 12-16 yoshdagi o'smirlar jamoasi uchun o'yin vaqti qancha?",
+      "options": {
+        "A": "2x25 daqiqa",
+        "B": "2x30 daqiqa",
+        "C": "2x20 daqiqa",
+        "D": "2x15 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 272,
+      "source_number": 272,
+      "source_paragraph": 13556,
+      "text": "Gandbol qoidalariga asosan: taymlar orasidagi tanaffus vaqti qancha?",
+      "options": {
+        "A": "10 daqiqa",
+        "B": "15 daqiqa",
+        "C": "5 daqiqa",
+        "D": "12 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 273,
+      "source_number": 273,
+      "source_paragraph": 13557,
+      "text": "Gandbol qoidalariga asosan: qo'shimcha vaqt qanday taymlardan iborat bo'ladi?",
+      "options": {
+        "A": "2x5 daqiqa",
+        "B": "2x10 daqiqa",
+        "C": "2x15 daqiqa",
+        "D": "1x10 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 274,
+      "source_number": 274,
+      "source_paragraph": 13558,
+      "text": "Gandbol qoidalariga asosan: maydonda bir vaqtning o'zida har bir jamoadan eng ko'pi bilan nechta o'yinchi bo'lishi mumkin?",
+      "options": {
+        "A": "7 ta",
+        "B": "6 ta",
+        "C": "11 ta",
+        "D": "5 ta"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 275,
+      "source_number": 275,
+      "source_paragraph": 13559,
+      "text": "Gandbol qoidalariga asosan: jamoa o'yinni boshlashi uchun maydonda kamida nechta o'yinchi bo'lishi kerak?",
+      "options": {
+        "A": "5 ta",
+        "B": "7 ta",
+        "C": "6 ta",
+        "D": "4 ta"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 276,
+      "source_number": 276,
+      "source_paragraph": 13560,
+      "text": "Gandbol qoidalariga asosan: o'yinchilarni almashtirish jarayonida zaxiradagi o'yinchi qachon maydonga tushishi mumkin?",
+      "options": {
+        "A": "Maydondagi o'yinchi maydonni to'liq tark etgach",
+        "B": "Hakam xushtagidan so'ng",
+        "C": "O'yin to'xtatilganda",
+        "D": "Istalgan vaqtda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 277,
+      "source_number": 277,
+      "source_paragraph": 13561,
+      "text": "Gandbol qoidalariga asosan: sust (passiv) o'yin degani nima?",
+      "options": {
+        "A": "Hujum qilmasdan to'pni ushlab turish",
+        "B": "Tezlik bilan hujum qilish",
+        "C": "To'pni faqat markazda saqlash",
+        "D": "Darvozabonga to'pni oshirish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 278,
+      "source_number": 278,
+      "source_paragraph": 13562,
+      "text": "Gandbol qoidalariga asosan: o'yinchi to'pni qo'lida maksimal qancha vaqt ushlab turishi mumkin?",
+      "options": {
+        "A": "3 soniya",
+        "B": "5 soniya",
+        "C": "10 soniya",
+        "D": "Vaqt cheklanmagan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 279,
+      "source_number": 279,
+      "source_paragraph": 13563,
+      "text": "Gandbol qoidalariga asosan: to'p bilan maksimal nechta qadam yurishga ruxsat etiladi?",
+      "options": {
+        "A": "3 qadam",
+        "B": "2 qadam",
+        "C": "4 qadam",
+        "D": "5 qadam"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 280,
+      "source_number": 280,
+      "source_paragraph": 13564,
+      "text": "Gandbol qoidalariga asosan: darvozabonga darvoza maydonchasi ichida nima ruxsat etiladi?",
+      "options": {
+        "A": "To'pga tanasining istalgan qismi bilan tegish",
+        "B": "To'p bilan maydon tashqarisiga chiqish",
+        "C": "O'yinchi kabi 3 qadam yurish qoidasiga bo'ysunish",
+        "D": "Raqib o'yinchisini ushlab qolish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 281,
+      "source_number": 281,
+      "source_paragraph": 13565,
+      "text": "Gandbol qoidalariga asosan: qachon jamoaga jamoaviy taym-aut olishga ruxsat beriladi?",
+      "options": {
+        "A": "Jamoa to'pga egalik qilayotganda",
+        "B": "Raqib to'pga egalik qilganda",
+        "C": "Faqat tanaffus vaqtida",
+        "D": "Istalgan vaqtda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 282,
+      "source_number": 282,
+      "source_paragraph": 13566,
+      "text": "Gandbol qoidalariga asosan: gandbolda g'alaba uchun jamoaga nechta ball beriladi?",
+      "options": {
+        "A": "2 ball",
+        "B": "3 ball",
+        "C": "1 ball",
+        "D": "5 ball"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 283,
+      "source_number": 283,
+      "source_paragraph": 13567,
+      "text": "Gandbol qoidalariga asosan: gandbolda durrang uchun jamoaga nechta ball beriladi?",
+      "options": {
+        "A": "1 ball",
+        "B": "0 ball",
+        "C": "2 ball",
+        "D": "0.5 ball"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 284,
+      "source_number": 284,
+      "source_paragraph": 13568,
+      "text": "Gandbol qoidalariga asosan: sportchiga xos bo'lmagan xulq yoki qo'pollik uchun qanday kartochka bilan ogohlantirish beriladi?",
+      "options": {
+        "A": "Sariq kartochka",
+        "B": "Qizil kartochka",
+        "C": "Yashil kartochka",
+        "D": "Oq kartochka"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 285,
+      "source_number": 285,
+      "source_paragraph": 13569,
+      "text": "Gandbol qoidalariga asosan: 2 daqiqali chetlatish qanday holatlarda beriladi?",
+      "options": {
+        "A": "Noto'g'ri almashtirish yoki takroriy qo'pollik uchun",
+        "B": "Faqat vaqtni cho'zgani uchun",
+        "C": "Gol ura olmagani uchun",
+        "D": "Hakam bilan gaplashgani uchun"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 286,
+      "source_number": 286,
+      "source_paragraph": 13570,
+      "text": "Gandbol qoidalariga asosan: bir o'yinchi o'yin davomida 3 marta 2 daqiqali jazoga tortilsa, nima bo'ladi?",
+      "options": {
+        "A": "Qizil kartochka (diskvalifikatsiya) oladi",
+        "B": "O'yin oxirigacha chetlatilib, o'rniga zaxira o'yinchisi tushadi",
+        "C": "Maydondan chiqadi, jamoa to'liq qoladi",
+        "D": "Jarima to'pi belgilanadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 287,
+      "source_number": 287,
+      "source_paragraph": 13571,
+      "text": "Gandbol qoidalariga asosan: dastlabki to'p tashlash harakati qayerdan amalga oshiriladi?",
+      "options": {
+        "A": "Maydon markazidan",
+        "B": "Darvoza chizig'idan",
+        "C": "Jarima chizig'idan",
+        "D": "Burchakdan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 288,
+      "source_number": 288,
+      "source_paragraph": 13572,
+      "text": "Gandbol qoidalariga asosan: dastlabki to'p tashlashni bajarayotgan o'yinchiga raqiblar qanday masofadan yaqin kelmasligi kerak?",
+      "options": {
+        "A": "3 metr",
+        "B": "4 metr",
+        "C": "5 metr",
+        "D": "6 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 289,
+      "source_number": 289,
+      "source_paragraph": 13573,
+      "text": "Gandbol qoidalariga asosan: yon chiziqdan to'p tashlash vaqtida o'yinchining oyog'i qayerda bo'lishi shart?",
+      "options": {
+        "A": "Bir oyog'i yon chiziqni bosib turishi shart",
+        "B": "Ikkala oyog'i maydon ichida bo'lishi",
+        "C": "Ikkala oyog'i maydon tashqarisida",
+        "D": "Oyoq holati muhim emas"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 290,
+      "source_number": 290,
+      "source_paragraph": 13574,
+      "text": "Gandbol qoidalariga asosan: 7 metrli jarima to'pi qaysi holatda belgilanadi?",
+      "options": {
+        "A": "Yaqqol gol urish imkoniyati qo'pollik bilan to'xtatilganda",
+        "B": "To'p yon chiziqdan chiqqanda",
+        "C": "O'yinchi to'pni tizzadan pastga tekkizganda",
+        "D": "Darvozabon to'pni ushlaganda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 291,
+      "source_number": 291,
+      "source_paragraph": 13575,
+      "text": "Gandbol qoidalariga asosan: jarima to'pi (7 m) belgilanganda, uni amalga oshiruvchi o'yinchi qachongacha chiziqni bosmasligi kerak?",
+      "options": {
+        "A": "To'p qo'lidan chiqqunga qadar",
+        "B": "Hakam xushtak chalguncha",
+        "C": "Darvozabon tayyor bo'lguncha",
+        "D": "To'p darvozaga kirguncha"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 292,
+      "source_number": 292,
+      "source_paragraph": 13576,
+      "text": "Gandbol qoidalariga asosan: jamoa sardori bog'ichining eni necha sm bo'lishi kerak?",
+      "options": {
+        "A": "4 sm",
+        "B": "5 sm",
+        "C": "3 sm",
+        "D": "10 sm"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 293,
+      "source_number": 293,
+      "source_paragraph": 13577,
+      "text": "Gandbol qoidalariga asosan: o'yinchilarning libosidagi raqamlar orqa tomonda kamida necha sm bo'lishi kerak?",
+      "options": {
+        "A": "20 sm",
+        "B": "10 sm",
+        "C": "15 sm",
+        "D": "25 sm"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 294,
+      "source_number": 294,
+      "source_paragraph": 13578,
+      "text": "Gandbol qoidalariga asosan: maydonda faoliyat olib boradigan hakamlar soni nechta bo'ladi?",
+      "options": {
+        "A": "2 ta teng huquqli maydon hakami",
+        "B": "1 ta bosh hakam, 2 ta qanot",
+        "C": "1 ta maydon hakami",
+        "D": "4 ta hakam"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 295,
+      "source_number": 295,
+      "source_paragraph": 13579,
+      "text": "Gandbol qoidalariga asosan: hakamlar qarori bo'yicha to'pning darvoza chizig'idan to'liq o'tishi nima deb ataladi?",
+      "options": {
+        "A": "Gol",
+        "B": "Aut",
+        "C": "Burchak to'pi",
+        "D": "Erkin to'p"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 296,
+      "source_number": 296,
+      "source_paragraph": 13580,
+      "text": "Gandbol qoidalariga asosan: qaysi jismoniy sifat harakatlarni minimal vaqt ichida maksimal kuchlanish bilan bajarishni ta'minlaydi?",
+      "options": {
+        "A": "Portlovchi kuch",
+        "B": "Chidamlilik",
+        "C": "Egiluvchanlik",
+        "D": "Muvozanat"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 297,
+      "source_number": 297,
+      "source_paragraph": 13581,
+      "text": "Gandbol qoidalariga asosan: chaqqonlik nima?",
+      "options": {
+        "A": "Murakkab koordinatsion harakatlarni tez bajara olish",
+        "B": "Uzoq vaqt ishlash",
+        "C": "Maksimal kuchni namoyon etish",
+        "D": "Katta amplitudada ishlash"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 298,
+      "source_number": 298,
+      "source_paragraph": 13582,
+      "text": "Gandbol qoidalariga asosan: qanday tayyorgarlik turi o'yinchining to'pni idrok etish, masofani va vaqtni chamalash hislarini rivojlantiradi?",
+      "options": {
+        "A": "Taktik va psixologik",
+        "B": "Umumiy jismoniy",
+        "C": "Gigienik",
+        "D": "Nazariy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 299,
+      "source_number": 299,
+      "source_paragraph": 13583,
+      "text": "Gandbol qoidalariga asosan: taym-aut olish uchun stolga qanday kartochka qo'yiladi?",
+      "options": {
+        "A": "Yashil kartochka",
+        "B": "Sariq kartochka",
+        "C": "Oq kartochka",
+        "D": "Qizil kartochka"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 300,
+      "source_number": 300,
+      "source_paragraph": 13584,
+      "text": "Gandbol qoidalariga asosan: qur'a tashlash o'yindan oldin kimlar o'rtasida o'tkaziladi?",
+      "options": {
+        "A": "Ikki hakam va ikki jamoa sardori",
+        "B": "Murabbiylar o'rtasida",
+        "C": "Barcha o'yinchilar",
+        "D": "Kotib va sardorlar"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 301,
+      "source_number": 301,
+      "source_paragraph": 13585,
+      "text": "Eslab qoling: gandbol qachon va qayerda paydo bo'lgan?",
+      "options": {
+        "A": "1898 yilda Daniyada",
+        "B": "1904 yilda Shvetsiyada",
+        "C": "1892 yilda AQShda",
+        "D": "1928 yilda SSSRda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 302,
+      "source_number": 302,
+      "source_paragraph": 13586,
+      "text": "Eslab qoling: gandbol o'yinining asoschisi kim hisoblanadi?",
+      "options": {
+        "A": "Xolger Nilson",
+        "B": "Deyms Neysmit",
+        "C": "Uilyam Morgan",
+        "D": "K. Shmitt"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 303,
+      "source_number": 303,
+      "source_paragraph": 13587,
+      "text": "Eslab qoling: xalqaro gandbol federatsiyasi (IHF) qachon tashkil topgan?",
+      "options": {
+        "A": "1946 yilda",
+        "B": "1928 yilda",
+        "C": "1904 yilda",
+        "D": "1972 yilda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 304,
+      "source_number": 304,
+      "source_paragraph": 13588,
+      "text": "Eslab qoling: xalqaro gandbol federatsiyasining shtab kvartirasi qayerda joylashgan?",
+      "options": {
+        "A": "Bazel (Shveysariya)",
+        "B": "Lozanna (Shveysariya)",
+        "C": "London (Angliya)",
+        "D": "Kopengagen (Daniya)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 305,
+      "source_number": 305,
+      "source_paragraph": 13589,
+      "text": "Eslab qoling: gandbol bo'yicha erkaklar o'rtasida birinchi Jahon chempionati qachon o'tkazilgan?",
+      "options": {
+        "A": "1970 yil",
+        "B": "1971 yil",
+        "C": "1962 yil",
+        "D": "1972 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 306,
+      "source_number": 306,
+      "source_paragraph": 13590,
+      "text": "Eslab qoling: gandbol bo'yicha ayollar o'rtasida birinchi Jahon chempionati qachon o'tkazilgan?",
+      "options": {
+        "A": "1971 yil",
+        "B": "1970 yil",
+        "C": "1976 yil",
+        "D": "1997 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 307,
+      "source_number": 307,
+      "source_paragraph": 13591,
+      "text": "Eslab qoling: erkaklar gandboli qachon Olimpiya o'yinlari dasturiga kiritilgan?",
+      "options": {
+        "A": "1972 yil (Myunxen)",
+        "B": "1976 yil (Monreal)",
+        "C": "1980 yil (Moskva)",
+        "D": "1984 yil (Los-Anjeles)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 308,
+      "source_number": 308,
+      "source_paragraph": 13592,
+      "text": "Eslab qoling: ayollar gandboli qachon Olimpiya o'yinlari dasturiga kiritilgan?",
+      "options": {
+        "A": "1976 yil (Monreal)",
+        "B": "1972 yil (Myunxen)",
+        "C": "1980 yil (Moskva)",
+        "D": "1992 yil (Barselona)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 309,
+      "source_number": 309,
+      "source_paragraph": 13593,
+      "text": "Eslab qoling: o'zbekistonda gandbol bo'yicha birinchi chempionat qachon o'tkazilgan?",
+      "options": {
+        "A": "1938 yil",
+        "B": "1960 yil",
+        "C": "1962 yil",
+        "D": "1992 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 310,
+      "source_number": 310,
+      "source_paragraph": 13594,
+      "text": "Eslab qoling: o'zbekiston gandbol federatsiyasi qachon tashkil etilgan?",
+      "options": {
+        "A": "1992 yil",
+        "B": "1993 yil",
+        "C": "1997 yil",
+        "D": "2005 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 311,
+      "source_number": 311,
+      "source_paragraph": 13595,
+      "text": "Eslab qoling: gandbol maydonining o'lchamlari qanday?",
+      "options": {
+        "A": "40x20 m",
+        "B": "28x15 m",
+        "C": "18x9 m",
+        "D": "105x68 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 312,
+      "source_number": 312,
+      "source_paragraph": 13596,
+      "text": "Eslab qoling: gandbol darvozasining o'lchami qanday?",
+      "options": {
+        "A": "Balandligi 2 m, eni 3 m",
+        "B": "Balandligi 3 m, eni 2 m",
+        "C": "Balandligi 2.44 m, eni 7.32 m",
+        "D": "Balandligi 2 m, eni 4 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 313,
+      "source_number": 313,
+      "source_paragraph": 13597,
+      "text": "Eslab qoling: darvozabon maydonchasi chizig'i darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "6 metr",
+        "B": "7 metr",
+        "C": "9 metr",
+        "D": "4 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 314,
+      "source_number": 314,
+      "source_paragraph": 13598,
+      "text": "Eslab qoling: jarima to'p tashlash chizig'i darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "7 metr",
+        "B": "6 metr",
+        "C": "9 metr",
+        "D": "4.5 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 315,
+      "source_number": 315,
+      "source_paragraph": 13599,
+      "text": "Eslab qoling: erkin to'p tashlash chizig'i (punktir chiziq) darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "9 metr",
+        "B": "7 metr",
+        "C": "6 metr",
+        "D": "12 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 316,
+      "source_number": 316,
+      "source_paragraph": 13600,
+      "text": "Eslab qoling: darvozabonni cheklovchi chiziq darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "4 metr",
+        "B": "3 metr",
+        "C": "6 metr",
+        "D": "4.5 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 317,
+      "source_number": 317,
+      "source_paragraph": 13601,
+      "text": "Eslab qoling: o'yinchilarni almashtirish xududi markaziy chiziqdan har ikki tomonga qanday masofada joylashgan?",
+      "options": {
+        "A": "4.5 metr",
+        "B": "3 metr",
+        "C": "6 metr",
+        "D": "9 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 318,
+      "source_number": 318,
+      "source_paragraph": 13602,
+      "text": "Eslab qoling: erkaklar va o'smirlar (16 yoshdan yuqori) uchun to'pning og'irligi qancha bo'lishi kerak?",
+      "options": {
+        "A": "425-475 gr",
+        "B": "325-375 gr",
+        "C": "290-330 gr",
+        "D": "400-450 gr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 319,
+      "source_number": 319,
+      "source_paragraph": 13603,
+      "text": "Eslab qoling: ayollar va 14 yoshdan yuqori qizlar uchun to'pning og'irligi qancha bo'lishi kerak?",
+      "options": {
+        "A": "325-375 gr",
+        "B": "425-475 gr",
+        "C": "290-330 gr",
+        "D": "300-350 gr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 320,
+      "source_number": 320,
+      "source_paragraph": 13604,
+      "text": "Eslab qoling: kattalar jamoasi uchun gandbol o'yini qancha vaqt davom etadi?",
+      "options": {
+        "A": "2x30 daqiqa",
+        "B": "2x25 daqiqa",
+        "C": "2x20 daqiqa",
+        "D": "4x10 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 321,
+      "source_number": 321,
+      "source_paragraph": 13605,
+      "text": "Eslab qoling: 12-16 yoshdagi o'smirlar jamoasi uchun o'yin vaqti qancha?",
+      "options": {
+        "A": "2x25 daqiqa",
+        "B": "2x30 daqiqa",
+        "C": "2x20 daqiqa",
+        "D": "2x15 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 322,
+      "source_number": 322,
+      "source_paragraph": 13606,
+      "text": "Eslab qoling: taymlar orasidagi tanaffus vaqti qancha?",
+      "options": {
+        "A": "10 daqiqa",
+        "B": "15 daqiqa",
+        "C": "5 daqiqa",
+        "D": "12 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 323,
+      "source_number": 323,
+      "source_paragraph": 13607,
+      "text": "Eslab qoling: qo'shimcha vaqt qanday taymlardan iborat bo'ladi?",
+      "options": {
+        "A": "2x5 daqiqa",
+        "B": "2x10 daqiqa",
+        "C": "2x15 daqiqa",
+        "D": "1x10 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 324,
+      "source_number": 324,
+      "source_paragraph": 13608,
+      "text": "Eslab qoling: maydonda bir vaqtning o'zida har bir jamoadan eng ko'pi bilan nechta o'yinchi bo'lishi mumkin?",
+      "options": {
+        "A": "7 ta",
+        "B": "6 ta",
+        "C": "11 ta",
+        "D": "5 ta"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 325,
+      "source_number": 325,
+      "source_paragraph": 13609,
+      "text": "Eslab qoling: jamoa o'yinni boshlashi uchun maydonda kamida nechta o'yinchi bo'lishi kerak?",
+      "options": {
+        "A": "5 ta",
+        "B": "7 ta",
+        "C": "6 ta",
+        "D": "4 ta"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 326,
+      "source_number": 326,
+      "source_paragraph": 13610,
+      "text": "Eslab qoling: o'yinchilarni almashtirish jarayonida zaxiradagi o'yinchi qachon maydonga tushishi mumkin?",
+      "options": {
+        "A": "Maydondagi o'yinchi maydonni to'liq tark etgach",
+        "B": "Hakam xushtagidan so'ng",
+        "C": "O'yin to'xtatilganda",
+        "D": "Istalgan vaqtda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 327,
+      "source_number": 327,
+      "source_paragraph": 13611,
+      "text": "Eslab qoling: sust (passiv) o'yin degani nima?",
+      "options": {
+        "A": "Hujum qilmasdan to'pni ushlab turish",
+        "B": "Tezlik bilan hujum qilish",
+        "C": "To'pni faqat markazda saqlash",
+        "D": "Darvozabonga to'pni oshirish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 328,
+      "source_number": 328,
+      "source_paragraph": 13612,
+      "text": "Eslab qoling: o'yinchi to'pni qo'lida maksimal qancha vaqt ushlab turishi mumkin?",
+      "options": {
+        "A": "3 soniya",
+        "B": "5 soniya",
+        "C": "10 soniya",
+        "D": "Vaqt cheklanmagan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 329,
+      "source_number": 329,
+      "source_paragraph": 13613,
+      "text": "Eslab qoling: to'p bilan maksimal nechta qadam yurishga ruxsat etiladi?",
+      "options": {
+        "A": "3 qadam",
+        "B": "2 qadam",
+        "C": "4 qadam",
+        "D": "5 qadam"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 330,
+      "source_number": 330,
+      "source_paragraph": 13614,
+      "text": "Eslab qoling: darvozabonga darvoza maydonchasi ichida nima ruxsat etiladi?",
+      "options": {
+        "A": "To'pga tanasining istalgan qismi bilan tegish",
+        "B": "To'p bilan maydon tashqarisiga chiqish",
+        "C": "O'yinchi kabi 3 qadam yurish qoidasiga bo'ysunish",
+        "D": "Raqib o'yinchisini ushlab qolish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 331,
+      "source_number": 331,
+      "source_paragraph": 13615,
+      "text": "Eslab qoling: qachon jamoaga jamoaviy taym-aut olishga ruxsat beriladi?",
+      "options": {
+        "A": "Jamoa to'pga egalik qilayotganda",
+        "B": "Raqib to'pga egalik qilganda",
+        "C": "Faqat tanaffus vaqtida",
+        "D": "Istalgan vaqtda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 332,
+      "source_number": 332,
+      "source_paragraph": 13616,
+      "text": "Eslab qoling: gandbolda g'alaba uchun jamoaga nechta ball beriladi?",
+      "options": {
+        "A": "2 ball",
+        "B": "3 ball",
+        "C": "1 ball",
+        "D": "5 ball"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 333,
+      "source_number": 333,
+      "source_paragraph": 13617,
+      "text": "Eslab qoling: gandbolda durrang uchun jamoaga nechta ball beriladi?",
+      "options": {
+        "A": "1 ball",
+        "B": "0 ball",
+        "C": "2 ball",
+        "D": "0.5 ball"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 334,
+      "source_number": 334,
+      "source_paragraph": 13618,
+      "text": "Eslab qoling: sportchiga xos bo'lmagan xulq yoki qo'pollik uchun qanday kartochka bilan ogohlantirish beriladi?",
+      "options": {
+        "A": "Sariq kartochka",
+        "B": "Qizil kartochka",
+        "C": "Yashil kartochka",
+        "D": "Oq kartochka"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 335,
+      "source_number": 335,
+      "source_paragraph": 13619,
+      "text": "Eslab qoling: 2 daqiqali chetlatish qanday holatlarda beriladi?",
+      "options": {
+        "A": "Noto'g'ri almashtirish yoki takroriy qo'pollik uchun",
+        "B": "Faqat vaqtni cho'zgani uchun",
+        "C": "Gol ura olmagani uchun",
+        "D": "Hakam bilan gaplashgani uchun"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 336,
+      "source_number": 336,
+      "source_paragraph": 13620,
+      "text": "Eslab qoling: bir o'yinchi o'yin davomida 3 marta 2 daqiqali jazoga tortilsa, nima bo'ladi?",
+      "options": {
+        "A": "Qizil kartochka (diskvalifikatsiya) oladi",
+        "B": "O'yin oxirigacha chetlatilib, o'rniga zaxira o'yinchisi tushadi",
+        "C": "Maydondan chiqadi, jamoa to'liq qoladi",
+        "D": "Jarima to'pi belgilanadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 337,
+      "source_number": 337,
+      "source_paragraph": 13621,
+      "text": "Eslab qoling: dastlabki to'p tashlash harakati qayerdan amalga oshiriladi?",
+      "options": {
+        "A": "Maydon markazidan",
+        "B": "Darvoza chizig'idan",
+        "C": "Jarima chizig'idan",
+        "D": "Burchakdan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 338,
+      "source_number": 338,
+      "source_paragraph": 13622,
+      "text": "Eslab qoling: dastlabki to'p tashlashni bajarayotgan o'yinchiga raqiblar qanday masofadan yaqin kelmasligi kerak?",
+      "options": {
+        "A": "3 metr",
+        "B": "4 metr",
+        "C": "5 metr",
+        "D": "6 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 339,
+      "source_number": 339,
+      "source_paragraph": 13623,
+      "text": "Eslab qoling: yon chiziqdan to'p tashlash vaqtida o'yinchining oyog'i qayerda bo'lishi shart?",
+      "options": {
+        "A": "Bir oyog'i yon chiziqni bosib turishi shart",
+        "B": "Ikkala oyog'i maydon ichida bo'lishi",
+        "C": "Ikkala oyog'i maydon tashqarisida",
+        "D": "Oyoq holati muhim emas"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 340,
+      "source_number": 340,
+      "source_paragraph": 13624,
+      "text": "Eslab qoling: 7 metrli jarima to'pi qaysi holatda belgilanadi?",
+      "options": {
+        "A": "Yaqqol gol urish imkoniyati qo'pollik bilan to'xtatilganda",
+        "B": "To'p yon chiziqdan chiqqanda",
+        "C": "O'yinchi to'pni tizzadan pastga tekkizganda",
+        "D": "Darvozabon to'pni ushlaganda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 341,
+      "source_number": 341,
+      "source_paragraph": 13625,
+      "text": "Eslab qoling: jarima to'pi (7 m) belgilanganda, uni amalga oshiruvchi o'yinchi qachongacha chiziqni bosmasligi kerak?",
+      "options": {
+        "A": "To'p qo'lidan chiqqunga qadar",
+        "B": "Hakam xushtak chalguncha",
+        "C": "Darvozabon tayyor bo'lguncha",
+        "D": "To'p darvozaga kirguncha"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 342,
+      "source_number": 342,
+      "source_paragraph": 13626,
+      "text": "Eslab qoling: jamoa sardori bog'ichining eni necha sm bo'lishi kerak?",
+      "options": {
+        "A": "4 sm",
+        "B": "5 sm",
+        "C": "3 sm",
+        "D": "10 sm"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 343,
+      "source_number": 343,
+      "source_paragraph": 13627,
+      "text": "Eslab qoling: o'yinchilarning libosidagi raqamlar orqa tomonda kamida necha sm bo'lishi kerak?",
+      "options": {
+        "A": "20 sm",
+        "B": "10 sm",
+        "C": "15 sm",
+        "D": "25 sm"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 344,
+      "source_number": 344,
+      "source_paragraph": 13628,
+      "text": "Eslab qoling: maydonda faoliyat olib boradigan hakamlar soni nechta bo'ladi?",
+      "options": {
+        "A": "2 ta teng huquqli maydon hakami",
+        "B": "1 ta bosh hakam, 2 ta qanot",
+        "C": "1 ta maydon hakami",
+        "D": "4 ta hakam"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 345,
+      "source_number": 345,
+      "source_paragraph": 13629,
+      "text": "Eslab qoling: hakamlar qarori bo'yicha to'pning darvoza chizig'idan to'liq o'tishi nima deb ataladi?",
+      "options": {
+        "A": "Gol",
+        "B": "Aut",
+        "C": "Burchak to'pi",
+        "D": "Erkin to'p"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 346,
+      "source_number": 346,
+      "source_paragraph": 13630,
+      "text": "Eslab qoling: qaysi jismoniy sifat harakatlarni minimal vaqt ichida maksimal kuchlanish bilan bajarishni ta'minlaydi?",
+      "options": {
+        "A": "Portlovchi kuch",
+        "B": "Chidamlilik",
+        "C": "Egiluvchanlik",
+        "D": "Muvozanat"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 347,
+      "source_number": 347,
+      "source_paragraph": 13631,
+      "text": "Eslab qoling: chaqqonlik nima?",
+      "options": {
+        "A": "Murakkab koordinatsion harakatlarni tez bajara olish",
+        "B": "Uzoq vaqt ishlash",
+        "C": "Maksimal kuchni namoyon etish",
+        "D": "Katta amplitudada ishlash"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 348,
+      "source_number": 348,
+      "source_paragraph": 13632,
+      "text": "Eslab qoling: qanday tayyorgarlik turi o'yinchining to'pni idrok etish, masofani va vaqtni chamalash hislarini rivojlantiradi?",
+      "options": {
+        "A": "Taktik va psixologik",
+        "B": "Umumiy jismoniy",
+        "C": "Gigienik",
+        "D": "Nazariy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 349,
+      "source_number": 349,
+      "source_paragraph": 13633,
+      "text": "Eslab qoling: taym-aut olish uchun stolga qanday kartochka qo'yiladi?",
+      "options": {
+        "A": "Yashil kartochka",
+        "B": "Sariq kartochka",
+        "C": "Oq kartochka",
+        "D": "Qizil kartochka"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 350,
+      "source_number": 350,
+      "source_paragraph": 13634,
+      "text": "Eslab qoling: qur'a tashlash o'yindan oldin kimlar o'rtasida o'tkaziladi?",
+      "options": {
+        "A": "Ikki hakam va ikki jamoa sardori",
+        "B": "Murabbiylar o'rtasida",
+        "C": "Barcha o'yinchilar",
+        "D": "Kotib va sardorlar"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 351,
+      "source_number": 351,
+      "source_paragraph": 13635,
+      "text": "Diqqat qiling: gandbol qachon va qayerda paydo bo'lgan?",
+      "options": {
+        "A": "1898 yilda Daniyada",
+        "B": "1904 yilda Shvetsiyada",
+        "C": "1892 yilda AQShda",
+        "D": "1928 yilda SSSRda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 352,
+      "source_number": 352,
+      "source_paragraph": 13636,
+      "text": "Diqqat qiling: gandbol o'yinining asoschisi kim hisoblanadi?",
+      "options": {
+        "A": "Xolger Nilson",
+        "B": "Deyms Neysmit",
+        "C": "Uilyam Morgan",
+        "D": "K. Shmitt"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 353,
+      "source_number": 353,
+      "source_paragraph": 13637,
+      "text": "Diqqat qiling: xalqaro gandbol federatsiyasi (IHF) qachon tashkil topgan?",
+      "options": {
+        "A": "1946 yilda",
+        "B": "1928 yilda",
+        "C": "1904 yilda",
+        "D": "1972 yilda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 354,
+      "source_number": 354,
+      "source_paragraph": 13638,
+      "text": "Diqqat qiling: xalqaro gandbol federatsiyasining shtab kvartirasi qayerda joylashgan?",
+      "options": {
+        "A": "Bazel (Shveysariya)",
+        "B": "Lozanna (Shveysariya)",
+        "C": "London (Angliya)",
+        "D": "Kopengagen (Daniya)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 355,
+      "source_number": 355,
+      "source_paragraph": 13639,
+      "text": "Diqqat qiling: gandbol bo'yicha erkaklar o'rtasida birinchi Jahon chempionati qachon o'tkazilgan?",
+      "options": {
+        "A": "1970 yil",
+        "B": "1971 yil",
+        "C": "1962 yil",
+        "D": "1972 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 356,
+      "source_number": 356,
+      "source_paragraph": 13640,
+      "text": "Diqqat qiling: gandbol bo'yicha ayollar o'rtasida birinchi Jahon chempionati qachon o'tkazilgan?",
+      "options": {
+        "A": "1971 yil",
+        "B": "1970 yil",
+        "C": "1976 yil",
+        "D": "1997 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 357,
+      "source_number": 357,
+      "source_paragraph": 13641,
+      "text": "Diqqat qiling: erkaklar gandboli qachon Olimpiya o'yinlari dasturiga kiritilgan?",
+      "options": {
+        "A": "1972 yil (Myunxen)",
+        "B": "1976 yil (Monreal)",
+        "C": "1980 yil (Moskva)",
+        "D": "1984 yil (Los-Anjeles)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 358,
+      "source_number": 358,
+      "source_paragraph": 13642,
+      "text": "Diqqat qiling: ayollar gandboli qachon Olimpiya o'yinlari dasturiga kiritilgan?",
+      "options": {
+        "A": "1976 yil (Monreal)",
+        "B": "1972 yil (Myunxen)",
+        "C": "1980 yil (Moskva)",
+        "D": "1992 yil (Barselona)"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 359,
+      "source_number": 359,
+      "source_paragraph": 13643,
+      "text": "Diqqat qiling: o'zbekistonda gandbol bo'yicha birinchi chempionat qachon o'tkazilgan?",
+      "options": {
+        "A": "1938 yil",
+        "B": "1960 yil",
+        "C": "1962 yil",
+        "D": "1992 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 360,
+      "source_number": 360,
+      "source_paragraph": 13644,
+      "text": "Diqqat qiling: o'zbekiston gandbol federatsiyasi qachon tashkil etilgan?",
+      "options": {
+        "A": "1992 yil",
+        "B": "1993 yil",
+        "C": "1997 yil",
+        "D": "2005 yil"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 361,
+      "source_number": 361,
+      "source_paragraph": 13645,
+      "text": "Diqqat qiling: gandbol maydonining o'lchamlari qanday?",
+      "options": {
+        "A": "40x20 m",
+        "B": "28x15 m",
+        "C": "18x9 m",
+        "D": "105x68 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 362,
+      "source_number": 362,
+      "source_paragraph": 13646,
+      "text": "Diqqat qiling: gandbol darvozasining o'lchami qanday?",
+      "options": {
+        "A": "Balandligi 2 m, eni 3 m",
+        "B": "Balandligi 3 m, eni 2 m",
+        "C": "Balandligi 2.44 m, eni 7.32 m",
+        "D": "Balandligi 2 m, eni 4 m"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 363,
+      "source_number": 363,
+      "source_paragraph": 13647,
+      "text": "Diqqat qiling: darvozabon maydonchasi chizig'i darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "6 metr",
+        "B": "7 metr",
+        "C": "9 metr",
+        "D": "4 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 364,
+      "source_number": 364,
+      "source_paragraph": 13648,
+      "text": "Diqqat qiling: jarima to'p tashlash chizig'i darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "7 metr",
+        "B": "6 metr",
+        "C": "9 metr",
+        "D": "4.5 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 365,
+      "source_number": 365,
+      "source_paragraph": 13649,
+      "text": "Diqqat qiling: erkin to'p tashlash chizig'i (punktir chiziq) darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "9 metr",
+        "B": "7 metr",
+        "C": "6 metr",
+        "D": "12 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 366,
+      "source_number": 366,
+      "source_paragraph": 13650,
+      "text": "Diqqat qiling: darvozabonni cheklovchi chiziq darvozadan qanday masofada joylashgan?",
+      "options": {
+        "A": "4 metr",
+        "B": "3 metr",
+        "C": "6 metr",
+        "D": "4.5 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 367,
+      "source_number": 367,
+      "source_paragraph": 13651,
+      "text": "Diqqat qiling: o'yinchilarni almashtirish xududi markaziy chiziqdan har ikki tomonga qanday masofada joylashgan?",
+      "options": {
+        "A": "4.5 metr",
+        "B": "3 metr",
+        "C": "6 metr",
+        "D": "9 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 368,
+      "source_number": 368,
+      "source_paragraph": 13652,
+      "text": "Diqqat qiling: erkaklar va o'smirlar (16 yoshdan yuqori) uchun to'pning og'irligi qancha bo'lishi kerak?",
+      "options": {
+        "A": "425-475 gr",
+        "B": "325-375 gr",
+        "C": "290-330 gr",
+        "D": "400-450 gr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 369,
+      "source_number": 369,
+      "source_paragraph": 13653,
+      "text": "Diqqat qiling: ayollar va 14 yoshdan yuqori qizlar uchun to'pning og'irligi qancha bo'lishi kerak?",
+      "options": {
+        "A": "325-375 gr",
+        "B": "425-475 gr",
+        "C": "290-330 gr",
+        "D": "300-350 gr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 370,
+      "source_number": 370,
+      "source_paragraph": 13654,
+      "text": "Diqqat qiling: kattalar jamoasi uchun gandbol o'yini qancha vaqt davom etadi?",
+      "options": {
+        "A": "2x30 daqiqa",
+        "B": "2x25 daqiqa",
+        "C": "2x20 daqiqa",
+        "D": "4x10 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 371,
+      "source_number": 371,
+      "source_paragraph": 13655,
+      "text": "Diqqat qiling: 12-16 yoshdagi o'smirlar jamoasi uchun o'yin vaqti qancha?",
+      "options": {
+        "A": "2x25 daqiqa",
+        "B": "2x30 daqiqa",
+        "C": "2x20 daqiqa",
+        "D": "2x15 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 372,
+      "source_number": 372,
+      "source_paragraph": 13656,
+      "text": "Diqqat qiling: taymlar orasidagi tanaffus vaqti qancha?",
+      "options": {
+        "A": "10 daqiqa",
+        "B": "15 daqiqa",
+        "C": "5 daqiqa",
+        "D": "12 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 373,
+      "source_number": 373,
+      "source_paragraph": 13657,
+      "text": "Diqqat qiling: qo'shimcha vaqt qanday taymlardan iborat bo'ladi?",
+      "options": {
+        "A": "2x5 daqiqa",
+        "B": "2x10 daqiqa",
+        "C": "2x15 daqiqa",
+        "D": "1x10 daqiqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 374,
+      "source_number": 374,
+      "source_paragraph": 13658,
+      "text": "Diqqat qiling: maydonda bir vaqtning o'zida har bir jamoadan eng ko'pi bilan nechta o'yinchi bo'lishi mumkin?",
+      "options": {
+        "A": "7 ta",
+        "B": "6 ta",
+        "C": "11 ta",
+        "D": "5 ta"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 375,
+      "source_number": 375,
+      "source_paragraph": 13659,
+      "text": "Diqqat qiling: jamoa o'yinni boshlashi uchun maydonda kamida nechta o'yinchi bo'lishi kerak?",
+      "options": {
+        "A": "5 ta",
+        "B": "7 ta",
+        "C": "6 ta",
+        "D": "4 ta"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 376,
+      "source_number": 376,
+      "source_paragraph": 13660,
+      "text": "Diqqat qiling: o'yinchilarni almashtirish jarayonida zaxiradagi o'yinchi qachon maydonga tushishi mumkin?",
+      "options": {
+        "A": "Maydondagi o'yinchi maydonni to'liq tark etgach",
+        "B": "Hakam xushtagidan so'ng",
+        "C": "O'yin to'xtatilganda",
+        "D": "Istalgan vaqtda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 377,
+      "source_number": 377,
+      "source_paragraph": 13661,
+      "text": "Diqqat qiling: sust (passiv) o'yin degani nima?",
+      "options": {
+        "A": "Hujum qilmasdan to'pni ushlab turish",
+        "B": "Tezlik bilan hujum qilish",
+        "C": "To'pni faqat markazda saqlash",
+        "D": "Darvozabonga to'pni oshirish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 378,
+      "source_number": 378,
+      "source_paragraph": 13662,
+      "text": "Diqqat qiling: o'yinchi to'pni qo'lida maksimal qancha vaqt ushlab turishi mumkin?",
+      "options": {
+        "A": "3 soniya",
+        "B": "5 soniya",
+        "C": "10 soniya",
+        "D": "Vaqt cheklanmagan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 379,
+      "source_number": 379,
+      "source_paragraph": 13663,
+      "text": "Diqqat qiling: to'p bilan maksimal nechta qadam yurishga ruxsat etiladi?",
+      "options": {
+        "A": "3 qadam",
+        "B": "2 qadam",
+        "C": "4 qadam",
+        "D": "5 qadam"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 380,
+      "source_number": 380,
+      "source_paragraph": 13664,
+      "text": "Diqqat qiling: darvozabonga darvoza maydonchasi ichida nima ruxsat etiladi?",
+      "options": {
+        "A": "To'pga tanasining istalgan qismi bilan tegish",
+        "B": "To'p bilan maydon tashqarisiga chiqish",
+        "C": "O'yinchi kabi 3 qadam yurish qoidasiga bo'ysunish",
+        "D": "Raqib o'yinchisini ushlab qolish"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 381,
+      "source_number": 381,
+      "source_paragraph": 13665,
+      "text": "Diqqat qiling: qachon jamoaga jamoaviy taym-aut olishga ruxsat beriladi?",
+      "options": {
+        "A": "Jamoa to'pga egalik qilayotganda",
+        "B": "Raqib to'pga egalik qilganda",
+        "C": "Faqat tanaffus vaqtida",
+        "D": "Istalgan vaqtda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 382,
+      "source_number": 382,
+      "source_paragraph": 13666,
+      "text": "Diqqat qiling: gandbolda g'alaba uchun jamoaga nechta ball beriladi?",
+      "options": {
+        "A": "2 ball",
+        "B": "3 ball",
+        "C": "1 ball",
+        "D": "5 ball"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 383,
+      "source_number": 383,
+      "source_paragraph": 13667,
+      "text": "Diqqat qiling: gandbolda durrang uchun jamoaga nechta ball beriladi?",
+      "options": {
+        "A": "1 ball",
+        "B": "0 ball",
+        "C": "2 ball",
+        "D": "0.5 ball"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 384,
+      "source_number": 384,
+      "source_paragraph": 13668,
+      "text": "Diqqat qiling: sportchiga xos bo'lmagan xulq yoki qo'pollik uchun qanday kartochka bilan ogohlantirish beriladi?",
+      "options": {
+        "A": "Sariq kartochka",
+        "B": "Qizil kartochka",
+        "C": "Yashil kartochka",
+        "D": "Oq kartochka"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 385,
+      "source_number": 385,
+      "source_paragraph": 13669,
+      "text": "Diqqat qiling: 2 daqiqali chetlatish qanday holatlarda beriladi?",
+      "options": {
+        "A": "Noto'g'ri almashtirish yoki takroriy qo'pollik uchun",
+        "B": "Faqat vaqtni cho'zgani uchun",
+        "C": "Gol ura olmagani uchun",
+        "D": "Hakam bilan gaplashgani uchun"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 386,
+      "source_number": 386,
+      "source_paragraph": 13670,
+      "text": "Diqqat qiling: bir o'yinchi o'yin davomida 3 marta 2 daqiqali jazoga tortilsa, nima bo'ladi?",
+      "options": {
+        "A": "Qizil kartochka (diskvalifikatsiya) oladi",
+        "B": "O'yin oxirigacha chetlatilib, o'rniga zaxira o'yinchisi tushadi",
+        "C": "Maydondan chiqadi, jamoa to'liq qoladi",
+        "D": "Jarima to'pi belgilanadi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 387,
+      "source_number": 387,
+      "source_paragraph": 13671,
+      "text": "Diqqat qiling: dastlabki to'p tashlash harakati qayerdan amalga oshiriladi?",
+      "options": {
+        "A": "Maydon markazidan",
+        "B": "Darvoza chizig'idan",
+        "C": "Jarima chizig'idan",
+        "D": "Burchakdan"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 388,
+      "source_number": 388,
+      "source_paragraph": 13672,
+      "text": "Diqqat qiling: dastlabki to'p tashlashni bajarayotgan o'yinchiga raqiblar qanday masofadan yaqin kelmasligi kerak?",
+      "options": {
+        "A": "3 metr",
+        "B": "4 metr",
+        "C": "5 metr",
+        "D": "6 metr"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 389,
+      "source_number": 389,
+      "source_paragraph": 13673,
+      "text": "Diqqat qiling: yon chiziqdan to'p tashlash vaqtida o'yinchining oyog'i qayerda bo'lishi shart?",
+      "options": {
+        "A": "Bir oyog'i yon chiziqni bosib turishi shart",
+        "B": "Ikkala oyog'i maydon ichida bo'lishi",
+        "C": "Ikkala oyog'i maydon tashqarisida",
+        "D": "Oyoq holati muhim emas"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 390,
+      "source_number": 390,
+      "source_paragraph": 13674,
+      "text": "Diqqat qiling: 7 metrli jarima to'pi qaysi holatda belgilanadi?",
+      "options": {
+        "A": "Yaqqol gol urish imkoniyati qo'pollik bilan to'xtatilganda",
+        "B": "To'p yon chiziqdan chiqqanda",
+        "C": "O'yinchi to'pni tizzadan pastga tekkizganda",
+        "D": "Darvozabon to'pni ushlaganda"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 391,
+      "source_number": 391,
+      "source_paragraph": 13675,
+      "text": "Diqqat qiling: jarima to'pi (7 m) belgilanganda, uni amalga oshiruvchi o'yinchi qachongacha chiziqni bosmasligi kerak?",
+      "options": {
+        "A": "To'p qo'lidan chiqqunga qadar",
+        "B": "Hakam xushtak chalguncha",
+        "C": "Darvozabon tayyor bo'lguncha",
+        "D": "To'p darvozaga kirguncha"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 392,
+      "source_number": 392,
+      "source_paragraph": 13676,
+      "text": "Diqqat qiling: jamoa sardori bog'ichining eni necha sm bo'lishi kerak?",
+      "options": {
+        "A": "4 sm",
+        "B": "5 sm",
+        "C": "3 sm",
+        "D": "10 sm"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 393,
+      "source_number": 393,
+      "source_paragraph": 13677,
+      "text": "Diqqat qiling: o'yinchilarning libosidagi raqamlar orqa tomonda kamida necha sm bo'lishi kerak?",
+      "options": {
+        "A": "20 sm",
+        "B": "10 sm",
+        "C": "15 sm",
+        "D": "25 sm"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 394,
+      "source_number": 394,
+      "source_paragraph": 13678,
+      "text": "Diqqat qiling: maydonda faoliyat olib boradigan hakamlar soni nechta bo'ladi?",
+      "options": {
+        "A": "2 ta teng huquqli maydon hakami",
+        "B": "1 ta bosh hakam, 2 ta qanot",
+        "C": "1 ta maydon hakami",
+        "D": "4 ta hakam"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 395,
+      "source_number": 395,
+      "source_paragraph": 13679,
+      "text": "Diqqat qiling: hakamlar qarori bo'yicha to'pning darvoza chizig'idan to'liq o'tishi nima deb ataladi?",
+      "options": {
+        "A": "Gol",
+        "B": "Aut",
+        "C": "Burchak to'pi",
+        "D": "Erkin to'p"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 396,
+      "source_number": 396,
+      "source_paragraph": 13680,
+      "text": "Diqqat qiling: qaysi jismoniy sifat harakatlarni minimal vaqt ichida maksimal kuchlanish bilan bajarishni ta'minlaydi?",
+      "options": {
+        "A": "Portlovchi kuch",
+        "B": "Chidamlilik",
+        "C": "Egiluvchanlik",
+        "D": "Muvozanat"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 397,
+      "source_number": 397,
+      "source_paragraph": 13681,
+      "text": "Diqqat qiling: chaqqonlik nima?",
+      "options": {
+        "A": "Murakkab koordinatsion harakatlarni tez bajara olish",
+        "B": "Uzoq vaqt ishlash",
+        "C": "Maksimal kuchni namoyon etish",
+        "D": "Katta amplitudada ishlash"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 398,
+      "source_number": 398,
+      "source_paragraph": 13682,
+      "text": "Diqqat qiling: qanday tayyorgarlik turi o'yinchining to'pni idrok etish, masofani va vaqtni chamalash hislarini rivojlantiradi?",
+      "options": {
+        "A": "Taktik va psixologik",
+        "B": "Umumiy jismoniy",
+        "C": "Gigienik",
+        "D": "Nazariy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 399,
+      "source_number": 399,
+      "source_paragraph": 13683,
+      "text": "Diqqat qiling: taym-aut olish uchun stolga qanday kartochka qo'yiladi?",
+      "options": {
+        "A": "Yashil kartochka",
+        "B": "Sariq kartochka",
+        "C": "Oq kartochka",
+        "D": "Qizil kartochka"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 400,
+      "source_number": 400,
+      "source_paragraph": 13684,
+      "text": "Diqqat qiling: qur'a tashlash o'yindan oldin kimlar o'rtasida o'tkaziladi?",
+      "options": {
+        "A": "Ikki hakam va ikki jamoa sardori",
+        "B": "Murabbiylar o'rtasida",
+        "C": "Barcha o'yinchilar",
+        "D": "Kotib va sardorlar"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    }
+  ]
+}

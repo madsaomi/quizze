@@ -1,0 +1,176 @@
+{
+  "source": "Attestaciya jismoniy tarbiya.docx",
+  "sha256": "e8e3efc73131169ec884ed0c5ea13d2701da69a86f8fa4fefd38219136138f05",
+  "subjects": [
+    {
+      "id": "sport_fiziologiyasi",
+      "title": "Sport fiziologiyasi",
+      "declared_count": 400,
+      "extracted_count": 400,
+      "duplicate_question_texts": 75,
+      "incomplete_options": [],
+      "option_counts": {
+        "2": 20,
+        "4": 380
+      }
+    },
+    {
+      "id": "soglom_turmush",
+      "title": "Sog'lom turmush tarzi",
+      "declared_count": 400,
+      "extracted_count": 400,
+      "duplicate_question_texts": 102,
+      "incomplete_options": [],
+      "option_counts": {
+        "2": 20,
+        "4": 380
+      }
+    },
+    {
+      "id": "milliy_oyinlar",
+      "title": "Milliy va harakatli o'yinlar",
+      "declared_count": 400,
+      "extracted_count": 180,
+      "duplicate_question_texts": 0,
+      "incomplete_options": [],
+      "option_counts": {
+        "2": 20,
+        "4": 160
+      }
+    },
+    {
+      "id": "sport_inshootlari",
+      "title": "Sport inshootlari",
+      "declared_count": 400,
+      "extracted_count": 400,
+      "duplicate_question_texts": 81,
+      "incomplete_options": [
+        {
+          "id": 400,
+          "source_number": 400,
+          "options": 3
+        }
+      ],
+      "option_counts": {
+        "2": 20,
+        "4": 379,
+        "3": 1
+      }
+    },
+    {
+      "id": "gimnastika",
+      "title": "Gimnastika",
+      "declared_count": 400,
+      "extracted_count": 400,
+      "duplicate_question_texts": 59,
+      "incomplete_options": [],
+      "option_counts": {
+        "2": 20,
+        "4": 380
+      }
+    },
+    {
+      "id": "yengil_atletika",
+      "title": "Yengil atletika",
+      "declared_count": 400,
+      "extracted_count": 400,
+      "duplicate_question_texts": 68,
+      "incomplete_options": [],
+      "option_counts": {
+        "2": 20,
+        "4": 380
+      }
+    },
+    {
+      "id": "suzish",
+      "title": "Suzish",
+      "declared_count": 400,
+      "extracted_count": 400,
+      "duplicate_question_texts": 82,
+      "incomplete_options": [],
+      "option_counts": {
+        "2": 20,
+        "4": 380
+      }
+    },
+    {
+      "id": "kurash",
+      "title": "Kurash",
+      "declared_count": 400,
+      "extracted_count": 400,
+      "duplicate_question_texts": 81,
+      "incomplete_options": [],
+      "option_counts": {
+        "2": 20,
+        "4": 380
+      }
+    },
+    {
+      "id": "voleybol",
+      "title": "Voleybol",
+      "declared_count": 300,
+      "extracted_count": 300,
+      "duplicate_question_texts": 120,
+      "incomplete_options": [],
+      "option_counts": {
+        "2": 10,
+        "4": 290
+      }
+    },
+    {
+      "id": "gandbol",
+      "title": "Gandbol",
+      "declared_count": 400,
+      "extracted_count": 400,
+      "duplicate_question_texts": 0,
+      "incomplete_options": [],
+      "option_counts": {
+        "2": 20,
+        "4": 380
+      }
+    },
+    {
+      "id": "basketbol",
+      "title": "Basketbol",
+      "declared_count": 400,
+      "extracted_count": 400,
+      "duplicate_question_texts": 74,
+      "incomplete_options": [],
+      "option_counts": {
+        "2": 20,
+        "4": 380
+      }
+    },
+    {
+      "id": "futbol",
+      "title": "Futbol",
+      "declared_count": 400,
+      "extracted_count": 400,
+      "duplicate_question_texts": 79,
+      "incomplete_options": [
+        {
+          "id": 400,
+          "source_number": 400,
+          "options": 2
+        }
+      ],
+      "option_counts": {
+        "2": 21,
+        "4": 379
+      }
+    },
+    {
+      "id": "shaxmat",
+      "title": "Shaxmat",
+      "declared_count": 200,
+      "extracted_count": 200,
+      "duplicate_question_texts": 26,
+      "incomplete_options": [],
+      "option_counts": {
+        "2": 10,
+        "4": 190
+      }
+    }
+  ],
+  "total": 4680
+}

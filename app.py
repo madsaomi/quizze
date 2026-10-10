@@ -9,6 +9,8 @@ app = Flask(__name__)
 app.config["TEMPLATES_AUTO_RELOAD"] = False
 app.config["MAX_CONTENT_LENGTH"] = 64 * 1024
 TESTS = load_tests(BASE / "data")
+QUESTION_INDEX = {key: {q["id"]: q for q in test["questions"]} for key, test in TESTS.items()}
+PUBLIC_QUESTIONS = {key: [{k: q[k] for k in ("id", "text", "options")} for q in test["questions"]] for key, test in TESTS.items()}
 
 
 @app.after_request
@@ -48,8 +50,17 @@ def questions(test_id):
     test = TESTS.get(test_id)
     if test is None:
         return jsonify(error="Тест топилмади"), 404
-    return jsonify(title=test["title"],
-                   questions=[{k: q[k] for k in ("id", "text", "options")} for q in test["questions"]])
+    try:
+        offset = int(request.args.get("offset", "0"))
+        limit = int(request.args.get("limit", "20"))
+    except ValueError:
+        return jsonify(error="Саҳифа параметрлари нотўғри"), 400
+    if offset < 0 or offset >= len(test["questions"]) or not 1 <= limit <= 50:
+        return jsonify(error="Саҳифа параметрлари нотўғри"), 400
+    end = min(offset + limit, len(test["questions"]))
+    return jsonify(title=test["title"], total=len(test["questions"]), offset=offset,
+                   next_offset=end if end < len(test["questions"]) else None,
+                   questions=PUBLIC_QUESTIONS[test_id][offset:end])
 
 
 @app.post("/api/tests/<test_id>/check")
@@ -60,9 +71,11 @@ def check_answer(test_id):
     data = request.get_json(silent=True)
     if not isinstance(data, dict) or type(data.get("question_id")) is not int or data.get("answer") not in ("A", "B", "C", "D"):
         return jsonify(error="Жавоб нотўғри форматда"), 400
-    question = next((q for q in test["questions"] if q["id"] == data["question_id"]), None)
+    question = QUESTION_INDEX[test_id].get(data["question_id"])
     if question is None:
         return jsonify(error="Савол топилмади"), 404
+    if data["answer"] not in question["options"]:
+        return jsonify(error="Жавоб нотўғри форматда"), 400
     return jsonify(correct=data["answer"] == question["correct_answer"])
 
 

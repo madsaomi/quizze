@@ -1,10 +1,13 @@
 const $ = id => document.getElementById(id);
 let testId, test, index = 0, answers = {}, transition, active = false, submitting = false;
 let starting = false, checking = false, solved = false, attempt = 0;
+let pages = new Map();
+let loadingQuestion = null, pendingResult = false;
+const PAGE_SIZE = 20;
 function closeModal() { $('app-modal').close(); }
 $('modal-cancel').onclick = closeModal;
 $('modal-confirm').onclick = () => {
-  closeModal(); active = false; clearTimeout(transition); screen('catalog');
+  closeModal(); active = false; pendingResult = false; clearTimeout(transition); screen('catalog');
 };
 function screen(id) {
   for (const name of ['catalog', 'quiz', 'result']) $(name).hidden = name !== id;
@@ -28,25 +31,71 @@ async function start(id) {
   starting = true;
   $('retry').disabled = true;
   try {
-    test = await api(`/api/tests/${encodeURIComponent(id)}`);
+    const firstPage = await api(`/api/tests/${encodeURIComponent(id)}?limit=${PAGE_SIZE}`);
+    test = {title:firstPage.title, questions:new Array(firstPage.total)};
+    firstPage.questions.forEach((question, offset) => { test.questions[offset] = question; });
+    pages = new Map();
     testId = id; index = 0; answers = {}; active = true; submitting = false;
-    attempt++; checking = false; solved = false; $('next').hidden = true; $('next').disabled = false; $('exit').disabled = false; $('quiz-title').textContent = test.title;
-    screen('quiz'); showQuestion();
+    attempt++; checking = false; solved = false; pendingResult = false; $('next').hidden = true; $('next').disabled = false; $('exit').disabled = false; $('quiz-title').textContent = test.title;
+    screen('quiz'); await showQuestion();
   } catch (e) { $('global-message').textContent = e.message; }
   finally { starting = false; $('retry').disabled = false; }
 }
-function showQuestion() {
+async function fetchPage(position, currentAttempt = attempt) {
+  const offset = Math.floor(position / PAGE_SIZE) * PAGE_SIZE;
+  if (test.questions[position]) return;
+  if (!pages.has(offset)) {
+    const id = testId;
+    const pending = api(`/api/tests/${encodeURIComponent(id)}?offset=${offset}&limit=${PAGE_SIZE}`)
+      .then(page => {
+        if (attempt === currentAttempt && active) page.questions.forEach((q, i) => { test.questions[offset + i] = q; });
+      }).catch(error => { if (attempt === currentAttempt) pages.delete(offset); throw error; });
+    pages.set(offset, pending);
+  }
+  await pages.get(offset);
+}
+function prefetch() {
+  const position = (Math.floor(index / PAGE_SIZE) + 1) * PAGE_SIZE;
+  if (position < test.questions.length) fetchPage(position).catch(() => {});
+}
+async function showQuestion() {
+  if (loadingQuestion === attempt) return;
+  const renderAttempt = attempt;
+  loadingQuestion = renderAttempt;
+  $('next').disabled = true;
+  try {
   clearTimeout(transition);
+  const currentAttempt = attempt;
+  if (!test.questions[index]) {
+    $('options').replaceChildren();
+    $('quiz-message').textContent = 'Савол юкланмоқда…';
+    try { await fetchPage(index, currentAttempt); }
+    catch(error) {
+      if (active && attempt === currentAttempt) {
+        $('quiz-message').textContent = error.message;
+        $('next').hidden = false; $('next').textContent = 'Қайта юклаш';
+      }
+      return;
+    }
+  }
+  if (!active || attempt !== currentAttempt) return;
+  $('next').hidden = true;
+  prefetch();
   const q = test.questions[index];
   $('counter').textContent = `${index + 1}-савол / ${test.questions.length} та`;
   $('progress-fill').style.width = `${index / test.questions.length * 100}%`;
   document.querySelector('.progress').setAttribute('aria-valuenow', Math.round(index / test.questions.length * 100));
   $('question-text').textContent = q.text;
   $('options').replaceChildren();
-  for (const [key, text] of Object.entries(q.options)) {
+  const choices = Object.entries(q.options);
+  for (let i = choices.length - 1; i > 0; i--) {
+    const j = crypto.getRandomValues(new Uint32Array(1))[0] % (i + 1);
+    [choices[i], choices[j]] = [choices[j], choices[i]];
+  }
+  for (const [position, [key, text]] of choices.entries()) {
     const label = document.createElement('label'); label.className = 'option';
     const input = document.createElement('input'); input.type = 'radio'; input.name = 'answer'; input.value = key;
-    const letter = document.createElement('span'); letter.className = 'option-letter'; letter.textContent = key;
+    const letter = document.createElement('span'); letter.className = 'option-letter'; letter.textContent = 'ABCD'[position];
     const content = document.createElement('span'); content.textContent = text;
     content.className = 'option-text';
     input.onchange = () => checkChoice(input, label);
@@ -60,6 +109,9 @@ function showQuestion() {
   solved = false;
   $('quiz-message').classList.remove('success');
   $('question-text').focus();
+  } finally {
+    if (loadingQuestion === renderAttempt) { loadingQuestion = null; $('next').disabled = false; }
+  }
 }
 async function checkChoice(input, label) {
   if (!active || checking || solved) return;
@@ -79,12 +131,13 @@ async function checkChoice(input, label) {
       label.classList.add('answer-correct');
       $('quiz-message').classList.add('success');
       $('quiz-message').textContent = 'Тўғри!';
-      transition = setTimeout(() => {
+      const advance = () => {
         if (!active || attempt !== currentAttempt) return;
-        if ($('app-modal').open) closeModal();
+        if ($('app-modal').open) { transition = setTimeout(advance, 200); return; }
         index++;
         if (index < test.questions.length) showQuestion(); else finish();
-      }, 1100);
+      };
+      transition = setTimeout(advance, 1100);
     } else {
       label.classList.add('answer-wrong');
       input.checked = false;
@@ -104,7 +157,7 @@ async function checkChoice(input, label) {
 }
 async function finish() {
   if (submitting) return;
-  clearTimeout(transition); active = false; submitting = true;
+  clearTimeout(transition); active = false; submitting = true; pendingResult = true;
   if ($('app-modal').open) closeModal();
   $('next').disabled = true; $('next').textContent = 'Жавоблар текширилмоқда…';
   $('exit').disabled = true;
@@ -129,21 +182,23 @@ async function finish() {
       $('review-list').append(block);
     }
     screen('result');
+    pendingResult = false;
   } catch (e) {
     $('quiz-message').textContent = `${e.message}. Қайта юбориш мумкин.`;
     $('next').hidden = false; $('next').disabled = false; $('exit').disabled = false; $('next').textContent = 'Қайта юбориш';
   } finally { submitting = false; }
 }
-$('next').onclick = finish;
+$('next').onclick = () => active ? showQuestion() : finish();
 $('exit').onclick = () => $('app-modal').showModal();
 $('retry').onclick = () => start(testId);
 $('home').onclick = () => screen('catalog');
-window.addEventListener('beforeunload', e => { if (active || submitting) { e.preventDefault(); e.returnValue = ''; } });
+window.addEventListener('beforeunload', e => { if (active || submitting || pendingResult) { e.preventDefault(); e.returnValue = ''; } });
 async function loadCatalog() {
   try {
     for (const entry of await api('/api/tests')) {
       const card = document.createElement('article'); card.className = 'test-card';
-      const icon = document.createElement('span'); icon.className = 'subject-icon'; icon.setAttribute('aria-hidden','true'); icon.textContent = '✎';
+      const icon = document.createElement('span'); icon.className = 'subject-icon'; icon.setAttribute('aria-hidden','true');
+      const image = document.createElement('img'); image.src = `/static/icons/${encodeURIComponent(entry.id)}.svg`; image.alt = ''; image.width = 27; image.height = 27; icon.append(image);
       const content = document.createElement('div'); content.className = 'test-content';
       const title = document.createElement('h2'); title.textContent = entry.title;
       const meta = document.createElement('p'); meta.className = 'muted'; meta.textContent = `${entry.count} та савол · вақт чекланмаган`;

@@ -1,0 +1,2787 @@
+{
+  "title": "Shaxmat",
+  "language": "uz-Latn",
+  "source_file": "Attestaciya jismoniy tarbiya.docx",
+  "questions": [
+    {
+      "id": 1,
+      "source_number": 1,
+      "source_paragraph": 16459,
+      "text": "Shaxmat nazariyasi va tarixiga ko'ra, O'zgarish qoidasi - bu oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishimi?",
+      "options": {
+        "A": "Ha, keltirilgan tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 2,
+      "source_number": 2,
+      "source_paragraph": 16462,
+      "text": "Shaxmat nazariyasi va tarixiga ko'ra, 64 ta - bu shaxmat taxtasidagi oq va qora kataklarning umumiy sonimi?",
+      "options": {
+        "A": "Ha, keltirilgan tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 3,
+      "source_number": 3,
+      "source_paragraph": 16465,
+      "text": "Shaxmat nazariyasi va tarixiga ko'ra, Chaturanga - bu hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yinmi?",
+      "options": {
+        "A": "Ha, keltirilgan tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 4,
+      "source_number": 4,
+      "source_paragraph": 16468,
+      "text": "Shaxmat nazariyasi va tarixiga ko'ra, Uzun rokirovka - bu shohning farzin yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakatimi?",
+      "options": {
+        "A": "Ha, keltirilgan tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 5,
+      "source_number": 5,
+      "source_paragraph": 16471,
+      "text": "Shaxmat nazariyasi va tarixiga ko'ra, Rustam Qosimjonov - bu 2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeystermi?",
+      "options": {
+        "A": "Ha, keltirilgan tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 6,
+      "source_number": 6,
+      "source_paragraph": 16474,
+      "text": "Shaxmat nazariyasi va tarixiga ko'ra, Xalqaro shaxmat akademiyasi - bu shaxmat bo'yicha respublika ixtisoslashtirilgan maktabi negizida 2019 yil tashkil etilgan muassasami?",
+      "options": {
+        "A": "Ha, keltirilgan tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 7,
+      "source_number": 7,
+      "source_paragraph": 16477,
+      "text": "Shaxmat nazariyasi va tarixiga ko'ra, Rux - bu qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipohmi?",
+      "options": {
+        "A": "Ha, keltirilgan tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 8,
+      "source_number": 8,
+      "source_paragraph": 16480,
+      "text": "Shaxmat nazariyasi va tarixiga ko'ra, Endshpil - bu taxtada oz sonli donalar qolganda va shoh faol figuraga aylanganda boshlanadigan yakuniy bosqichmi?",
+      "options": {
+        "A": "Ha, keltirilgan tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 9,
+      "source_number": 9,
+      "source_paragraph": 16483,
+      "text": "Shaxmat nazariyasi va tarixiga ko'ra, Kesib olish (En passant) - bu ikki katak siljigan raqib piyodasini xuddi bir katak yurgandek urib olish qoidasimi?",
+      "options": {
+        "A": "Ha, keltirilgan tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 10,
+      "source_number": 10,
+      "source_paragraph": 16486,
+      "text": "Shaxmat nazariyasi va tarixiga ko'ra, Oq burchak qoidasi - bu taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoidami?",
+      "options": {
+        "A": "Ha, keltirilgan tasdiq to'g'ri",
+        "B": "Yo'q, bu tasdiq noto'g'ri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 11,
+      "source_number": 11,
+      "source_paragraph": 16490,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Shaxmatchi oila\n2) Ot\n3) Alfonso X risolasi\n\na) May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri\nb) Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh\nc) 1283 yilda Yevropada nashr etilgan birinchi shaxmat kitobi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 12,
+      "source_number": 12,
+      "source_paragraph": 16495,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) FIDE\n2) O'zgarish qoidasi\n3) Rustam Qosimjonov\n\na) Xalqaro shaxmat federatsiyasi qisqartmasi\nb) Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi\nc) 2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeyster",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 13,
+      "source_number": 13,
+      "source_paragraph": 16500,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Mahalla kubogi\n2) Sohibqiron kubogi\n3) Katta markaz\n\na) Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa\nb) Samarqand shahrida o'tkaziladigan an'anaviy xalqaro shaxmat turniri\nc) c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 14,
+      "source_number": 14,
+      "source_paragraph": 16505,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Uzun rokirovka\n2) x belgisi\n3) Mittelshpil\n\na) Shohning farzin yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati\nb) Shaxmat notatsiyasida raqib donasini urib olishni (yeyishni) anglatuvchi belgi\nc) Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 15,
+      "source_number": 15,
+      "source_paragraph": 16510,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Gipermodernizm\n2) Shoh\n3) Farzin\n\na) XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim\nb) O'yindagi eng muhim, taxtadan olinmaydigan va qiymatga ega bo'lmagan sipoh\nc) Qiymati 9 ta piyodaga teng bo'lgan va eng kuchli hisoblangan sipoh",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 16,
+      "source_number": 16,
+      "source_paragraph": 16515,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Kichik markaz\n2) Katta markaz\n3) 64 ta\n\na) d4, d5, e4, e5 kataklaridan iborat strategik ahamiyatga ega markaziy hudud\nb) c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon\nc) Shaxmat taxtasidagi oq va qora kataklarning umumiy soni",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 17,
+      "source_number": 17,
+      "source_paragraph": 16520,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Oq burchak qoidasi\n2) Farzin\n3) Rux\n\na) Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida\nb) Qiymati 9 ta piyodaga teng bo'lgan va eng kuchli hisoblangan sipoh\nc) Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 18,
+      "source_number": 18,
+      "source_paragraph": 16525,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Chiziqli mot\n2) Debyut\n3) Endshpil\n\na) Yolg'iz shohni ikkita rux bilan taxta chetiga qisib qo'yiladigan mot usuli\nb) Shaxmat partiyasining markaz uchun kurash olib boriladigan dastlabki 10-15 yurishi\nc) Taxtada oz sonli donalar qolganda va shoh faol figuraga aylanganda boshlanadigan yakuniy bosqich",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 19,
+      "source_number": 19,
+      "source_paragraph": 16530,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Oq burchak qoidasi\n2) Ot\n3) Shatranj\n\na) Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida\nb) Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh\nc) V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 20,
+      "source_number": 20,
+      "source_paragraph": 16535,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Chaturanga\n2) Oq burchak qoidasi\n3) FIDE\n\na) Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin\nb) Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida\nc) Xalqaro shaxmat federatsiyasi qisqartmasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 21,
+      "source_number": 21,
+      "source_paragraph": 16540,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) 0-0-0\n2) 20-iyul\n3) 64 ta\n\na) Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi\nb) BMT rezolyutsiyasiga muvofiq qabul qilingan Butunjahon shaxmat kuni\nc) Shaxmat taxtasidagi oq va qora kataklarning umumiy soni",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 22,
+      "source_number": 22,
+      "source_paragraph": 16545,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Katta markaz\n2) Debyut\n3) FIDE\n\na) c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon\nb) Shaxmat partiyasining markaz uchun kurash olib boriladigan dastlabki 10-15 yurishi\nc) Xalqaro shaxmat federatsiyasi qisqartmasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 23,
+      "source_number": 23,
+      "source_paragraph": 16550,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) x belgisi\n2) Alfonso X risolasi\n3) 20-iyul\n\na) Shaxmat notatsiyasida raqib donasini urib olishni (yeyishni) anglatuvchi belgi\nb) 1283 yilda Yevropada nashr etilgan birinchi shaxmat kitobi\nc) BMT rezolyutsiyasiga muvofiq qabul qilingan Butunjahon shaxmat kuni",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 24,
+      "source_number": 24,
+      "source_paragraph": 16555,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Shatranj\n2) Ibrohim Hamroqulov\n3) Endshpil\n\na) V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin\nb) 1998 yilda o'smirlar o'rtasida jahon chempionligini qo'lga kiritgan shaxmatchi\nc) Taxtada oz sonli donalar qolganda va shoh faol figuraga aylanganda boshlanadigan yakuniy bosqich",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 25,
+      "source_number": 25,
+      "source_paragraph": 16560,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Mahalla kubogi\n2) Shatranj\n3) Tentranja\n\na) Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa\nb) V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin\nc) IX-XV asrlarda chodir raqamlarining atamalari saqlangan shaxmat turi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 26,
+      "source_number": 26,
+      "source_paragraph": 16565,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Tentranja\n2) Chaturanga\n3) Ot\n\na) IX-XV asrlarda chodir raqamlarining atamalari saqlangan shaxmat turi\nb) Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin\nc) Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 27,
+      "source_number": 27,
+      "source_paragraph": 16570,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Shaxmatchi oila\n2) Ibrohim Hamroqulov\n3) # belgisi\n\na) May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri\nb) 1998 yilda o'smirlar o'rtasida jahon chempionligini qo'lga kiritgan shaxmatchi\nc) Shaxmat notatsiyasida raqib shohiga mot e'lon qilinganligini bildiruvchi yozuv belgisi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 28,
+      "source_number": 28,
+      "source_paragraph": 16575,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) + belgisi\n2) Pot\n3) Kesib olish (En passant)\n\na) Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi\nb) Shoh kisht ostida bo'lmagan, lekin o'yinchida qonuniy yurish imkoniyati yo'q bo'lgan durang holat\nc) Ikki katak siljigan raqib piyodasini xuddi bir katak yurgandek urib olish qoidasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 29,
+      "source_number": 29,
+      "source_paragraph": 16580,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Shatranj\n2) Al-Beruniy xalqaro turniri\n3) Tentranja\n\na) V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin\nb) Xiva shahrida tashkil etiladigan an'anaviy shaxmat turniri\nc) IX-XV asrlarda chodir raqamlarining atamalari saqlangan shaxmat turi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 30,
+      "source_number": 30,
+      "source_paragraph": 16585,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Georgiy A'zamov\n2) 0-0-0\n3) FIDE\n\na) 1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi\nb) Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi\nc) Xalqaro shaxmat federatsiyasi qisqartmasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 31,
+      "source_number": 31,
+      "source_paragraph": 16590,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Al-Beruniy xalqaro turniri\n2) Katta markaz\n3) Shatranj qoidasi\n\na) Xiva shahrida tashkil etiladigan an'anaviy shaxmat turniri\nb) c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon\nc) G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 32,
+      "source_number": 32,
+      "source_paragraph": 16595,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Georgiy A'zamov\n2) Mittelshpil\n3) Rux\n\na) 1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi\nb) Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi\nc) Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 33,
+      "source_number": 33,
+      "source_paragraph": 16600,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Qisqa rokirovka\n2) Farzin\n3) Mot\n\na) Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati\nb) Qiymati 9 ta piyodaga teng bo'lgan va eng kuchli hisoblangan sipoh\nc) Shoh kisht ostida bo'lib, himoyalanish yoki qochish imkoni qolmagan mag'lubiyat holati",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 34,
+      "source_number": 34,
+      "source_paragraph": 16605,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Qisqa rokirovka\n2) Rustam Qosimjonov\n3) 0-0\n\na) Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati\nb) 2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeyster\nc) Shaxmat notatsiyasida qisqa rokirovkaning qabul qilingan ifodalanishi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 35,
+      "source_number": 35,
+      "source_paragraph": 16610,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Alfonso X risolasi\n2) Chaturanga\n3) Mittelshpil\n\na) 1283 yilda Yevropada nashr etilgan birinchi shaxmat kitobi\nb) Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin\nc) Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 36,
+      "source_number": 36,
+      "source_paragraph": 16615,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Shatranj qoidasi\n2) Qisqa rokirovka\n3) Mittelshpil\n\na) G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi\nb) Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati\nc) Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 37,
+      "source_number": 37,
+      "source_paragraph": 16620,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Mahalla kubogi\n2) Mittelshpil\n3) Oq burchak qoidasi\n\na) Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa\nb) Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi\nc) Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 38,
+      "source_number": 38,
+      "source_paragraph": 16625,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Sohibqiron kubogi\n2) Rustam Qosimjonov\n3) # belgisi\n\na) Samarqand shahrida o'tkaziladigan an'anaviy xalqaro shaxmat turniri\nb) 2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeyster\nc) Shaxmat notatsiyasida raqib shohiga mot e'lon qilinganligini bildiruvchi yozuv belgisi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 39,
+      "source_number": 39,
+      "source_paragraph": 16630,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Rux\n2) Xalqaro shaxmat akademiyasi\n3) Ot\n\na) Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh\nb) Shaxmat bo'yicha respublika ixtisoslashtirilgan maktabi negizida 2019 yil tashkil etilgan muassasa\nc) Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 40,
+      "source_number": 40,
+      "source_paragraph": 16635,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Xalqaro shaxmat akademiyasi\n2) Oq burchak qoidasi\n3) Pot\n\na) Shaxmat bo'yicha respublika ixtisoslashtirilgan maktabi negizida 2019 yil tashkil etilgan muassasa\nb) Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida\nc) Shoh kisht ostida bo'lmagan, lekin o'yinchida qonuniy yurish imkoniyati yo'q bo'lgan durang holat",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 41,
+      "source_number": 41,
+      "source_paragraph": 16640,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Fil\n2) Oq burchak qoidasi\n3) Alfonso X risolasi\n\na) Qiymati 3 ta piyodaga teng, faqat diagonal bo'yicha harakatlanadigan sipoh\nb) Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida\nc) 1283 yilda Yevropada nashr etilgan birinchi shaxmat kitobi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 42,
+      "source_number": 42,
+      "source_paragraph": 16645,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Chaturanga\n2) 64 ta\n3) Shatranj qoidasi\n\na) Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin\nb) Shaxmat taxtasidagi oq va qora kataklarning umumiy soni\nc) G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 43,
+      "source_number": 43,
+      "source_paragraph": 16650,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) FIDE\n2) Uzun rokirovka\n3) Chaturanga\n\na) Xalqaro shaxmat federatsiyasi qisqartmasi\nb) Shohning farzin yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati\nc) Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 44,
+      "source_number": 44,
+      "source_paragraph": 16655,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Qisqa rokirovka\n2) Shatranj\n3) Uzun rokirovka\n\na) Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati\nb) V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin\nc) Shohning farzin yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 45,
+      "source_number": 45,
+      "source_paragraph": 16660,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Debyut\n2) Endshpil\n3) Farzin\n\na) Shaxmat partiyasining markaz uchun kurash olib boriladigan dastlabki 10-15 yurishi\nb) Taxtada oz sonli donalar qolganda va shoh faol figuraga aylanganda boshlanadigan yakuniy bosqich\nc) Qiymati 9 ta piyodaga teng bo'lgan va eng kuchli hisoblangan sipoh",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 46,
+      "source_number": 46,
+      "source_paragraph": 16665,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) 0-0-0\n2) Shaxmatchi oila\n3) A. Grushevskiy\n\na) Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi\nb) May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri\nc) O'zbekiston erkaklar shaxmat chempionatida eng ko'p (8 marta) g'olib bo'lgan sportchi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 47,
+      "source_number": 47,
+      "source_paragraph": 16670,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Ashtapada\n2) Shaxmatchi oila\n3) Uzun rokirovka\n\na) Qadimgi Hindistonda 64 katakli shaxmat taxtasining nomlanishi\nb) May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri\nc) Shohning farzin yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 48,
+      "source_number": 48,
+      "source_paragraph": 16675,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Al-Beruniy xalqaro turniri\n2) Ashtapada\n3) Endshpil\n\na) Xiva shahrida tashkil etiladigan an'anaviy shaxmat turniri\nb) Qadimgi Hindistonda 64 katakli shaxmat taxtasining nomlanishi\nc) Taxtada oz sonli donalar qolganda va shoh faol figuraga aylanganda boshlanadigan yakuniy bosqich",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 49,
+      "source_number": 49,
+      "source_paragraph": 16680,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Shatranj qoidasi\n2) + belgisi\n3) Chiziqli mot\n\na) G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi\nb) Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi\nc) Yolg'iz shohni ikkita rux bilan taxta chetiga qisib qo'yiladigan mot usuli",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 50,
+      "source_number": 50,
+      "source_paragraph": 16685,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Endshpil\n2) Fil\n3) A. Grushevskiy\n\na) Taxtada oz sonli donalar qolganda va shoh faol figuraga aylanganda boshlanadigan yakuniy bosqich\nb) Qiymati 3 ta piyodaga teng, faqat diagonal bo'yicha harakatlanadigan sipoh\nc) O'zbekiston erkaklar shaxmat chempionatida eng ko'p (8 marta) g'olib bo'lgan sportchi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 51,
+      "source_number": 51,
+      "source_paragraph": 16690,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Mahalla kubogi\n2) Chaturanga\n3) Qisqa rokirovka\n\na) Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa\nb) Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin\nc) Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 52,
+      "source_number": 52,
+      "source_paragraph": 16695,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Chaturanga\n2) Gipermodernizm\n3) Al-Beruniy xalqaro turniri\n\na) Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin\nb) XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim\nc) Xiva shahrida tashkil etiladigan an'anaviy shaxmat turniri",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 53,
+      "source_number": 53,
+      "source_paragraph": 16700,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) 64 ta\n2) x belgisi\n3) Qisqa rokirovka\n\na) Shaxmat taxtasidagi oq va qora kataklarning umumiy soni\nb) Shaxmat notatsiyasida raqib donasini urib olishni (yeyishni) anglatuvchi belgi\nc) Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 54,
+      "source_number": 54,
+      "source_paragraph": 16705,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Shatranj\n2) Xalqaro shaxmat akademiyasi\n3) Kesib olish (En passant)\n\na) V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin\nb) Shaxmat bo'yicha respublika ixtisoslashtirilgan maktabi negizida 2019 yil tashkil etilgan muassasa\nc) Ikki katak siljigan raqib piyodasini xuddi bir katak yurgandek urib olish qoidasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 55,
+      "source_number": 55,
+      "source_paragraph": 16710,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Katta markaz\n2) Chiziqli mot\n3) Sohibqiron kubogi\n\na) c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon\nb) Yolg'iz shohni ikkita rux bilan taxta chetiga qisib qo'yiladigan mot usuli\nc) Samarqand shahrida o'tkaziladigan an'anaviy xalqaro shaxmat turniri",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 56,
+      "source_number": 56,
+      "source_paragraph": 16715,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Endshpil\n2) Ot\n3) Pot\n\na) Taxtada oz sonli donalar qolganda va shoh faol figuraga aylanganda boshlanadigan yakuniy bosqich\nb) Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh\nc) Shoh kisht ostida bo'lmagan, lekin o'yinchida qonuniy yurish imkoniyati yo'q bo'lgan durang holat",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 57,
+      "source_number": 57,
+      "source_paragraph": 16720,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) A. Grushevskiy\n2) Shoh\n3) 0-0-0\n\na) O'zbekiston erkaklar shaxmat chempionatida eng ko'p (8 marta) g'olib bo'lgan sportchi\nb) O'yindagi eng muhim, taxtadan olinmaydigan va qiymatga ega bo'lmagan sipoh\nc) Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 58,
+      "source_number": 58,
+      "source_paragraph": 16725,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) # belgisi\n2) Georgiy A'zamov\n3) Kesib olish (En passant)\n\na) Shaxmat notatsiyasida raqib shohiga mot e'lon qilinganligini bildiruvchi yozuv belgisi\nb) 1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi\nc) Ikki katak siljigan raqib piyodasini xuddi bir katak yurgandek urib olish qoidasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 59,
+      "source_number": 59,
+      "source_paragraph": 16730,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Shatranj\n2) Rux\n3) FIDE\n\na) V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin\nb) Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh\nc) Xalqaro shaxmat federatsiyasi qisqartmasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 60,
+      "source_number": 60,
+      "source_paragraph": 16735,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Endshpil\n2) Xalqaro shaxmat akademiyasi\n3) Shatranj qoidasi\n\na) Taxtada oz sonli donalar qolganda va shoh faol figuraga aylanganda boshlanadigan yakuniy bosqich\nb) Shaxmat bo'yicha respublika ixtisoslashtirilgan maktabi negizida 2019 yil tashkil etilgan muassasa\nc) G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 61,
+      "source_number": 61,
+      "source_paragraph": 16740,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) 64 ta\n2) Sohibqiron kubogi\n3) FIDE\n\na) Shaxmat taxtasidagi oq va qora kataklarning umumiy soni\nb) Samarqand shahrida o'tkaziladigan an'anaviy xalqaro shaxmat turniri\nc) Xalqaro shaxmat federatsiyasi qisqartmasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 62,
+      "source_number": 62,
+      "source_paragraph": 16745,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Chaturanga\n2) Al-Beruniy xalqaro turniri\n3) FIDE\n\na) Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin\nb) Xiva shahrida tashkil etiladigan an'anaviy shaxmat turniri\nc) Xalqaro shaxmat federatsiyasi qisqartmasi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 63,
+      "source_number": 63,
+      "source_paragraph": 16750,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Katta markaz\n2) x belgisi\n3) Xalqaro shaxmat akademiyasi\n\na) c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon\nb) Shaxmat notatsiyasida raqib donasini urib olishni (yeyishni) anglatuvchi belgi\nc) Shaxmat bo'yicha respublika ixtisoslashtirilgan maktabi negizida 2019 yil tashkil etilgan muassasa",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 64,
+      "source_number": 64,
+      "source_paragraph": 16755,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Georgiy A'zamov\n2) Ashtapada\n3) 0-0\n\na) 1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi\nb) Qadimgi Hindistonda 64 katakli shaxmat taxtasining nomlanishi\nc) Shaxmat notatsiyasida qisqa rokirovkaning qabul qilingan ifodalanishi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 65,
+      "source_number": 65,
+      "source_paragraph": 16760,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) A. Grushevskiy\n2) Shaxmatchi oila\n3) Georgiy A'zamov\n\na) O'zbekiston erkaklar shaxmat chempionatida eng ko'p (8 marta) g'olib bo'lgan sportchi\nb) May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri\nc) 1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 66,
+      "source_number": 66,
+      "source_paragraph": 16765,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Shatranj\n2) A. Grushevskiy\n3) Mahalla kubogi\n\na) V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin\nb) O'zbekiston erkaklar shaxmat chempionatida eng ko'p (8 marta) g'olib bo'lgan sportchi\nc) Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 67,
+      "source_number": 67,
+      "source_paragraph": 16770,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Mittelshpil\n2) Shatranj\n3) Ot\n\na) Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi\nb) V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin\nc) Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 68,
+      "source_number": 68,
+      "source_paragraph": 16775,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) O'zgarish qoidasi\n2) Qisqa rokirovka\n3) Katta markaz\n\na) Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi\nb) Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati\nc) c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 69,
+      "source_number": 69,
+      "source_paragraph": 16780,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Shaxmatchi oila\n2) Mahalla kubogi\n3) Katta markaz\n\na) May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri\nb) Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa\nc) c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 70,
+      "source_number": 70,
+      "source_paragraph": 16785,
+      "text": "Quyidagi atama, shaxs yoki qoidalarni ta'riflari bilan to'g'ri moslashtiring:\n1) Kichik markaz\n2) Al-Beruniy xalqaro turniri\n3) 0-0-0\n\na) d4, d5, e4, e5 kataklaridan iborat strategik ahamiyatga ega markaziy hudud\nb) Xiva shahrida tashkil etiladigan an'anaviy shaxmat turniri\nc) Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi",
+      "options": {
+        "A": "1-a, 2-b, 3-c",
+        "B": "1-b, 2-a, 3-c",
+        "C": "1-c, 2-b, 3-a",
+        "D": "1-a, 2-c, 3-b"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 71,
+      "source_number": 71,
+      "source_paragraph": 16791,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Motni aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Shoh kisht ostida bo'lib, himoyalanish yoki qochish imkoni qolmagan mag'lubiyat holati",
+        "B": "Shoh kisht ostida bo'lmagan, lekin o'yinchida qonuniy yurish imkoniyati yo'q bo'lgan durang holat",
+        "C": "XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim",
+        "D": "Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 72,
+      "source_number": 72,
+      "source_paragraph": 16796,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Samarqand shahrida o'tkaziladigan an'anaviy xalqaro shaxmat turniri?",
+      "options": {
+        "A": "Samarqand shahrida o'tkaziladigan an'anaviy xalqaro shaxmat turniri",
+        "B": "Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi",
+        "C": "1998 yilda o'smirlar o'rtasida jahon chempionligini qo'lga kiritgan shaxmatchi",
+        "D": "Shaxmat taxtasidagi oq va qora kataklarning umumiy soni"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 73,
+      "source_number": 73,
+      "source_paragraph": 16801,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: 2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeyster?",
+      "options": {
+        "A": "Rustam Qosimjonov",
+        "B": "FIDE",
+        "C": "L. Pinchuk",
+        "D": "Oq burchak qoidasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 74,
+      "source_number": 74,
+      "source_paragraph": 16806,
+      "text": "Qaysi javobda + belgisi tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi",
+        "B": "Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "C": "Shaxmat notatsiyasida raqib shohiga mot e'lon qilinganligini bildiruvchi yozuv belgisi",
+        "D": "IX-XV asrlarda chodir raqamlarining atamalari saqlangan shaxmat turi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 75,
+      "source_number": 75,
+      "source_paragraph": 16811,
+      "text": "Qaysi javobda L. Pinchuk tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "O'zbekiston ayollar chempionatida 8 martadan g'oliblikni qo'lga kiritgan sportchi",
+        "B": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh",
+        "C": "Shohning farzin yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "D": "d4, d5, e4, e5 kataklaridan iborat strategik ahamiyatga ega markaziy hudud"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 76,
+      "source_number": 76,
+      "source_paragraph": 16816,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi?",
+      "options": {
+        "A": "G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi",
+        "B": "1998 yilda o'smirlar o'rtasida jahon chempionligini qo'lga kiritgan shaxmatchi",
+        "C": "1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi",
+        "D": "d4, d5, e4, e5 kataklaridan iborat strategik ahamiyatga ega markaziy hudud"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 77,
+      "source_number": 77,
+      "source_paragraph": 16821,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi?",
+      "options": {
+        "A": "0-0-0",
+        "B": "Debyut",
+        "C": "Mittelshpil",
+        "D": "Mot"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 78,
+      "source_number": 78,
+      "source_paragraph": 16826,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: IX-XV asrlarda chodir raqamlarining atamalari saqlangan shaxmat turi?",
+      "options": {
+        "A": "Tentranja",
+        "B": "+ belgisi",
+        "C": "Shoh",
+        "D": "Rustam Qosimjonov"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 79,
+      "source_number": 79,
+      "source_paragraph": 16831,
+      "text": "Qaysi javobda FIDE tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Xalqaro shaxmat federatsiyasi qisqartmasi",
+        "B": "1998 yilda o'smirlar o'rtasida jahon chempionligini qo'lga kiritgan shaxmatchi",
+        "C": "Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida",
+        "D": "Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 80,
+      "source_number": 80,
+      "source_paragraph": 16836,
+      "text": "Qaysi javobda 64 ta tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Shaxmat taxtasidagi oq va qora kataklarning umumiy soni",
+        "B": "May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri",
+        "C": "2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeyster",
+        "D": "Shaxmat bo'yicha respublika ixtisoslashtirilgan maktabi negizida 2019 yil tashkil etilgan muassasa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 81,
+      "source_number": 81,
+      "source_paragraph": 16841,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri 20-iyulni aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "BMT rezolyutsiyasiga muvofiq qabul qilingan Butunjahon shaxmat kuni",
+        "B": "G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi",
+        "C": "Yolg'iz shohni ikkita rux bilan taxta chetiga qisib qo'yiladigan mot usuli",
+        "D": "V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 82,
+      "source_number": 82,
+      "source_paragraph": 16846,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh?",
+      "options": {
+        "A": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh",
+        "B": "Yolg'iz shohni ikkita rux bilan taxta chetiga qisib qo'yiladigan mot usuli",
+        "C": "BMT rezolyutsiyasiga muvofiq qabul qilingan Butunjahon shaxmat kuni",
+        "D": "Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 83,
+      "source_number": 83,
+      "source_paragraph": 16851,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Farzinni aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Qiymati 9 ta piyodaga teng bo'lgan va eng kuchli hisoblangan sipoh",
+        "B": "Xiva shahrida tashkil etiladigan an'anaviy shaxmat turniri",
+        "C": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh",
+        "D": "XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 84,
+      "source_number": 84,
+      "source_paragraph": 16856,
+      "text": "Qaysi javobda Ot tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh",
+        "B": "Shaxmat partiyasining markaz uchun kurash olib boriladigan dastlabki 10-15 yurishi",
+        "C": "Shohning farzin yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "D": "Yolg'iz shohni ikkita rux bilan taxta chetiga qisib qo'yiladigan mot usuli"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 85,
+      "source_number": 85,
+      "source_paragraph": 16861,
+      "text": "Qaysi javobda Ashtapada tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Qadimgi Hindistonda 64 katakli shaxmat taxtasining nomlanishi",
+        "B": "Shaxmat notatsiyasida raqib donasini urib olishni (yeyishni) anglatuvchi belgi",
+        "C": "Oqibatini o'ylamasdan qilingan xatolar tufayli atigi 4 yurishda qo'yiladigan eng tezkor motlardan biri",
+        "D": "Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 86,
+      "source_number": 86,
+      "source_paragraph": 16866,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi?",
+      "options": {
+        "A": "Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi",
+        "B": "1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi",
+        "C": "Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi",
+        "D": "Qiymati 9 ta piyodaga teng bo'lgan va eng kuchli hisoblangan sipoh"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 87,
+      "source_number": 87,
+      "source_paragraph": 16871,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim?",
+      "options": {
+        "A": "XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim",
+        "B": "O'zbekiston ayollar chempionatida 8 martadan g'oliblikni qo'lga kiritgan sportchi",
+        "C": "Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi",
+        "D": "Qiymati 9 ta piyodaga teng bo'lgan va eng kuchli hisoblangan sipoh"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 88,
+      "source_number": 88,
+      "source_paragraph": 16876,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa?",
+      "options": {
+        "A": "Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa",
+        "B": "Oqibatini o'ylamasdan qilingan xatolar tufayli atigi 4 yurishda qo'yiladigan eng tezkor motlardan biri",
+        "C": "2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeyster",
+        "D": "Shaxmat notatsiyasida raqib shohiga mot e'lon qilinganligini bildiruvchi yozuv belgisi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 89,
+      "source_number": 89,
+      "source_paragraph": 16881,
+      "text": "Otning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh",
+        "B": "XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim",
+        "C": "Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "D": "Oqibatini o'ylamasdan qilingan xatolar tufayli atigi 4 yurishda qo'yiladigan eng tezkor motlardan biri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 90,
+      "source_number": 90,
+      "source_paragraph": 16886,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin?",
+      "options": {
+        "A": "V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin",
+        "B": "Shaxmat partiyasining markaz uchun kurash olib boriladigan dastlabki 10-15 yurishi",
+        "C": "Oqibatini o'ylamasdan qilingan xatolar tufayli atigi 4 yurishda qo'yiladigan eng tezkor motlardan biri",
+        "D": "G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 91,
+      "source_number": 91,
+      "source_paragraph": 16891,
+      "text": "FIDEning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "Xalqaro shaxmat federatsiyasi qisqartmasi",
+        "B": "d4, d5, e4, e5 kataklaridan iborat strategik ahamiyatga ega markaziy hudud",
+        "C": "O'zbekiston ayollar chempionatida 8 martadan g'oliblikni qo'lga kiritgan sportchi",
+        "D": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 92,
+      "source_number": 92,
+      "source_paragraph": 16896,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Shaxmat partiyasining markaz uchun kurash olib boriladigan dastlabki 10-15 yurishi?",
+      "options": {
+        "A": "Shaxmat partiyasining markaz uchun kurash olib boriladigan dastlabki 10-15 yurishi",
+        "B": "Shaxmat notatsiyasida raqib donasini urib olishni (yeyishni) anglatuvchi belgi",
+        "C": "Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "D": "c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 93,
+      "source_number": 93,
+      "source_paragraph": 16901,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: d4, d5, e4, e5 kataklaridan iborat strategik ahamiyatga ega markaziy hudud?",
+      "options": {
+        "A": "Kichik markaz",
+        "B": "L. Pinchuk",
+        "C": "Chiziqli mot",
+        "D": "Uzun rokirovka"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 94,
+      "source_number": 94,
+      "source_paragraph": 16906,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Shoh kisht ostida bo'lib, himoyalanish yoki qochish imkoni qolmagan mag'lubiyat holati?",
+      "options": {
+        "A": "Shoh kisht ostida bo'lib, himoyalanish yoki qochish imkoni qolmagan mag'lubiyat holati",
+        "B": "Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh",
+        "C": "Shaxmat bo'yicha respublika ixtisoslashtirilgan maktabi negizida 2019 yil tashkil etilgan muassasa",
+        "D": "Shaxmat partiyasining markaz uchun kurash olib boriladigan dastlabki 10-15 yurishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 95,
+      "source_number": 95,
+      "source_paragraph": 16911,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: 1283 yilda Yevropada nashr etilgan birinchi shaxmat kitobi?",
+      "options": {
+        "A": "1283 yilda Yevropada nashr etilgan birinchi shaxmat kitobi",
+        "B": "V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin",
+        "C": "c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon",
+        "D": "Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 96,
+      "source_number": 96,
+      "source_paragraph": 16916,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Farzinni aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Qiymati 9 ta piyodaga teng bo'lgan va eng kuchli hisoblangan sipoh",
+        "B": "Ikki katak siljigan raqib piyodasini xuddi bir katak yurgandek urib olish qoidasi",
+        "C": "Shaxmat notatsiyasida raqib donasini urib olishni (yeyishni) anglatuvchi belgi",
+        "D": "G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 97,
+      "source_number": 97,
+      "source_paragraph": 16921,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa?",
+      "options": {
+        "A": "Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa",
+        "B": "Shaxmat notatsiyasida qisqa rokirovkaning qabul qilingan ifodalanishi",
+        "C": "V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin",
+        "D": "Xalqaro shaxmat federatsiyasi qisqartmasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 98,
+      "source_number": 98,
+      "source_paragraph": 16926,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida?",
+      "options": {
+        "A": "Oq burchak qoidasi",
+        "B": "Sohibqiron kubogi",
+        "C": "Al-Beruniy xalqaro turniri",
+        "D": "0-0"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 99,
+      "source_number": 99,
+      "source_paragraph": 16931,
+      "text": "20-iyulning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "BMT rezolyutsiyasiga muvofiq qabul qilingan Butunjahon shaxmat kuni",
+        "B": "Shaxmat notatsiyasida qisqa rokirovkaning qabul qilingan ifodalanishi",
+        "C": "Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi",
+        "D": "Yolg'iz shohni ikkita rux bilan taxta chetiga qisib qo'yiladigan mot usuli"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 100,
+      "source_number": 100,
+      "source_paragraph": 16936,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: 1998 yilda o'smirlar o'rtasida jahon chempionligini qo'lga kiritgan shaxmatchi?",
+      "options": {
+        "A": "1998 yilda o'smirlar o'rtasida jahon chempionligini qo'lga kiritgan shaxmatchi",
+        "B": "Shoh kisht ostida bo'lib, himoyalanish yoki qochish imkoni qolmagan mag'lubiyat holati",
+        "C": "G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi",
+        "D": "Shaxmat notatsiyasida raqib donasini urib olishni (yeyishni) anglatuvchi belgi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 101,
+      "source_number": 101,
+      "source_paragraph": 16941,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi?",
+      "options": {
+        "A": "Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi",
+        "B": "Xiva shahrida tashkil etiladigan an'anaviy shaxmat turniri",
+        "C": "Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "D": "O'zbekiston erkaklar shaxmat chempionatida eng ko'p (8 marta) g'olib bo'lgan sportchi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 102,
+      "source_number": 102,
+      "source_paragraph": 16946,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin?",
+      "options": {
+        "A": "Chaturanga",
+        "B": "Shoh",
+        "C": "Endshpil",
+        "D": "Kichik markaz"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 103,
+      "source_number": 103,
+      "source_paragraph": 16951,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Uzun rokirovkani aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Shohning farzin yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "B": "2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeyster",
+        "C": "Shaxmat taxtasidagi oq va qora kataklarning umumiy soni",
+        "D": "Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 104,
+      "source_number": 104,
+      "source_paragraph": 16956,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Shaxmat bo'yicha respublika ixtisoslashtirilgan maktabi negizida 2019 yil tashkil etilgan muassasa?",
+      "options": {
+        "A": "Shaxmat bo'yicha respublika ixtisoslashtirilgan maktabi negizida 2019 yil tashkil etilgan muassasa",
+        "B": "Shaxmat notatsiyasida raqib donasini urib olishni (yeyishni) anglatuvchi belgi",
+        "C": "BMT rezolyutsiyasiga muvofiq qabul qilingan Butunjahon shaxmat kuni",
+        "D": "Qadimgi Hindistonda 64 katakli shaxmat taxtasining nomlanishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 105,
+      "source_number": 105,
+      "source_paragraph": 16961,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Shaxmat notatsiyasida qisqa rokirovkaning qabul qilingan ifodalanishi?",
+      "options": {
+        "A": "Shaxmat notatsiyasida qisqa rokirovkaning qabul qilingan ifodalanishi",
+        "B": "G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi",
+        "C": "Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh",
+        "D": "Oqibatini o'ylamasdan qilingan xatolar tufayli atigi 4 yurishda qo'yiladigan eng tezkor motlardan biri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 106,
+      "source_number": 106,
+      "source_paragraph": 16966,
+      "text": "Qaysi javobda Shatranj qoidasi tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi",
+        "B": "O'zbekiston ayollar chempionatida 8 martadan g'oliblikni qo'lga kiritgan sportchi",
+        "C": "Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi",
+        "D": "Qadimgi Hindistonda 64 katakli shaxmat taxtasining nomlanishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 107,
+      "source_number": 107,
+      "source_paragraph": 16971,
+      "text": "Sohibqiron kubogining shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "Samarqand shahrida o'tkaziladigan an'anaviy xalqaro shaxmat turniri",
+        "B": "Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin",
+        "C": "Qiymati 9 ta piyodaga teng bo'lgan va eng kuchli hisoblangan sipoh",
+        "D": "XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 108,
+      "source_number": 108,
+      "source_paragraph": 16976,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Bolalarga xos motni aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Oqibatini o'ylamasdan qilingan xatolar tufayli atigi 4 yurishda qo'yiladigan eng tezkor motlardan biri",
+        "B": "Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin",
+        "C": "Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi",
+        "D": "Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 109,
+      "source_number": 109,
+      "source_paragraph": 16981,
+      "text": "Potning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "Shoh kisht ostida bo'lmagan, lekin o'yinchida qonuniy yurish imkoniyati yo'q bo'lgan durang holat",
+        "B": "Shaxmat partiyasining markaz uchun kurash olib boriladigan dastlabki 10-15 yurishi",
+        "C": "1283 yilda Yevropada nashr etilgan birinchi shaxmat kitobi",
+        "D": "Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 110,
+      "source_number": 110,
+      "source_paragraph": 16986,
+      "text": "Qaysi javobda Tentranja tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "IX-XV asrlarda chodir raqamlarining atamalari saqlangan shaxmat turi",
+        "B": "Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi",
+        "C": "Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa",
+        "D": "Ikki katak siljigan raqib piyodasini xuddi bir katak yurgandek urib olish qoidasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 111,
+      "source_number": 111,
+      "source_paragraph": 16991,
+      "text": "Ruxning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh",
+        "B": "Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi",
+        "C": "1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi",
+        "D": "Shaxmat taxtasidagi oq va qora kataklarning umumiy soni"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 112,
+      "source_number": 112,
+      "source_paragraph": 16996,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Qiymati 3 ta piyodaga teng, faqat diagonal bo'yicha harakatlanadigan sipoh?",
+      "options": {
+        "A": "Qiymati 3 ta piyodaga teng, faqat diagonal bo'yicha harakatlanadigan sipoh",
+        "B": "Shoh kisht ostida bo'lib, himoyalanish yoki qochish imkoni qolmagan mag'lubiyat holati",
+        "C": "O'yindagi eng muhim, taxtadan olinmaydigan va qiymatga ega bo'lmagan sipoh",
+        "D": "2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeyster"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 113,
+      "source_number": 113,
+      "source_paragraph": 17001,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: O'zbekiston ayollar chempionatida 8 martadan g'oliblikni qo'lga kiritgan sportchi?",
+      "options": {
+        "A": "L. Pinchuk",
+        "B": "FIDE",
+        "C": "Georgiy A'zamov",
+        "D": "Pot"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 114,
+      "source_number": 114,
+      "source_paragraph": 17006,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: O'yindagi eng muhim, taxtadan olinmaydigan va qiymatga ega bo'lmagan sipoh?",
+      "options": {
+        "A": "Shoh",
+        "B": "Katta markaz",
+        "C": "Rustam Qosimjonov",
+        "D": "A. Grushevskiy"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 115,
+      "source_number": 115,
+      "source_paragraph": 17011,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi?",
+      "options": {
+        "A": "O'zgarish qoidasi",
+        "B": "Fil",
+        "C": "Oq burchak qoidasi",
+        "D": "0-0"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 116,
+      "source_number": 116,
+      "source_paragraph": 17016,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Georgiy A'zamovni aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi",
+        "B": "Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi",
+        "C": "1283 yilda Yevropada nashr etilgan birinchi shaxmat kitobi",
+        "D": "May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 117,
+      "source_number": 117,
+      "source_paragraph": 17021,
+      "text": "+ belgisining shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi",
+        "B": "Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "C": "Shaxmat partiyasining markaz uchun kurash olib boriladigan dastlabki 10-15 yurishi",
+        "D": "XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 118,
+      "source_number": 118,
+      "source_paragraph": 17026,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi?",
+      "options": {
+        "A": "Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi",
+        "B": "O'zbekiston ayollar chempionatida 8 martadan g'oliblikni qo'lga kiritgan sportchi",
+        "C": "Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi",
+        "D": "Xalqaro shaxmat federatsiyasi qisqartmasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 119,
+      "source_number": 119,
+      "source_paragraph": 17031,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: Taxtada oz sonli donalar qolganda va shoh faol figuraga aylanganda boshlanadigan yakuniy bosqich?",
+      "options": {
+        "A": "Endshpil",
+        "B": "64 ta",
+        "C": "L. Pinchuk",
+        "D": "Al-Beruniy xalqaro turniri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 120,
+      "source_number": 120,
+      "source_paragraph": 17036,
+      "text": "Qaysi javobda Qisqa rokirovka tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "B": "G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi",
+        "C": "O'zbekiston erkaklar shaxmat chempionatida eng ko'p (8 marta) g'olib bo'lgan sportchi",
+        "D": "Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 121,
+      "source_number": 121,
+      "source_paragraph": 17041,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Ikki katak siljigan raqib piyodasini xuddi bir katak yurgandek urib olish qoidasi?",
+      "options": {
+        "A": "Ikki katak siljigan raqib piyodasini xuddi bir katak yurgandek urib olish qoidasi",
+        "B": "1283 yilda Yevropada nashr etilgan birinchi shaxmat kitobi",
+        "C": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh",
+        "D": "Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 122,
+      "source_number": 122,
+      "source_paragraph": 17046,
+      "text": "Katta markazning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon",
+        "B": "Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi",
+        "C": "Oqibatini o'ylamasdan qilingan xatolar tufayli atigi 4 yurishda qo'yiladigan eng tezkor motlardan biri",
+        "D": "Shoh kisht ostida bo'lib, himoyalanish yoki qochish imkoni qolmagan mag'lubiyat holati"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 123,
+      "source_number": 123,
+      "source_paragraph": 17051,
+      "text": "x belgisining shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "Shaxmat notatsiyasida raqib donasini urib olishni (yeyishni) anglatuvchi belgi",
+        "B": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh",
+        "C": "O'zbekiston erkaklar shaxmat chempionatida eng ko'p (8 marta) g'olib bo'lgan sportchi",
+        "D": "Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 124,
+      "source_number": 124,
+      "source_paragraph": 17056,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Shaxmat notatsiyasida raqib shohiga mot e'lon qilinganligini bildiruvchi yozuv belgisi?",
+      "options": {
+        "A": "Shaxmat notatsiyasida raqib shohiga mot e'lon qilinganligini bildiruvchi yozuv belgisi",
+        "B": "Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi",
+        "C": "Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin",
+        "D": "Xalqaro shaxmat federatsiyasi qisqartmasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 125,
+      "source_number": 125,
+      "source_paragraph": 17061,
+      "text": "Qaysi javobda Shaxmatchi oila tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri",
+        "B": "1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi",
+        "C": "Qiymati 9 ta piyodaga teng bo'lgan va eng kuchli hisoblangan sipoh",
+        "D": "Shaxmat partiyasining markaz uchun kurash olib boriladigan dastlabki 10-15 yurishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 126,
+      "source_number": 126,
+      "source_paragraph": 17066,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Gipermodernizmni aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim",
+        "B": "Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi",
+        "C": "Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa",
+        "D": "1283 yilda Yevropada nashr etilgan birinchi shaxmat kitobi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 127,
+      "source_number": 127,
+      "source_paragraph": 17071,
+      "text": "Qaysi javobda Rustam Qosimjonov tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeyster",
+        "B": "Samarqand shahrida o'tkaziladigan an'anaviy xalqaro shaxmat turniri",
+        "C": "Ikki katak siljigan raqib piyodasini xuddi bir katak yurgandek urib olish qoidasi",
+        "D": "XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 128,
+      "source_number": 128,
+      "source_paragraph": 17076,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri 64 tani aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Shaxmat taxtasidagi oq va qora kataklarning umumiy soni",
+        "B": "Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi",
+        "C": "Shaxmat partiyasining markaz uchun kurash olib boriladigan dastlabki 10-15 yurishi",
+        "D": "c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 129,
+      "source_number": 129,
+      "source_paragraph": 17081,
+      "text": "Chiziqli motning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "Yolg'iz shohni ikkita rux bilan taxta chetiga qisib qo'yiladigan mot usuli",
+        "B": "Oqibatini o'ylamasdan qilingan xatolar tufayli atigi 4 yurishda qo'yiladigan eng tezkor motlardan biri",
+        "C": "1998 yilda o'smirlar o'rtasida jahon chempionligini qo'lga kiritgan shaxmatchi",
+        "D": "Shaxmat bo'yicha respublika ixtisoslashtirilgan maktabi negizida 2019 yil tashkil etilgan muassasa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 130,
+      "source_number": 130,
+      "source_paragraph": 17086,
+      "text": "Qaysi javobda Al-Beruniy xalqaro turniri tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Xiva shahrida tashkil etiladigan an'anaviy shaxmat turniri",
+        "B": "O'zbekiston ayollar chempionatida 8 martadan g'oliblikni qo'lga kiritgan sportchi",
+        "C": "O'yindagi eng muhim, taxtadan olinmaydigan va qiymatga ega bo'lmagan sipoh",
+        "D": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 131,
+      "source_number": 131,
+      "source_paragraph": 17091,
+      "text": "Qaysi javobda A. Grushevskiy tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "O'zbekiston erkaklar shaxmat chempionatida eng ko'p (8 marta) g'olib bo'lgan sportchi",
+        "B": "Shaxmat taxtasidagi oq va qora kataklarning umumiy soni",
+        "C": "BMT rezolyutsiyasiga muvofiq qabul qilingan Butunjahon shaxmat kuni",
+        "D": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 132,
+      "source_number": 132,
+      "source_paragraph": 17096,
+      "text": "Qaysi javobda Ashtapada tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Qadimgi Hindistonda 64 katakli shaxmat taxtasining nomlanishi",
+        "B": "Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi",
+        "C": "d4, d5, e4, e5 kataklaridan iborat strategik ahamiyatga ega markaziy hudud",
+        "D": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 133,
+      "source_number": 133,
+      "source_paragraph": 17101,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: Shohning farzin yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati?",
+      "options": {
+        "A": "Uzun rokirovka",
+        "B": "# belgisi",
+        "C": "Shatranj qoidasi",
+        "D": "Oq burchak qoidasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 134,
+      "source_number": 134,
+      "source_paragraph": 17106,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Mahalla kubogini aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa",
+        "B": "Qadimgi Hindistonda 64 katakli shaxmat taxtasining nomlanishi",
+        "C": "Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi",
+        "D": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 135,
+      "source_number": 135,
+      "source_paragraph": 17111,
+      "text": "20-iyulning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "BMT rezolyutsiyasiga muvofiq qabul qilingan Butunjahon shaxmat kuni",
+        "B": "1283 yilda Yevropada nashr etilgan birinchi shaxmat kitobi",
+        "C": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh",
+        "D": "Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 136,
+      "source_number": 136,
+      "source_paragraph": 17116,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Qiymati 3 ta piyodaga teng, faqat diagonal bo'yicha harakatlanadigan sipoh?",
+      "options": {
+        "A": "Qiymati 3 ta piyodaga teng, faqat diagonal bo'yicha harakatlanadigan sipoh",
+        "B": "Taxtada oz sonli donalar qolganda va shoh faol figuraga aylanganda boshlanadigan yakuniy bosqich",
+        "C": "Shaxmat notatsiyasida qisqa rokirovkaning qabul qilingan ifodalanishi",
+        "D": "1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 137,
+      "source_number": 137,
+      "source_paragraph": 17121,
+      "text": "Qaysi javobda Chiziqli mot tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Yolg'iz shohni ikkita rux bilan taxta chetiga qisib qo'yiladigan mot usuli",
+        "B": "Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida",
+        "C": "O'zbekiston erkaklar shaxmat chempionatida eng ko'p (8 marta) g'olib bo'lgan sportchi",
+        "D": "May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 138,
+      "source_number": 138,
+      "source_paragraph": 17126,
+      "text": "Qaysi javobda + belgisi tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi",
+        "B": "Samarqand shahrida o'tkaziladigan an'anaviy xalqaro shaxmat turniri",
+        "C": "Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin",
+        "D": "Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 139,
+      "source_number": 139,
+      "source_paragraph": 17131,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Oqibatini o'ylamasdan qilingan xatolar tufayli atigi 4 yurishda qo'yiladigan eng tezkor motlardan biri?",
+      "options": {
+        "A": "Oqibatini o'ylamasdan qilingan xatolar tufayli atigi 4 yurishda qo'yiladigan eng tezkor motlardan biri",
+        "B": "O'zbekiston ayollar chempionatida 8 martadan g'oliblikni qo'lga kiritgan sportchi",
+        "C": "Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi",
+        "D": "d4, d5, e4, e5 kataklaridan iborat strategik ahamiyatga ega markaziy hudud"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 140,
+      "source_number": 140,
+      "source_paragraph": 17136,
+      "text": "Qaysi javobda Shoh tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "O'yindagi eng muhim, taxtadan olinmaydigan va qiymatga ega bo'lmagan sipoh",
+        "B": "Shoh kisht ostida bo'lib, himoyalanish yoki qochish imkoni qolmagan mag'lubiyat holati",
+        "C": "Shaxmat taxtasidagi oq va qora kataklarning umumiy soni",
+        "D": "V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 141,
+      "source_number": 141,
+      "source_paragraph": 17141,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim?",
+      "options": {
+        "A": "XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim",
+        "B": "Shaxmat bo'yicha respublika ixtisoslashtirilgan maktabi negizida 2019 yil tashkil etilgan muassasa",
+        "C": "Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi",
+        "D": "Ikki katak siljigan raqib piyodasini xuddi bir katak yurgandek urib olish qoidasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 142,
+      "source_number": 142,
+      "source_paragraph": 17146,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh?",
+      "options": {
+        "A": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh",
+        "B": "Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh",
+        "C": "Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida",
+        "D": "Ikki katak siljigan raqib piyodasini xuddi bir katak yurgandek urib olish qoidasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 143,
+      "source_number": 143,
+      "source_paragraph": 17151,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh?",
+      "options": {
+        "A": "Ot",
+        "B": "0-0",
+        "C": "Alfonso X risolasi",
+        "D": "FIDE"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 144,
+      "source_number": 144,
+      "source_paragraph": 17156,
+      "text": "Qaysi javobda Chaturanga tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin",
+        "B": "IX-XV asrlarda chodir raqamlarining atamalari saqlangan shaxmat turi",
+        "C": "Xalqaro shaxmat federatsiyasi qisqartmasi",
+        "D": "Qiymati 3 ta piyodaga teng, faqat diagonal bo'yicha harakatlanadigan sipoh"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 145,
+      "source_number": 145,
+      "source_paragraph": 17161,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri O'zgarish qoidasini aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi",
+        "B": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh",
+        "C": "Shoh kisht ostida bo'lib, himoyalanish yoki qochish imkoni qolmagan mag'lubiyat holati",
+        "D": "Taxtada oz sonli donalar qolganda va shoh faol figuraga aylanganda boshlanadigan yakuniy bosqich"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 146,
+      "source_number": 146,
+      "source_paragraph": 17166,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Motni aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Shoh kisht ostida bo'lib, himoyalanish yoki qochish imkoni qolmagan mag'lubiyat holati",
+        "B": "Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi",
+        "C": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh",
+        "D": "Shohning farzin yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 147,
+      "source_number": 147,
+      "source_paragraph": 17171,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: Samarqand shahrida o'tkaziladigan an'anaviy xalqaro shaxmat turniri?",
+      "options": {
+        "A": "Sohibqiron kubogi",
+        "B": "Debyut",
+        "C": "Ibrohim Hamroqulov",
+        "D": "Mahalla kubogi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 148,
+      "source_number": 148,
+      "source_paragraph": 17176,
+      "text": "Qaysi javobda Debyut tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Shaxmat partiyasining markaz uchun kurash olib boriladigan dastlabki 10-15 yurishi",
+        "B": "Yolg'iz shohni ikkita rux bilan taxta chetiga qisib qo'yiladigan mot usuli",
+        "C": "c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon",
+        "D": "Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 149,
+      "source_number": 149,
+      "source_paragraph": 17181,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri # belgisini aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Shaxmat notatsiyasida raqib shohiga mot e'lon qilinganligini bildiruvchi yozuv belgisi",
+        "B": "Yolg'iz shohni ikkita rux bilan taxta chetiga qisib qo'yiladigan mot usuli",
+        "C": "Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida",
+        "D": "Shaxmat taxtasidagi oq va qora kataklarning umumiy soni"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 150,
+      "source_number": 150,
+      "source_paragraph": 17186,
+      "text": "Qaysi javobda Alfonso X risolasi tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "1283 yilda Yevropada nashr etilgan birinchi shaxmat kitobi",
+        "B": "d4, d5, e4, e5 kataklaridan iborat strategik ahamiyatga ega markaziy hudud",
+        "C": "Qiymati 9 ta piyodaga teng bo'lgan va eng kuchli hisoblangan sipoh",
+        "D": "May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 151,
+      "source_number": 151,
+      "source_paragraph": 17191,
+      "text": "Qaysi javobda Ashtapada tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Qadimgi Hindistonda 64 katakli shaxmat taxtasining nomlanishi",
+        "B": "V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin",
+        "C": "G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi",
+        "D": "O'yindagi eng muhim, taxtadan olinmaydigan va qiymatga ega bo'lmagan sipoh"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 152,
+      "source_number": 152,
+      "source_paragraph": 17196,
+      "text": "0-0ning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "Shaxmat notatsiyasida qisqa rokirovkaning qabul qilingan ifodalanishi",
+        "B": "Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi",
+        "C": "Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa",
+        "D": "Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 153,
+      "source_number": 153,
+      "source_paragraph": 17201,
+      "text": "Qaysi javobda Farzin tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Qiymati 9 ta piyodaga teng bo'lgan va eng kuchli hisoblangan sipoh",
+        "B": "Xiva shahrida tashkil etiladigan an'anaviy shaxmat turniri",
+        "C": "Shaxmat notatsiyasida qisqa rokirovkaning qabul qilingan ifodalanishi",
+        "D": "O'yindagi eng muhim, taxtadan olinmaydigan va qiymatga ega bo'lmagan sipoh"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 154,
+      "source_number": 154,
+      "source_paragraph": 17206,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati?",
+      "options": {
+        "A": "Qisqa rokirovka",
+        "B": "Farzin",
+        "C": "Mittelshpil",
+        "D": "20-iyul"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 155,
+      "source_number": 155,
+      "source_paragraph": 17211,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon?",
+      "options": {
+        "A": "Katta markaz",
+        "B": "Ashtapada",
+        "C": "Shatranj",
+        "D": "Qisqa rokirovka"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 156,
+      "source_number": 156,
+      "source_paragraph": 17216,
+      "text": "Qaysi javobda L. Pinchuk tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "O'zbekiston ayollar chempionatida 8 martadan g'oliblikni qo'lga kiritgan sportchi",
+        "B": "Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi",
+        "C": "Oqibatini o'ylamasdan qilingan xatolar tufayli atigi 4 yurishda qo'yiladigan eng tezkor motlardan biri",
+        "D": "1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 157,
+      "source_number": 157,
+      "source_paragraph": 17221,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Shaxmat notatsiyasida raqib donasini urib olishni (yeyishni) anglatuvchi belgi?",
+      "options": {
+        "A": "Shaxmat notatsiyasida raqib donasini urib olishni (yeyishni) anglatuvchi belgi",
+        "B": "Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi",
+        "C": "May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri",
+        "D": "Qadimgi Hindistonda 64 katakli shaxmat taxtasining nomlanishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 158,
+      "source_number": 158,
+      "source_paragraph": 17226,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: 1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi?",
+      "options": {
+        "A": "1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi",
+        "B": "Shoh kisht ostida bo'lmagan, lekin o'yinchida qonuniy yurish imkoniyati yo'q bo'lgan durang holat",
+        "C": "May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri",
+        "D": "Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 159,
+      "source_number": 159,
+      "source_paragraph": 17231,
+      "text": "Qaysi javobda Kesib olish (En passant) tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Ikki katak siljigan raqib piyodasini xuddi bir katak yurgandek urib olish qoidasi",
+        "B": "Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin",
+        "C": "IX-XV asrlarda chodir raqamlarining atamalari saqlangan shaxmat turi",
+        "D": "Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 160,
+      "source_number": 160,
+      "source_paragraph": 17236,
+      "text": "Qaysi javobda Ibrohim Hamroqulov tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "1998 yilda o'smirlar o'rtasida jahon chempionligini qo'lga kiritgan shaxmatchi",
+        "B": "V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin",
+        "C": "Qiymati 9 ta piyodaga teng bo'lgan va eng kuchli hisoblangan sipoh",
+        "D": "Shaxmat notatsiyasida qisqa rokirovkaning qabul qilingan ifodalanishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 161,
+      "source_number": 161,
+      "source_paragraph": 17241,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Oq burchak qoidasini aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida",
+        "B": "G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi",
+        "C": "Qiymati 9 ta piyodaga teng bo'lgan va eng kuchli hisoblangan sipoh",
+        "D": "Xiva shahrida tashkil etiladigan an'anaviy shaxmat turniri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 162,
+      "source_number": 162,
+      "source_paragraph": 17246,
+      "text": "Qaysi javobda Kichik markaz tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "d4, d5, e4, e5 kataklaridan iborat strategik ahamiyatga ega markaziy hudud",
+        "B": "V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin",
+        "C": "Taxtada oz sonli donalar qolganda va shoh faol figuraga aylanganda boshlanadigan yakuniy bosqich",
+        "D": "1998 yilda o'smirlar o'rtasida jahon chempionligini qo'lga kiritgan shaxmatchi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 163,
+      "source_number": 163,
+      "source_paragraph": 17251,
+      "text": "Qaysi javobda A. Grushevskiy tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "O'zbekiston erkaklar shaxmat chempionatida eng ko'p (8 marta) g'olib bo'lgan sportchi",
+        "B": "BMT rezolyutsiyasiga muvofiq qabul qilingan Butunjahon shaxmat kuni",
+        "C": "Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh",
+        "D": "Taxtada oz sonli donalar qolganda va shoh faol figuraga aylanganda boshlanadigan yakuniy bosqich"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 164,
+      "source_number": 164,
+      "source_paragraph": 17256,
+      "text": "Shatranjning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin",
+        "B": "IX-XV asrlarda chodir raqamlarining atamalari saqlangan shaxmat turi",
+        "C": "BMT rezolyutsiyasiga muvofiq qabul qilingan Butunjahon shaxmat kuni",
+        "D": "XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 165,
+      "source_number": 165,
+      "source_paragraph": 17261,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: 2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeyster?",
+      "options": {
+        "A": "2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeyster",
+        "B": "XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim",
+        "C": "Qadimgi Hindistonda 64 katakli shaxmat taxtasining nomlanishi",
+        "D": "Shaxmat partiyasining markaz uchun kurash olib boriladigan dastlabki 10-15 yurishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 166,
+      "source_number": 166,
+      "source_paragraph": 17266,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: Shoh kisht ostida bo'lmagan, lekin o'yinchida qonuniy yurish imkoniyati yo'q bo'lgan durang holat?",
+      "options": {
+        "A": "Pot",
+        "B": "Mittelshpil",
+        "C": "Alfonso X risolasi",
+        "D": "Debyut"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 167,
+      "source_number": 167,
+      "source_paragraph": 17271,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi?",
+      "options": {
+        "A": "Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi",
+        "B": "Yolg'iz shohni ikkita rux bilan taxta chetiga qisib qo'yiladigan mot usuli",
+        "C": "Shaxmat notatsiyasida qisqa rokirovkaning qabul qilingan ifodalanishi",
+        "D": "Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 168,
+      "source_number": 168,
+      "source_paragraph": 17276,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Endshpilni aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Taxtada oz sonli donalar qolganda va shoh faol figuraga aylanganda boshlanadigan yakuniy bosqich",
+        "B": "Shohning farzin yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "C": "Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi",
+        "D": "Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 169,
+      "source_number": 169,
+      "source_paragraph": 17281,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi?",
+      "options": {
+        "A": "Shatranj qoidasi",
+        "B": "Farzin",
+        "C": "64 ta",
+        "D": "Oq burchak qoidasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 170,
+      "source_number": 170,
+      "source_paragraph": 17286,
+      "text": "Qaysi javobda Xalqaro shaxmat akademiyasi tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Shaxmat bo'yicha respublika ixtisoslashtirilgan maktabi negizida 2019 yil tashkil etilgan muassasa",
+        "B": "Yolg'iz shohni ikkita rux bilan taxta chetiga qisib qo'yiladigan mot usuli",
+        "C": "Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh",
+        "D": "Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 171,
+      "source_number": 171,
+      "source_paragraph": 17291,
+      "text": "Tentranjaning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "IX-XV asrlarda chodir raqamlarining atamalari saqlangan shaxmat turi",
+        "B": "1998 yilda o'smirlar o'rtasida jahon chempionligini qo'lga kiritgan shaxmatchi",
+        "C": "Shoh kisht ostida bo'lib, himoyalanish yoki qochish imkoni qolmagan mag'lubiyat holati",
+        "D": "G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 172,
+      "source_number": 172,
+      "source_paragraph": 17296,
+      "text": "Qaysi javobda FIDE tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Xalqaro shaxmat federatsiyasi qisqartmasi",
+        "B": "Qadimgi Hindistonda 64 katakli shaxmat taxtasining nomlanishi",
+        "C": "Shoh kisht ostida bo'lmagan, lekin o'yinchida qonuniy yurish imkoniyati yo'q bo'lgan durang holat",
+        "D": "XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 173,
+      "source_number": 173,
+      "source_paragraph": 17301,
+      "text": "Shaxmatchi oilaning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri",
+        "B": "Shohning farzin yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "C": "Samarqand shahrida o'tkaziladigan an'anaviy xalqaro shaxmat turniri",
+        "D": "Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 174,
+      "source_number": 174,
+      "source_paragraph": 17306,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Al-Beruniy xalqaro turnirini aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Xiva shahrida tashkil etiladigan an'anaviy shaxmat turniri",
+        "B": "XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim",
+        "C": "Shaxmat taxtasidagi oq va qora kataklarning umumiy soni",
+        "D": "May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 175,
+      "source_number": 175,
+      "source_paragraph": 17311,
+      "text": "Mittelshpilning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi",
+        "B": "Qiymati 3 ta piyodaga teng, faqat diagonal bo'yicha harakatlanadigan sipoh",
+        "C": "d4, d5, e4, e5 kataklaridan iborat strategik ahamiyatga ega markaziy hudud",
+        "D": "Yolg'iz shohni ikkita rux bilan taxta chetiga qisib qo'yiladigan mot usuli"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 176,
+      "source_number": 176,
+      "source_paragraph": 17316,
+      "text": "64 taning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "Shaxmat taxtasidagi oq va qora kataklarning umumiy soni",
+        "B": "Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi",
+        "C": "c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon",
+        "D": "O'zbekiston ayollar chempionatida 8 martadan g'oliblikni qo'lga kiritgan sportchi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 177,
+      "source_number": 177,
+      "source_paragraph": 17321,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: Shaxmat notatsiyasida raqib donasini urib olishni (yeyishni) anglatuvchi belgi?",
+      "options": {
+        "A": "x belgisi",
+        "B": "Kichik markaz",
+        "C": "# belgisi",
+        "D": "FIDE"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 178,
+      "source_number": 178,
+      "source_paragraph": 17326,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Filni aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Qiymati 3 ta piyodaga teng, faqat diagonal bo'yicha harakatlanadigan sipoh",
+        "B": "Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida",
+        "C": "Taxtada oz sonli donalar qolganda va shoh faol figuraga aylanganda boshlanadigan yakuniy bosqich",
+        "D": "XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 179,
+      "source_number": 179,
+      "source_paragraph": 17331,
+      "text": "Chaturanganing shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "Hindistonda paydo bo'lgan 4 kishilik harbiy-ramziy o'yin",
+        "B": "Shohning farzin yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "C": "d4, d5, e4, e5 kataklaridan iborat strategik ahamiyatga ega markaziy hudud",
+        "D": "Xiva shahrida tashkil etiladigan an'anaviy shaxmat turniri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 180,
+      "source_number": 180,
+      "source_paragraph": 17336,
+      "text": "Qaysi javobda Al-Beruniy xalqaro turniri tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "Xiva shahrida tashkil etiladigan an'anaviy shaxmat turniri",
+        "B": "Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "C": "Shaxmat taxtasidagi oq va qora kataklarning umumiy soni",
+        "D": "Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 181,
+      "source_number": 181,
+      "source_paragraph": 17341,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi?",
+      "options": {
+        "A": "O'zgarish qoidasi",
+        "B": "Tentranja",
+        "C": "Pot",
+        "D": "Oq burchak qoidasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 182,
+      "source_number": 182,
+      "source_paragraph": 17346,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri + belgisini aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi",
+        "B": "Shaxmat notatsiyasida raqib donasini urib olishni (yeyishni) anglatuvchi belgi",
+        "C": "1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi",
+        "D": "2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeyster"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 183,
+      "source_number": 183,
+      "source_paragraph": 17351,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: c3, c4, c5, c6, d3, d4, d5, d6, e3, e4, e5, e6, f3, f4, f5, f6 kataklaridan iborat maydon?",
+      "options": {
+        "A": "Katta markaz",
+        "B": "Sohibqiron kubogi",
+        "C": "Debyut",
+        "D": "Shatranj qoidasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 184,
+      "source_number": 184,
+      "source_paragraph": 17356,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: IX-XV asrlarda chodir raqamlarining atamalari saqlangan shaxmat turi?",
+      "options": {
+        "A": "Tentranja",
+        "B": "O'zgarish qoidasi",
+        "C": "Ibrohim Hamroqulov",
+        "D": "Katta markaz"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 185,
+      "source_number": 185,
+      "source_paragraph": 17361,
+      "text": "Shatranjning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "V asr oxiri - VII asr boshlarida O'rta Osiyoda vujudga kelgan 2 kishilik o'yin",
+        "B": "2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeyster",
+        "C": "Shaxmat partiyasining markaz uchun kurash olib boriladigan dastlabki 10-15 yurishi",
+        "D": "1998 yilda o'smirlar o'rtasida jahon chempionligini qo'lga kiritgan shaxmatchi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 186,
+      "source_number": 186,
+      "source_paragraph": 17366,
+      "text": "Qaysi javobda Rustam Qosimjonov tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeyster",
+        "B": "Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida",
+        "C": "BMT rezolyutsiyasiga muvofiq qabul qilingan Butunjahon shaxmat kuni",
+        "D": "Shaxmat notatsiyasida shohga kisht (hujum) qilinganini bildiruvchi belgi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 187,
+      "source_number": 187,
+      "source_paragraph": 17371,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh?",
+      "options": {
+        "A": "Qiymati 5 ta piyodaga teng, faqat to'g'ri chiziq bo'ylab harakatlanadigan sipoh",
+        "B": "Qiymati 3 ta piyodaga teng, faqat diagonal bo'yicha harakatlanadigan sipoh",
+        "C": "Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "D": "Shoh kisht ostida bo'lmagan, lekin o'yinchida qonuniy yurish imkoniyati yo'q bo'lgan durang holat"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 188,
+      "source_number": 188,
+      "source_paragraph": 17376,
+      "text": "Chiziqli motning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "Yolg'iz shohni ikkita rux bilan taxta chetiga qisib qo'yiladigan mot usuli",
+        "B": "BMT rezolyutsiyasiga muvofiq qabul qilingan Butunjahon shaxmat kuni",
+        "C": "Oxirgi gorizontalga yetgan piyodaning o'z rangidagi istalgan sipohga (shohdan tashqari) aylanishi",
+        "D": "Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 189,
+      "source_number": 189,
+      "source_paragraph": 17381,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Oq burchak qoidasini aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida",
+        "B": "Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa",
+        "C": "Qiymati 9 ta piyodaga teng bo'lgan va eng kuchli hisoblangan sipoh",
+        "D": "O'zbekiston ayollar chempionatida 8 martadan g'oliblikni qo'lga kiritgan sportchi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 190,
+      "source_number": 190,
+      "source_paragraph": 17386,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: O'yindagi eng muhim, taxtadan olinmaydigan va qiymatga ega bo'lmagan sipoh?",
+      "options": {
+        "A": "O'yindagi eng muhim, taxtadan olinmaydigan va qiymatga ega bo'lmagan sipoh",
+        "B": "Taxtani joylashtirishda har bir o'yinchining o'ng burchak katagi oq rangda bo'lishini talab etuvchi qoida",
+        "C": "1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi",
+        "D": "Shoh kisht ostida bo'lib, himoyalanish yoki qochish imkoni qolmagan mag'lubiyat holati"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 191,
+      "source_number": 191,
+      "source_paragraph": 17391,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: Shaxmat taxtasidagi oq va qora kataklarning umumiy soni?",
+      "options": {
+        "A": "64 ta",
+        "B": "L. Pinchuk",
+        "C": "Farzin",
+        "D": "Ibrohim Hamroqulov"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 192,
+      "source_number": 192,
+      "source_paragraph": 17396,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi?",
+      "options": {
+        "A": "Mittelshpil",
+        "B": "Farzin",
+        "C": "Gipermodernizm",
+        "D": "Chiziqli mot"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 193,
+      "source_number": 193,
+      "source_paragraph": 17401,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Uzun rokirovkani aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "Shohning farzin yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "B": "BMT rezolyutsiyasiga muvofiq qabul qilingan Butunjahon shaxmat kuni",
+        "C": "IX-XV asrlarda chodir raqamlarining atamalari saqlangan shaxmat turi",
+        "D": "Ochiq chiziqlar uchun kurash va taktik kombinatsiyalar amalga oshiriladigan o'yinning o'rta qismi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 194,
+      "source_number": 194,
+      "source_paragraph": 17406,
+      "text": "Potning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "Shoh kisht ostida bo'lmagan, lekin o'yinchida qonuniy yurish imkoniyati yo'q bo'lgan durang holat",
+        "B": "Ikki katak siljigan raqib piyodasini xuddi bir katak yurgandek urib olish qoidasi",
+        "C": "Xalqaro shaxmat federatsiyasi qisqartmasi",
+        "D": "Iyun-avgust oylari davomida mahalla bolalari o'rtasida o'tkaziladigan musobaqa"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 195,
+      "source_number": 195,
+      "source_paragraph": 17411,
+      "text": "Qaysi javobda Georgiy A'zamov tushunchasining aniq ilmiy-nazariy ta'rifi keltirilgan?",
+      "options": {
+        "A": "1984 yilda xalqaro grossmeyster unvonini olgan birinchi o'zbekistonlik shaxmarchi",
+        "B": "Qiymati 3 ta piyodaga teng, faqat diagonal bo'yicha harakatlanadigan sipoh",
+        "C": "Shoh kisht ostida bo'lmagan, lekin o'yinchida qonuniy yurish imkoniyati yo'q bo'lgan durang holat",
+        "D": "Qiymati 3 ta piyodaga teng, boshqa donalar ustidan sakray oladigan yagona sipoh"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 196,
+      "source_number": 196,
+      "source_paragraph": 17416,
+      "text": "Quyida keltirilgan fikrlardan qaysi biri Shatranj qoidasini aniq va xatosiz ifodalaydi?",
+      "options": {
+        "A": "G'alaba barcha donalarni yo'q qilgani uchun emas, balki faqat raqib shohini mot qilgani uchun berilishi",
+        "B": "1283 yilda Yevropada nashr etilgan birinchi shaxmat kitobi",
+        "C": "Shohning o'z yonidagi rux tomon ikki katak siljib bajariladigan xavfsizlik harakati",
+        "D": "May-iyul oylari davomida oilalar o'rtasida o'tkaziladigan shaxmat turniri"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 197,
+      "source_number": 197,
+      "source_paragraph": 17421,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: Oqibatini o'ylamasdan qilingan xatolar tufayli atigi 4 yurishda qo'yiladigan eng tezkor motlardan biri?",
+      "options": {
+        "A": "Bolalarga xos mot",
+        "B": "20-iyul",
+        "C": "Chiziqli mot",
+        "D": "Alfonso X risolasi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 198,
+      "source_number": 198,
+      "source_paragraph": 17426,
+      "text": "Shaxmat atamalari va qoidalarida quyidagi ta'rif aynan nimani anglatadi: 1283 yilda Yevropada nashr etilgan birinchi shaxmat kitobi?",
+      "options": {
+        "A": "1283 yilda Yevropada nashr etilgan birinchi shaxmat kitobi",
+        "B": "Shaxmat notatsiyasida uzun rokirovkaning qabul qilingan ifodalanishi",
+        "C": "Shaxmat notatsiyasida raqib shohiga mot e'lon qilinganligini bildiruvchi yozuv belgisi",
+        "D": "IX-XV asrlarda chodir raqamlarining atamalari saqlangan shaxmat turi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 199,
+      "source_number": 199,
+      "source_paragraph": 17431,
+      "text": "Gipermodernizmning shaxmat partiyasidagi asosiy mohiyati yoki vazifasi nimadan iborat?",
+      "options": {
+        "A": "XX asrda markazni piyodalar o'rniga donalar bilan nazorat qilishni yoqlagan oqim",
+        "B": "2004 yilda shaxmat bo'yicha jahonning 17-chempioni bo'lgan grossmeyster",
+        "C": "Shaxmat notatsiyasida qisqa rokirovkaning qabul qilingan ifodalanishi",
+        "D": "1998 yilda o'smirlar o'rtasida jahon chempionligini qo'lga kiritgan shaxmatchi"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    },
+    {
+      "id": 200,
+      "source_number": 200,
+      "source_paragraph": 17436,
+      "text": "O'quv qo'llanmasiga ko'ra, ushbu holat yoxud tarixiy jarayonning nomi nima: O'zbekiston erkaklar shaxmat chempionatida eng ko'p (8 marta) g'olib bo'lgan sportchi?",
+      "options": {
+        "A": "A. Grushevskiy",
+        "B": "Endshpil",
+        "C": "Ibrohim Hamroqulov",
+        "D": "Mot"
+      },
+      "correct_answer": "A",
+      "answer_source": "document_declared_A"
+    }
+  ]
+}
