@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from flask import Flask, jsonify, render_template, request
+from flask import Flask, abort, jsonify, render_template, request
 
 from quiz import grade, load_tests
 
@@ -8,6 +8,40 @@ BASE = Path(__file__).resolve().parent
 app = Flask(__name__)
 app.config["TEMPLATES_AUTO_RELOAD"] = False
 app.config["MAX_CONTENT_LENGTH"] = 64 * 1024
+app.config["ERROR_PREVIEWS"] = False
+
+
+def error_response(code):
+    messages = {
+        400: ("Сўров нотўғри", "Сўровни текшириб, қайта уриниб кўринг."),
+        404: ("Саҳифа топилмади", "Манзил ўзгарган ёки бундай саҳифа мавжуд эмас."),
+        405: ("Сўровга рухсат берилмаган", "Бу манзилда ушбу амални бажариб бўлмайди."),
+        413: ("Сўров ҳажми жуда катта", "Кичикроқ ҳажмдаги маълумот билан қайта уриниб кўринг."),
+        500: ("Серверда хатолик", "Бироздан сўнг қайта уриниб кўринг."),
+    }
+    title, message = messages[code]
+    if request.path.startswith("/api/"):
+        return jsonify(error=title), code
+    version = (BASE / "static" / "style.css").stat().st_mtime_ns
+    return render_template("error.html", code=code, title=title, message=message, asset_version=version), code
+
+
+def handle_error(error):
+    response = app.make_response(error_response(error.code))
+    if error.code == 405:
+        response.headers["Allow"] = ", ".join(error.valid_methods or [])
+    return response
+
+
+for error_code in (400, 404, 405, 500):
+    app.register_error_handler(error_code, handle_error)
+
+
+@app.get("/preview/errors/<int:code>")
+def preview_error(code):
+    if not app.config["ERROR_PREVIEWS"] or code not in (400, 404, 405, 413, 500):
+        abort(404)
+    return error_response(code)
 TESTS = load_tests(BASE / "data")
 QUESTION_INDEX = {key: {q["id"]: q for q in test["questions"]} for key, test in TESTS.items()}
 PUBLIC_QUESTIONS = {key: [{k: q[k] for k in ("id", "text", "options")} for q in test["questions"]] for key, test in TESTS.items()}
@@ -26,7 +60,7 @@ def response_headers(response):
 
 @app.errorhandler(413)
 def request_too_large(error):
-    return jsonify(error="Сўров ҳажми жуда катта"), 413
+    return error_response(413)
 
 
 @app.get("/")
@@ -95,4 +129,5 @@ def submit(test_id):
 
 
 if __name__ == "__main__":
+    app.config["ERROR_PREVIEWS"] = True
     app.run(host="127.0.0.1", port=5000, debug=False)

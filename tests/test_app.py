@@ -38,6 +38,25 @@ class QuizChecks(unittest.TestCase):
         self.assertEqual(response.status_code, 200)
         self.assertEqual(response.get_json(), {"status": "ok"})
 
+    def test_full_answers_fit_request_limit(self):
+        for key, test in TESTS.items():
+            answers = {str(q["id"]): q["correct_answer"] for q in test["questions"]}
+            body = json.dumps({"answers": answers}, separators=(",", ":")).encode()
+            self.assertLess(len(body), app.config["MAX_CONTENT_LENGTH"] // 4)
+            self.assertEqual(self.client.post(f"/api/tests/{key}/submit", data=body, content_type="application/json").status_code, 200)
+
+    def test_error_pages_and_method_headers(self):
+        self.assertEqual(self.client.get('/missing').status_code, 404)
+        response = self.client.post('/')
+        self.assertEqual(response.status_code, 405)
+        self.assertIn('GET', response.headers['Allow'])
+        self.assertIn('href="/"', response.get_data(as_text=True))
+        response = self.client.post('/api/tests')
+        self.assertEqual(response.status_code, 405)
+        self.assertTrue(response.is_json)
+        self.assertIn('GET', response.headers['Allow'])
+        self.assertEqual(self.client.get('/preview/errors/500').status_code, 404)
+
     def test_training_checks(self):
         url = f"/api/tests/{self.key}/check"
         for choice in "ABCD":

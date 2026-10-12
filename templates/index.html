@@ -3,16 +3,18 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Машқ — тестлар</title>
+  <title>Дене-тарбия тестлары</title>
   <link rel="stylesheet" href="/static/style.css?v={{ asset_version }}">
   <script src="/static/app.js?v={{ asset_version }}" defer></script>
 </head>
 <body>
-  <header class="brand">Мактаб тестлари</header>
+  <header class="brand">
+    <span class="brand-title">Дене-тарбия тестлары</span>
+    <span class="brand-author">Балтабаева Асаль Максетовна</span>
+  </header>
   <main>
     <section id="catalog">
-      <h1>Тестлар</h1>
-      <p class="catalog-intro">Мавзуни танла. Билимингни сина.</p>
+      <div class="catalog-heading"><h1>Мавзуни танланг</h1><p class="catalog-intro">Ўз суръатингизда машқ қилинг ва билимингизни мустаҳкамланг.</p></div>
       <div id="test-list"></div>
     </section>
     <section id="quiz" hidden>
@@ -37,6 +39,7 @@
       <details class="review"><summary>Жавоблар таҳлили <span class="review-hint">Биринчи жавобларингни кўр</span></summary><div id="review-list"></div></details>
     </section>
     <p id="global-message" class="message" role="status"></p>
+    <button id="catalog-retry" class="secondary" hidden>Қайта юклаш</button>
   </main>
   <dialog id="app-modal" aria-labelledby="modal-title" aria-describedby="modal-description">
     <h2 id="modal-title">Тестдан чиқасизми?</h2>
